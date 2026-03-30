@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tower-calculator
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# TheTowerCalculator
+>>>>>>> f11385fb100ac19af9812d5d5ce729bfd5a03d14
