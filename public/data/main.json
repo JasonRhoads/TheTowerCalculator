@@ -1,0 +1,5110 @@
+{
+  "id": "main",
+  "name": "Main",
+  "labs": [
+    {
+      "id": "buy-multiplier",
+      "name": "Buy Multiplier",
+      "maxLevel": 4,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 2 wave 20. Has 4 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 2500,
+          "timeMinutes": 59,
+          "timeDisplay": "0d 0h 59m",
+          "value": "5"
+        },
+        {
+          "level": 2,
+          "cost": 10000,
+          "timeMinutes": 333,
+          "timeDisplay": "0d 5h 33m",
+          "value": "10"
+        },
+        {
+          "level": 3,
+          "cost": 50000,
+          "timeMinutes": 1666,
+          "timeDisplay": "1d 3h 46m",
+          "value": "Max"
+        },
+        {
+          "level": 4,
+          "cost": 500000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "id": "card-presets",
+      "name": "Card Presets",
+      "maxLevel": 1,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 1 wave 400. Has 1 level.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 350000,
+          "timeMinutes": 833,
+          "timeDisplay": "0d 13h 53m",
+          "value": "Unlocked"
+        }
+      ]
+    },
+    {
+      "id": "enhancement-coin-discount",
+      "name": "Enhancement Coin Discount",
+      "maxLevel": 100,
+      "unlock": "Unlocked on Tier 21 wave 60. This lab is the same values for each of the 3 independent labs for Attack, Defense, and Utility. Has 100 Levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1000000000,
+          "timeMinutes": 1555,
+          "timeDisplay": "1d 1h 55m",
+          "value": "0.30%"
+        },
+        {
+          "level": 2,
+          "cost": 1300000000,
+          "timeMinutes": 3110,
+          "timeDisplay": "2d 3h 50m",
+          "value": "0.60%"
+        },
+        {
+          "level": 3,
+          "cost": 1690000000,
+          "timeMinutes": 4665,
+          "timeDisplay": "3d 5h 45m",
+          "value": "0.90%"
+        },
+        {
+          "level": 4,
+          "cost": 2200000000,
+          "timeMinutes": 6220,
+          "timeDisplay": "4d 7h 40m",
+          "value": "1.20%"
+        },
+        {
+          "level": 5,
+          "cost": 2860000000,
+          "timeMinutes": 7775,
+          "timeDisplay": "5d 9h 35m",
+          "value": "1.50%"
+        },
+        {
+          "level": 6,
+          "cost": 3710000000,
+          "timeMinutes": 9330,
+          "timeDisplay": "6d 11h 30m",
+          "value": "1.80%"
+        },
+        {
+          "level": 7,
+          "cost": 4830000000,
+          "timeMinutes": 10885,
+          "timeDisplay": "7d 13h 25m",
+          "value": "2.10%"
+        },
+        {
+          "level": 8,
+          "cost": 6270000000,
+          "timeMinutes": 12441,
+          "timeDisplay": "8d 15h 21m",
+          "value": "2.40%"
+        },
+        {
+          "level": 9,
+          "cost": 8160000000,
+          "timeMinutes": 13996,
+          "timeDisplay": "9d 17h 16m",
+          "value": "2.70%"
+        },
+        {
+          "level": 10,
+          "cost": 10600000000,
+          "timeMinutes": 15551,
+          "timeDisplay": "10d 19h 11m",
+          "value": "3.00%"
+        },
+        {
+          "level": 11,
+          "cost": 13790000000,
+          "timeMinutes": 17106,
+          "timeDisplay": "11d 21h 6m",
+          "value": "3.30%"
+        },
+        {
+          "level": 12,
+          "cost": 17920000000,
+          "timeMinutes": 18661,
+          "timeDisplay": "12d 23h 1m",
+          "value": "3.60%"
+        },
+        {
+          "level": 13,
+          "cost": 23300000000,
+          "timeMinutes": 20216,
+          "timeDisplay": "14d 0h 56m",
+          "value": "3.90%"
+        },
+        {
+          "level": 14,
+          "cost": 30290000000,
+          "timeMinutes": 21771,
+          "timeDisplay": "15d 2h 51m",
+          "value": "4.20%"
+        },
+        {
+          "level": 15,
+          "cost": 39370000000,
+          "timeMinutes": 23326,
+          "timeDisplay": "16d 4h 46m",
+          "value": "4.50%"
+        },
+        {
+          "level": 16,
+          "cost": 51190000000,
+          "timeMinutes": 24882,
+          "timeDisplay": "17d 6h 42m",
+          "value": "4.80%"
+        },
+        {
+          "level": 17,
+          "cost": 66540000000,
+          "timeMinutes": 26437,
+          "timeDisplay": "18d 8h 37m",
+          "value": "5.10%"
+        },
+        {
+          "level": 18,
+          "cost": 86500000000,
+          "timeMinutes": 27992,
+          "timeDisplay": "19d 10h 32m",
+          "value": "5.40%"
+        },
+        {
+          "level": 19,
+          "cost": 112460000000,
+          "timeMinutes": 29547,
+          "timeDisplay": "20d 12h 27m",
+          "value": "5.70%"
+        },
+        {
+          "level": 20,
+          "cost": 146190000000,
+          "timeMinutes": 31102,
+          "timeDisplay": "21d 14h 22m",
+          "value": "6.00%"
+        },
+        {
+          "level": 21,
+          "cost": 190050000000,
+          "timeMinutes": 32657,
+          "timeDisplay": "22d 16h 17m",
+          "value": "6.30%"
+        },
+        {
+          "level": 22,
+          "cost": 247060000000,
+          "timeMinutes": 34212,
+          "timeDisplay": "23d 18h 12m",
+          "value": "6.60%"
+        },
+        {
+          "level": 23,
+          "cost": 321180000000,
+          "timeMinutes": 35768,
+          "timeDisplay": "24d 20h 8m",
+          "value": "6.90%"
+        },
+        {
+          "level": 24,
+          "cost": 417540000000,
+          "timeMinutes": 37323,
+          "timeDisplay": "25d 22h 3m",
+          "value": "7.20%"
+        },
+        {
+          "level": 25,
+          "cost": 542800000000,
+          "timeMinutes": 38878,
+          "timeDisplay": "26d 23h 58m",
+          "value": "7.50%"
+        },
+        {
+          "level": 26,
+          "cost": 705640000000,
+          "timeMinutes": 40433,
+          "timeDisplay": "28d 1h 53m",
+          "value": "7.80%"
+        },
+        {
+          "level": 27,
+          "cost": 917330000000,
+          "timeMinutes": 41988,
+          "timeDisplay": "29d 3h 48m",
+          "value": "8.10%"
+        },
+        {
+          "level": 28,
+          "cost": 1190000000000,
+          "timeMinutes": 43543,
+          "timeDisplay": "30d 5h 43m",
+          "value": "8.40%"
+        },
+        {
+          "level": 29,
+          "cost": 1550000000000,
+          "timeMinutes": 45098,
+          "timeDisplay": "31d 7h 38m",
+          "value": "8.70%"
+        },
+        {
+          "level": 30,
+          "cost": 2020000000000,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "9.00%"
+        },
+        {
+          "level": 31,
+          "cost": 2620000000000,
+          "timeMinutes": 48209,
+          "timeDisplay": "33d 11h 29m",
+          "value": "9.30%"
+        },
+        {
+          "level": 32,
+          "cost": 3410000000000,
+          "timeMinutes": 49764,
+          "timeDisplay": "34d 13h 24m",
+          "value": "9.60%"
+        },
+        {
+          "level": 33,
+          "cost": 4430000000000,
+          "timeMinutes": 51319,
+          "timeDisplay": "35d 15h 19m",
+          "value": "9.90%"
+        },
+        {
+          "level": 34,
+          "cost": 5760000000000,
+          "timeMinutes": 52874,
+          "timeDisplay": "36d 17h 14m",
+          "value": "10.20%"
+        },
+        {
+          "level": 35,
+          "cost": 7480000000000,
+          "timeMinutes": 54429,
+          "timeDisplay": "37d 19h 9m",
+          "value": "10.50%"
+        },
+        {
+          "level": 36,
+          "cost": 9730000000000,
+          "timeMinutes": 55984,
+          "timeDisplay": "38d 21h 4m",
+          "value": "10.80%"
+        },
+        {
+          "level": 37,
+          "cost": 12650000000000,
+          "timeMinutes": 57539,
+          "timeDisplay": "39d 22h 59m",
+          "value": "11.10%"
+        },
+        {
+          "level": 38,
+          "cost": 16440000000000,
+          "timeMinutes": 59094,
+          "timeDisplay": "41d 0h 54m",
+          "value": "11.40%"
+        },
+        {
+          "level": 39,
+          "cost": 21370000000000,
+          "timeMinutes": 60650,
+          "timeDisplay": "42d 2h 50m",
+          "value": "11.70%"
+        },
+        {
+          "level": 40,
+          "cost": 27780000000000,
+          "timeMinutes": 62205,
+          "timeDisplay": "43d 4h 45m",
+          "value": "12.00%"
+        },
+        {
+          "level": 41,
+          "cost": 36120000000000,
+          "timeMinutes": 63760,
+          "timeDisplay": "44d 6h 40m",
+          "value": "12.30%"
+        },
+        {
+          "level": 42,
+          "cost": 46950000000000,
+          "timeMinutes": 65315,
+          "timeDisplay": "45d 8h 35m",
+          "value": "12.60%"
+        },
+        {
+          "level": 43,
+          "cost": 61040000000000,
+          "timeMinutes": 66870,
+          "timeDisplay": "46d 10h 30m",
+          "value": "12.90%"
+        },
+        {
+          "level": 44,
+          "cost": 79350000000000,
+          "timeMinutes": 68425,
+          "timeDisplay": "47d 12h 25m",
+          "value": "13.20%"
+        },
+        {
+          "level": 45,
+          "cost": 103160000000000,
+          "timeMinutes": 69980,
+          "timeDisplay": "48d 14h 20m",
+          "value": "13.50%"
+        },
+        {
+          "level": 46,
+          "cost": 134110000000000,
+          "timeMinutes": 71536,
+          "timeDisplay": "49d 16h 16m",
+          "value": "13.80%"
+        },
+        {
+          "level": 47,
+          "cost": 174340000000000,
+          "timeMinutes": 73091,
+          "timeDisplay": "50d 18h 11m",
+          "value": "14.10%"
+        },
+        {
+          "level": 48,
+          "cost": 226640000000000,
+          "timeMinutes": 74646,
+          "timeDisplay": "51d 20h 6m",
+          "value": "14.40%"
+        },
+        {
+          "level": 49,
+          "cost": 294630000000000,
+          "timeMinutes": 76201,
+          "timeDisplay": "52d 22h 1m",
+          "value": "14.70%"
+        },
+        {
+          "level": 50,
+          "cost": 383020000000000,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "15.00%"
+        },
+        {
+          "level": 51,
+          "cost": 497930000000000,
+          "timeMinutes": 79311,
+          "timeDisplay": "55d 1h 51m",
+          "value": "15.30%"
+        },
+        {
+          "level": 52,
+          "cost": 647310000000000,
+          "timeMinutes": 80866,
+          "timeDisplay": "56d 3h 46m",
+          "value": "15.60%"
+        },
+        {
+          "level": 53,
+          "cost": 841500000000000,
+          "timeMinutes": 82421,
+          "timeDisplay": "57d 5h 41m",
+          "value": "15.90%"
+        },
+        {
+          "level": 54,
+          "cost": 1090000000000000,
+          "timeMinutes": 83977,
+          "timeDisplay": "58d 7h 37m",
+          "value": "16.20%"
+        },
+        {
+          "level": 55,
+          "cost": 1420000000000000,
+          "timeMinutes": 85532,
+          "timeDisplay": "59d 9h 32m",
+          "value": "16.50%"
+        },
+        {
+          "level": 56,
+          "cost": 1850000000000000,
+          "timeMinutes": 87087,
+          "timeDisplay": "60d 11h 27m",
+          "value": "16.80%"
+        },
+        {
+          "level": 57,
+          "cost": 2400000000000000,
+          "timeMinutes": 88642,
+          "timeDisplay": "61d 13h 22m",
+          "value": "17.10%"
+        },
+        {
+          "level": 58,
+          "cost": 3120000000000000,
+          "timeMinutes": 90197,
+          "timeDisplay": "62d 15h 17m",
+          "value": "17.40%"
+        },
+        {
+          "level": 59,
+          "cost": 4060000000000000,
+          "timeMinutes": 91752,
+          "timeDisplay": "63d 17h 12m",
+          "value": "17.70%"
+        },
+        {
+          "level": 60,
+          "cost": 5280000000000000,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "18.00%"
+        },
+        {
+          "level": 61,
+          "cost": 6860000000000000,
+          "timeMinutes": 94862,
+          "timeDisplay": "65d 21h 2m",
+          "value": "18.30%"
+        },
+        {
+          "level": 62,
+          "cost": 8920000000000000,
+          "timeMinutes": 96418,
+          "timeDisplay": "66d 22h 58m",
+          "value": "18.60%"
+        },
+        {
+          "level": 63,
+          "cost": 11600000000000000,
+          "timeMinutes": 97973,
+          "timeDisplay": "68d 0h 53m",
+          "value": "18.90%"
+        },
+        {
+          "level": 64,
+          "cost": 15080000000000000,
+          "timeMinutes": 99528,
+          "timeDisplay": "69d 2h 48m",
+          "value": "19.20%"
+        },
+        {
+          "level": 65,
+          "cost": 19610000000000000,
+          "timeMinutes": 101083,
+          "timeDisplay": "70d 4h 43m",
+          "value": "19.50%"
+        },
+        {
+          "level": 66,
+          "cost": 25490000000000000,
+          "timeMinutes": 102638,
+          "timeDisplay": "71d 6h 38m",
+          "value": "19.80%"
+        },
+        {
+          "level": 67,
+          "cost": 33130000000000004,
+          "timeMinutes": 104193,
+          "timeDisplay": "72d 8h 33m",
+          "value": "20.10%"
+        },
+        {
+          "level": 68,
+          "cost": 43070000000000000,
+          "timeMinutes": 105748,
+          "timeDisplay": "73d 10h 28m",
+          "value": "20.40%"
+        },
+        {
+          "level": 69,
+          "cost": 55990000000000000,
+          "timeMinutes": 107304,
+          "timeDisplay": "74d 12h 24m",
+          "value": "20.70%"
+        },
+        {
+          "level": 70,
+          "cost": 72790000000000000,
+          "timeMinutes": 108859,
+          "timeDisplay": "75d 14h 19m",
+          "value": "21.00%"
+        },
+        {
+          "level": 71,
+          "cost": 94630000000000000,
+          "timeMinutes": 110414,
+          "timeDisplay": "76d 16h 14m",
+          "value": "21.30%"
+        },
+        {
+          "level": 72,
+          "cost": 123020000000000000,
+          "timeMinutes": 111969,
+          "timeDisplay": "77d 18h 9m",
+          "value": "21.60%"
+        },
+        {
+          "level": 73,
+          "cost": 159930000000000000,
+          "timeMinutes": 113524,
+          "timeDisplay": "78d 20h 4m",
+          "value": "21.90%"
+        },
+        {
+          "level": 74,
+          "cost": 207900000000000000,
+          "timeMinutes": 115079,
+          "timeDisplay": "79d 21h 59m",
+          "value": "22.20%"
+        },
+        {
+          "level": 75,
+          "cost": 270279999999999970,
+          "timeMinutes": 116634,
+          "timeDisplay": "80d 23h 54m",
+          "value": "22.50%"
+        },
+        {
+          "level": 76,
+          "cost": 351360000000000000,
+          "timeMinutes": 118189,
+          "timeDisplay": "82d 1h 49m",
+          "value": "22.80%"
+        },
+        {
+          "level": 77,
+          "cost": 456770000000000000,
+          "timeMinutes": 119745,
+          "timeDisplay": "83d 3h 45m",
+          "value": "23.10%"
+        },
+        {
+          "level": 78,
+          "cost": 593800000000000000,
+          "timeMinutes": 121300,
+          "timeDisplay": "84d 5h 40m",
+          "value": "23.40%"
+        },
+        {
+          "level": 79,
+          "cost": 771940000000000000,
+          "timeMinutes": 122855,
+          "timeDisplay": "85d 7h 35m",
+          "value": "23.70%"
+        },
+        {
+          "level": 80,
+          "cost": 1000000000000000,
+          "timeMinutes": 124410,
+          "timeDisplay": "86d 9h 30m",
+          "value": "24.00%"
+        },
+        {
+          "level": 81,
+          "cost": 1300000000000000,
+          "timeMinutes": 125965,
+          "timeDisplay": "87d 11h 25m",
+          "value": "24.30%"
+        },
+        {
+          "level": 82,
+          "cost": 1700000000000000,
+          "timeMinutes": 127520,
+          "timeDisplay": "88d 13h 20m",
+          "value": "24.60%"
+        },
+        {
+          "level": 83,
+          "cost": 2200000000000000,
+          "timeMinutes": 129075,
+          "timeDisplay": "89d 15h 15m",
+          "value": "24.90%"
+        },
+        {
+          "level": 84,
+          "cost": 2870000000000000,
+          "timeMinutes": 130630,
+          "timeDisplay": "90d 17h 10m",
+          "value": "25.20%"
+        },
+        {
+          "level": 85,
+          "cost": 3730000000000000,
+          "timeMinutes": 132186,
+          "timeDisplay": "91d 19h 6m",
+          "value": "25.50%"
+        },
+        {
+          "level": 86,
+          "cost": 4840000000000000,
+          "timeMinutes": 133741,
+          "timeDisplay": "92d 21h 1m",
+          "value": "25.80%"
+        },
+        {
+          "level": 87,
+          "cost": 6300000000000000,
+          "timeMinutes": 135296,
+          "timeDisplay": "93d 22h 56m",
+          "value": "26.10%"
+        },
+        {
+          "level": 88,
+          "cost": 8190000000000000,
+          "timeMinutes": 136851,
+          "timeDisplay": "95d 0h 51m",
+          "value": "26.40%"
+        },
+        {
+          "level": 89,
+          "cost": 10640000000000000,
+          "timeMinutes": 138406,
+          "timeDisplay": "96d 2h 46m",
+          "value": "26.70%"
+        },
+        {
+          "level": 90,
+          "cost": 13830000000000000,
+          "timeMinutes": 139961,
+          "timeDisplay": "97d 4h 41m",
+          "value": "27.00%"
+        },
+        {
+          "level": 91,
+          "cost": 17980000000000000,
+          "timeMinutes": 141516,
+          "timeDisplay": "98d 6h 36m",
+          "value": "27.30%"
+        },
+        {
+          "level": 92,
+          "cost": 23380000000000000,
+          "timeMinutes": 143072,
+          "timeDisplay": "99d 8h 32m",
+          "value": "27.60%"
+        },
+        {
+          "level": 93,
+          "cost": 30390000000000000,
+          "timeMinutes": 144627,
+          "timeDisplay": "100d 10h 27m",
+          "value": "27.90%"
+        },
+        {
+          "level": 94,
+          "cost": 39510000000000000,
+          "timeMinutes": 146182,
+          "timeDisplay": "101d 12h 22m",
+          "value": "28.20%"
+        },
+        {
+          "level": 95,
+          "cost": 51370000000000000,
+          "timeMinutes": 147737,
+          "timeDisplay": "102d 14h 17m",
+          "value": "28.50%"
+        },
+        {
+          "level": 96,
+          "cost": 66780000000000000,
+          "timeMinutes": 149292,
+          "timeDisplay": "103d 16h 12m",
+          "value": "28.80%"
+        },
+        {
+          "level": 97,
+          "cost": 86810000000000000,
+          "timeMinutes": 150847,
+          "timeDisplay": "104d 18h 7m",
+          "value": "29.10%"
+        },
+        {
+          "level": 98,
+          "cost": 112850000000000000,
+          "timeMinutes": 152402,
+          "timeDisplay": "105d 20h 2m",
+          "value": "29.40%"
+        },
+        {
+          "level": 99,
+          "cost": 146710000000000000,
+          "timeMinutes": 153957,
+          "timeDisplay": "106d 21h 57m",
+          "value": "29.70%"
+        },
+        {
+          "level": 100,
+          "cost": 190720000000000000,
+          "timeMinutes": 155513,
+          "timeDisplay": "107d 23h 53m",
+          "value": "30.00%"
+        }
+      ]
+    },
+    {
+      "id": "game-speed",
+      "name": "Game Speed",
+      "maxLevel": 7,
+      "unlock": "Unlocks with [[Lab Upgrades|labs]] in [[Milestones]] at tier 1 wave 30. There are maximum of 7 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 300,
+          "timeMinutes": 9,
+          "timeDisplay": "9m",
+          "value": "x2.0"
+        },
+        {
+          "level": 2,
+          "cost": 2500,
+          "timeMinutes": 150,
+          "timeDisplay": "2h 30m",
+          "value": "x2.5"
+        },
+        {
+          "level": 3,
+          "cost": 12000,
+          "timeMinutes": 588,
+          "timeDisplay": "9h 48m",
+          "value": "x3.0"
+        },
+        {
+          "level": 4,
+          "cost": 50000,
+          "timeMinutes": 2042,
+          "timeDisplay": "1d 10h 2m",
+          "value": "x3.5"
+        },
+        {
+          "level": 5,
+          "cost": 150000,
+          "timeMinutes": 5499,
+          "timeDisplay": "3d 19h 39m",
+          "value": "x4.0"
+        },
+        {
+          "level": 6,
+          "cost": 500000,
+          "timeMinutes": 20266,
+          "timeDisplay": "14d 1h 46m",
+          "value": "x4.5"
+        },
+        {
+          "level": 7,
+          "cost": 1000000,
+          "timeMinutes": 36666,
+          "timeDisplay": "25d 11h 6m",
+          "value": "x5.0"
+        }
+      ]
+    },
+    {
+      "id": "lab-speed",
+      "name": "Lab Speed",
+      "maxLevel": 99,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 1 wave 150. Increasing lab speed does not help with the lab time [[Events|event]] mission. Has 99 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 40,
+          "timeMinutes": 0,
+          "timeDisplay": "0d 0h 0m",
+          "value": "1.02"
+        },
+        {
+          "level": 2,
+          "cost": 83,
+          "timeMinutes": 9,
+          "timeDisplay": "0d 0h 9m",
+          "value": "1.04"
+        },
+        {
+          "level": 3,
+          "cost": 211,
+          "timeMinutes": 22,
+          "timeDisplay": "0d 0h 22m",
+          "value": "1.06"
+        },
+        {
+          "level": 4,
+          "cost": 522,
+          "timeMinutes": 42,
+          "timeDisplay": "0d 0h 42m",
+          "value": "1.08"
+        },
+        {
+          "level": 5,
+          "cost": 1120,
+          "timeMinutes": 68,
+          "timeDisplay": "0d 1h 8m",
+          "value": "1.10"
+        },
+        {
+          "level": 6,
+          "cost": 2100,
+          "timeMinutes": 102,
+          "timeDisplay": "0d 1h 42m",
+          "value": "1.12"
+        },
+        {
+          "level": 7,
+          "cost": 3580,
+          "timeMinutes": 145,
+          "timeDisplay": "0d 2h 25m",
+          "value": "1.14"
+        },
+        {
+          "level": 8,
+          "cost": 5670,
+          "timeMinutes": 197,
+          "timeDisplay": "0d 3h 17m",
+          "value": "1.16"
+        },
+        {
+          "level": 9,
+          "cost": 8470,
+          "timeMinutes": 259,
+          "timeDisplay": "0d 4h 19m",
+          "value": "1.18"
+        },
+        {
+          "level": 10,
+          "cost": 12120,
+          "timeMinutes": 332,
+          "timeDisplay": "0d 5h 32m",
+          "value": "1.20"
+        },
+        {
+          "level": 11,
+          "cost": 16710,
+          "timeMinutes": 414,
+          "timeDisplay": "0d 6h 54m",
+          "value": "1.22"
+        },
+        {
+          "level": 12,
+          "cost": 22360,
+          "timeMinutes": 508,
+          "timeDisplay": "0d 8h 28m",
+          "value": "1.24"
+        },
+        {
+          "level": 13,
+          "cost": 29200,
+          "timeMinutes": 612,
+          "timeDisplay": "0d 10h 12m",
+          "value": "1.26"
+        },
+        {
+          "level": 14,
+          "cost": 37340,
+          "timeMinutes": 727,
+          "timeDisplay": "0d 12h 7m",
+          "value": "1.28"
+        },
+        {
+          "level": 15,
+          "cost": 46910,
+          "timeMinutes": 854,
+          "timeDisplay": "0d 14h 14m",
+          "value": "1.30"
+        },
+        {
+          "level": 16,
+          "cost": 58010,
+          "timeMinutes": 991,
+          "timeDisplay": "0d 16h 31m",
+          "value": "1.32"
+        },
+        {
+          "level": 17,
+          "cost": 70780,
+          "timeMinutes": 1140,
+          "timeDisplay": "0d 19h 0m",
+          "value": "1.34"
+        },
+        {
+          "level": 18,
+          "cost": 85340,
+          "timeMinutes": 1301,
+          "timeDisplay": "0d 21h 41m",
+          "value": "1.36"
+        },
+        {
+          "level": 19,
+          "cost": 101810,
+          "timeMinutes": 1473,
+          "timeDisplay": "1d 0h 33m",
+          "value": "1.38"
+        },
+        {
+          "level": 20,
+          "cost": 120310,
+          "timeMinutes": 1656,
+          "timeDisplay": "1d 3h 36m",
+          "value": "1.40"
+        },
+        {
+          "level": 21,
+          "cost": 140970,
+          "timeMinutes": 1850,
+          "timeDisplay": "1d 6h 50m",
+          "value": "1.42"
+        },
+        {
+          "level": 22,
+          "cost": 163910,
+          "timeMinutes": 2056,
+          "timeDisplay": "1d 10h 16m",
+          "value": "1.44"
+        },
+        {
+          "level": 23,
+          "cost": 189260,
+          "timeMinutes": 2274,
+          "timeDisplay": "1d 13h 54m",
+          "value": "1.46"
+        },
+        {
+          "level": 24,
+          "cost": 217150,
+          "timeMinutes": 2502,
+          "timeDisplay": "1d 17h 42m",
+          "value": "1.48"
+        },
+        {
+          "level": 25,
+          "cost": 247700,
+          "timeMinutes": 2742,
+          "timeDisplay": "1d 21h 42m",
+          "value": "1.50"
+        },
+        {
+          "level": 26,
+          "cost": 281050,
+          "timeMinutes": 2994,
+          "timeDisplay": "2d 1h 54m",
+          "value": "1.52"
+        },
+        {
+          "level": 27,
+          "cost": 317310,
+          "timeMinutes": 3256,
+          "timeDisplay": "2d 6h 16m",
+          "value": "1.54"
+        },
+        {
+          "level": 28,
+          "cost": 356620,
+          "timeMinutes": 3530,
+          "timeDisplay": "2d 10h 50m",
+          "value": "1.56"
+        },
+        {
+          "level": 29,
+          "cost": 399110,
+          "timeMinutes": 3814,
+          "timeDisplay": "2d 15h 34m",
+          "value": "1.58"
+        },
+        {
+          "level": 30,
+          "cost": 444900,
+          "timeMinutes": 4110,
+          "timeDisplay": "2d 20h 30m",
+          "value": "1.60"
+        },
+        {
+          "level": 31,
+          "cost": 494140,
+          "timeMinutes": 4417,
+          "timeDisplay": "3d 1h 37m",
+          "value": "1.62"
+        },
+        {
+          "level": 32,
+          "cost": 546930,
+          "timeMinutes": 4734,
+          "timeDisplay": "3d 6h 54m",
+          "value": "1.64"
+        },
+        {
+          "level": 33,
+          "cost": 603430,
+          "timeMinutes": 5063,
+          "timeDisplay": "3d 12h 23m",
+          "value": "1.66"
+        },
+        {
+          "level": 34,
+          "cost": 663760,
+          "timeMinutes": 5402,
+          "timeDisplay": "3d 18h 2m",
+          "value": "1.68"
+        },
+        {
+          "level": 35,
+          "cost": 728050,
+          "timeMinutes": 5752,
+          "timeDisplay": "3d 23h 52m",
+          "value": "1.70"
+        },
+        {
+          "level": 36,
+          "cost": 796430,
+          "timeMinutes": 6112,
+          "timeDisplay": "4d 5h 52m",
+          "value": "1.72"
+        },
+        {
+          "level": 37,
+          "cost": 869040,
+          "timeMinutes": 6484,
+          "timeDisplay": "4d 12h 4m",
+          "value": "1.74"
+        },
+        {
+          "level": 38,
+          "cost": 946010,
+          "timeMinutes": 6865,
+          "timeDisplay": "4d 18h 25m",
+          "value": "1.76"
+        },
+        {
+          "level": 39,
+          "cost": 1030000,
+          "timeMinutes": 7257,
+          "timeDisplay": "5d 0h 57m",
+          "value": "1.78"
+        },
+        {
+          "level": 40,
+          "cost": 1110000,
+          "timeMinutes": 7660,
+          "timeDisplay": "5d 7h 40m",
+          "value": "1.80"
+        },
+        {
+          "level": 41,
+          "cost": 1200000,
+          "timeMinutes": 8072,
+          "timeDisplay": "5d 14h 32m",
+          "value": "1.82"
+        },
+        {
+          "level": 42,
+          "cost": 1300000,
+          "timeMinutes": 8495,
+          "timeDisplay": "5d 21h 35m",
+          "value": "1.84"
+        },
+        {
+          "level": 43,
+          "cost": 1400000,
+          "timeMinutes": 8928,
+          "timeDisplay": "6d 4h 48m",
+          "value": "1.86"
+        },
+        {
+          "level": 44,
+          "cost": 1510000,
+          "timeMinutes": 9371,
+          "timeDisplay": "6d 12h 11m",
+          "value": "1.88"
+        },
+        {
+          "level": 45,
+          "cost": 1620000,
+          "timeMinutes": 9824,
+          "timeDisplay": "6d 19h 44m",
+          "value": "1.90"
+        },
+        {
+          "level": 46,
+          "cost": 1730000,
+          "timeMinutes": 10287,
+          "timeDisplay": "7d 3h 27m",
+          "value": "1.92"
+        },
+        {
+          "level": 47,
+          "cost": 1860000,
+          "timeMinutes": 10760,
+          "timeDisplay": "7d 11h 20m",
+          "value": "1.94"
+        },
+        {
+          "level": 48,
+          "cost": 1990000,
+          "timeMinutes": 11242,
+          "timeDisplay": "7d 19h 22m",
+          "value": "1.96"
+        },
+        {
+          "level": 49,
+          "cost": 2120000,
+          "timeMinutes": 11734,
+          "timeDisplay": "8d 3h 34m",
+          "value": "1.98"
+        },
+        {
+          "level": 50,
+          "cost": 2260000,
+          "timeMinutes": 12236,
+          "timeDisplay": "8d 11h 56m",
+          "value": "2.00"
+        },
+        {
+          "level": 51,
+          "cost": 2400000,
+          "timeMinutes": 12748,
+          "timeDisplay": "8d 20h 28m",
+          "value": "2.02"
+        },
+        {
+          "level": 52,
+          "cost": 2560000,
+          "timeMinutes": 13269,
+          "timeDisplay": "9d 5h 9m",
+          "value": "2.04"
+        },
+        {
+          "level": 53,
+          "cost": 2720000,
+          "timeMinutes": 13799,
+          "timeDisplay": "9d 13h 59m",
+          "value": "2.06"
+        },
+        {
+          "level": 54,
+          "cost": 2880000,
+          "timeMinutes": 14339,
+          "timeDisplay": "9d 22h 59m",
+          "value": "2.08"
+        },
+        {
+          "level": 55,
+          "cost": 3050000,
+          "timeMinutes": 14888,
+          "timeDisplay": "10d 8h 8m",
+          "value": "2.10"
+        },
+        {
+          "level": 56,
+          "cost": 3230000,
+          "timeMinutes": 15446,
+          "timeDisplay": "10d 17h 26m",
+          "value": "2.12"
+        },
+        {
+          "level": 57,
+          "cost": 3420000,
+          "timeMinutes": 16014,
+          "timeDisplay": "11d 2h 54m",
+          "value": "2.14"
+        },
+        {
+          "level": 58,
+          "cost": 3610000,
+          "timeMinutes": 16590,
+          "timeDisplay": "11d 12h 30m",
+          "value": "2.16"
+        },
+        {
+          "level": 59,
+          "cost": 3810000,
+          "timeMinutes": 17176,
+          "timeDisplay": "11d 22h 16m",
+          "value": "2.18"
+        },
+        {
+          "level": 60,
+          "cost": 4020000,
+          "timeMinutes": 17771,
+          "timeDisplay": "12d 8h 11m",
+          "value": "2.20"
+        },
+        {
+          "level": 61,
+          "cost": 4230000,
+          "timeMinutes": 18374,
+          "timeDisplay": "12d 18h 14m",
+          "value": "2.22"
+        },
+        {
+          "level": 62,
+          "cost": 4450000,
+          "timeMinutes": 18987,
+          "timeDisplay": "13d 4h 27m",
+          "value": "2.24"
+        },
+        {
+          "level": 63,
+          "cost": 4680000,
+          "timeMinutes": 19608,
+          "timeDisplay": "13d 14h 48m",
+          "value": "2.26"
+        },
+        {
+          "level": 64,
+          "cost": 4920000,
+          "timeMinutes": 20238,
+          "timeDisplay": "14d 1h 18m",
+          "value": "2.28"
+        },
+        {
+          "level": 65,
+          "cost": 5170000,
+          "timeMinutes": 20877,
+          "timeDisplay": "14d 11h 57m",
+          "value": "2.30"
+        },
+        {
+          "level": 66,
+          "cost": 5420000,
+          "timeMinutes": 21524,
+          "timeDisplay": "14d 22h 44m",
+          "value": "2.32"
+        },
+        {
+          "level": 67,
+          "cost": 5680000,
+          "timeMinutes": 22180,
+          "timeDisplay": "15d 9h 40m",
+          "value": "2.34"
+        },
+        {
+          "level": 68,
+          "cost": 5960000,
+          "timeMinutes": 22844,
+          "timeDisplay": "15d 20h 44m",
+          "value": "2.36"
+        },
+        {
+          "level": 69,
+          "cost": 6240000,
+          "timeMinutes": 23517,
+          "timeDisplay": "16d 7h 57m",
+          "value": "2.38"
+        },
+        {
+          "level": 70,
+          "cost": 6520000,
+          "timeMinutes": 24198,
+          "timeDisplay": "16d 19h 18m",
+          "value": "2.40"
+        },
+        {
+          "level": 71,
+          "cost": 6820000,
+          "timeMinutes": 24888,
+          "timeDisplay": "17d 6h 48m",
+          "value": "2.42"
+        },
+        {
+          "level": 72,
+          "cost": 7130000,
+          "timeMinutes": 25586,
+          "timeDisplay": "17d 18h 26m",
+          "value": "2.44"
+        },
+        {
+          "level": 73,
+          "cost": 7440000,
+          "timeMinutes": 26292,
+          "timeDisplay": "18d 6h 12m",
+          "value": "2.46"
+        },
+        {
+          "level": 74,
+          "cost": 7770000,
+          "timeMinutes": 27007,
+          "timeDisplay": "18d 18h 7m",
+          "value": "2.48"
+        },
+        {
+          "level": 75,
+          "cost": 8100000,
+          "timeMinutes": 27730,
+          "timeDisplay": "19d 6h 10m",
+          "value": "2.50"
+        },
+        {
+          "level": 76,
+          "cost": 8450000,
+          "timeMinutes": 28460,
+          "timeDisplay": "19d 18h 20m",
+          "value": "2.52"
+        },
+        {
+          "level": 77,
+          "cost": 8800000,
+          "timeMinutes": 29199,
+          "timeDisplay": "20d 6h 39m",
+          "value": "2.54"
+        },
+        {
+          "level": 78,
+          "cost": 9170000,
+          "timeMinutes": 29946,
+          "timeDisplay": "20d 19h 6m",
+          "value": "2.56"
+        },
+        {
+          "level": 79,
+          "cost": 9540000,
+          "timeMinutes": 30701,
+          "timeDisplay": "21d 7h 41m",
+          "value": "2.58"
+        },
+        {
+          "level": 80,
+          "cost": 9920000,
+          "timeMinutes": 31464,
+          "timeDisplay": "21d 20h 24m",
+          "value": "2.60"
+        },
+        {
+          "level": 81,
+          "cost": 10320000,
+          "timeMinutes": 32234,
+          "timeDisplay": "22d 9h 14m",
+          "value": "2.62"
+        },
+        {
+          "level": 82,
+          "cost": 10720000,
+          "timeMinutes": 33013,
+          "timeDisplay": "22d 22h 13m",
+          "value": "2.64"
+        },
+        {
+          "level": 83,
+          "cost": 11140000,
+          "timeMinutes": 33799,
+          "timeDisplay": "23d 11h 19m",
+          "value": "2.66"
+        },
+        {
+          "level": 84,
+          "cost": 11570000,
+          "timeMinutes": 34593,
+          "timeDisplay": "24d 0h 33m",
+          "value": "2.68"
+        },
+        {
+          "level": 85,
+          "cost": 12000000,
+          "timeMinutes": 35395,
+          "timeDisplay": "24d 13h 55m",
+          "value": "2.70"
+        },
+        {
+          "level": 86,
+          "cost": 12450000,
+          "timeMinutes": 36204,
+          "timeDisplay": "25d 3h 24m",
+          "value": "2.72"
+        },
+        {
+          "level": 87,
+          "cost": 12910000,
+          "timeMinutes": 37021,
+          "timeDisplay": "25d 17h 1m",
+          "value": "2.74"
+        },
+        {
+          "level": 88,
+          "cost": 13380000,
+          "timeMinutes": 37845,
+          "timeDisplay": "26d 6h 45m",
+          "value": "2.76"
+        },
+        {
+          "level": 89,
+          "cost": 13870000,
+          "timeMinutes": 38677,
+          "timeDisplay": "26d 20h 37m",
+          "value": "2.78"
+        },
+        {
+          "level": 90,
+          "cost": 14360000,
+          "timeMinutes": 39517,
+          "timeDisplay": "27d 10h 37m",
+          "value": "2.80"
+        },
+        {
+          "level": 91,
+          "cost": 14870000,
+          "timeMinutes": 40364,
+          "timeDisplay": "28d 0h 44m",
+          "value": "2.82"
+        },
+        {
+          "level": 92,
+          "cost": 15380000,
+          "timeMinutes": 41218,
+          "timeDisplay": "28d 14h 58m",
+          "value": "2.84"
+        },
+        {
+          "level": 93,
+          "cost": 15910000,
+          "timeMinutes": 42080,
+          "timeDisplay": "29d 5h 20m",
+          "value": "2.86"
+        },
+        {
+          "level": 94,
+          "cost": 16460000,
+          "timeMinutes": 42949,
+          "timeDisplay": "29d 19h 49m",
+          "value": "2.88"
+        },
+        {
+          "level": 95,
+          "cost": 17010000,
+          "timeMinutes": 43826,
+          "timeDisplay": "30d 10h 26m",
+          "value": "2.90"
+        },
+        {
+          "level": 96,
+          "cost": 17580000,
+          "timeMinutes": 44710,
+          "timeDisplay": "31d 1h 10m",
+          "value": "2.92"
+        },
+        {
+          "level": 97,
+          "cost": 18160000,
+          "timeMinutes": 45600,
+          "timeDisplay": "31d 16h 0m",
+          "value": "2.94"
+        },
+        {
+          "level": 98,
+          "cost": 18750000,
+          "timeMinutes": 46499,
+          "timeDisplay": "32d 6h 59m",
+          "value": "2.96"
+        },
+        {
+          "level": 99,
+          "cost": 19360000,
+          "timeMinutes": 47404,
+          "timeDisplay": "32d 22h 4m",
+          "value": "2.98"
+        }
+      ]
+    },
+    {
+      "id": "labs-coin-discount",
+      "name": "Labs Coin Discount",
+      "maxLevel": 99,
+      "unlock": "Unlocked with [[Lab Upgrades|labs]] in [[Milestones]] at tier 1 wave 30. Has 99 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 40,
+          "timeMinutes": 0,
+          "timeDisplay": "0d 0h 0m",
+          "value": "0.30%"
+        },
+        {
+          "level": 2,
+          "cost": 83,
+          "timeMinutes": 9,
+          "timeDisplay": "0d 0h 9m",
+          "value": "0.60%"
+        },
+        {
+          "level": 3,
+          "cost": 210,
+          "timeMinutes": 23,
+          "timeDisplay": "0d 0h 23m",
+          "value": "0.90%"
+        },
+        {
+          "level": 4,
+          "cost": 517,
+          "timeMinutes": 44,
+          "timeDisplay": "0d 0h 44m",
+          "value": "1.20%"
+        },
+        {
+          "level": 5,
+          "cost": 1100,
+          "timeMinutes": 73,
+          "timeDisplay": "0d 1h 13m",
+          "value": "1.50%"
+        },
+        {
+          "level": 6,
+          "cost": 2070,
+          "timeMinutes": 112,
+          "timeDisplay": "0d 1h 52m",
+          "value": "1.80%"
+        },
+        {
+          "level": 7,
+          "cost": 3510,
+          "timeMinutes": 162,
+          "timeDisplay": "0d 2h 42m",
+          "value": "2.10%"
+        },
+        {
+          "level": 8,
+          "cost": 5550,
+          "timeMinutes": 225,
+          "timeDisplay": "0d 3h 45m",
+          "value": "2.40%"
+        },
+        {
+          "level": 9,
+          "cost": 8270,
+          "timeMinutes": 301,
+          "timeDisplay": "0d 5h 1m",
+          "value": "2.70%"
+        },
+        {
+          "level": 10,
+          "cost": 11790,
+          "timeMinutes": 391,
+          "timeDisplay": "0d 6h 31m",
+          "value": "3.00%"
+        },
+        {
+          "level": 11,
+          "cost": 16200,
+          "timeMinutes": 497,
+          "timeDisplay": "0d 8h 17m",
+          "value": "3.30%"
+        },
+        {
+          "level": 12,
+          "cost": 21620,
+          "timeMinutes": 619,
+          "timeDisplay": "0d 10h 19m",
+          "value": "3.60%"
+        },
+        {
+          "level": 13,
+          "cost": 28150,
+          "timeMinutes": 759,
+          "timeDisplay": "0d 12h 39m",
+          "value": "3.90%"
+        },
+        {
+          "level": 14,
+          "cost": 35890,
+          "timeMinutes": 916,
+          "timeDisplay": "0d 15h 16m",
+          "value": "4.20%"
+        },
+        {
+          "level": 15,
+          "cost": 44940,
+          "timeMinutes": 1093,
+          "timeDisplay": "0d 18h 13m",
+          "value": "4.50%"
+        },
+        {
+          "level": 16,
+          "cost": 55400,
+          "timeMinutes": 1289,
+          "timeDisplay": "0d 21h 29m",
+          "value": "4.80%"
+        },
+        {
+          "level": 17,
+          "cost": 67380,
+          "timeMinutes": 1505,
+          "timeDisplay": "1d 1h 5m",
+          "value": "5.10%"
+        },
+        {
+          "level": 18,
+          "cost": 80990,
+          "timeMinutes": 1743,
+          "timeDisplay": "1d 5h 3m",
+          "value": "5.40%"
+        },
+        {
+          "level": 19,
+          "cost": 96310,
+          "timeMinutes": 2013,
+          "timeDisplay": "1d 9h 33m",
+          "value": "5.70%"
+        },
+        {
+          "level": 20,
+          "cost": 113450,
+          "timeMinutes": 2285,
+          "timeDisplay": "1d 14h 5m",
+          "value": "6.00%"
+        },
+        {
+          "level": 21,
+          "cost": 132510,
+          "timeMinutes": 2591,
+          "timeDisplay": "1d 19h 11m",
+          "value": "6.30%"
+        },
+        {
+          "level": 22,
+          "cost": 153580,
+          "timeMinutes": 2920,
+          "timeDisplay": "2d 0h 40m",
+          "value": "6.60%"
+        },
+        {
+          "level": 23,
+          "cost": 176770,
+          "timeMinutes": 3274,
+          "timeDisplay": "2d 6h 34m",
+          "value": "6.90%"
+        },
+        {
+          "level": 24,
+          "cost": 202170,
+          "timeMinutes": 3654,
+          "timeDisplay": "2d 12h 54m",
+          "value": "7.20%"
+        },
+        {
+          "level": 25,
+          "cost": 229870,
+          "timeMinutes": 4059,
+          "timeDisplay": "2d 19h 39m",
+          "value": "7.50%"
+        },
+        {
+          "level": 26,
+          "cost": 259970,
+          "timeMinutes": 4491,
+          "timeDisplay": "3d 2h 51m",
+          "value": "7.80%"
+        },
+        {
+          "level": 27,
+          "cost": 292560,
+          "timeMinutes": 4949,
+          "timeDisplay": "3d 10h 29m",
+          "value": "8.10%"
+        },
+        {
+          "level": 28,
+          "cost": 327730,
+          "timeMinutes": 5436,
+          "timeDisplay": "3d 18h 36m",
+          "value": "8.40%"
+        },
+        {
+          "level": 29,
+          "cost": 365580,
+          "timeMinutes": 5951,
+          "timeDisplay": "4d 3h 11m",
+          "value": "8.70%"
+        },
+        {
+          "level": 30,
+          "cost": 406200,
+          "timeMinutes": 6494,
+          "timeDisplay": "4d 12h 14m",
+          "value": "9.00%"
+        },
+        {
+          "level": 31,
+          "cost": 449660,
+          "timeMinutes": 7067,
+          "timeDisplay": "4d 21h 47m",
+          "value": "9.30%"
+        },
+        {
+          "level": 32,
+          "cost": 496070,
+          "timeMinutes": 7670,
+          "timeDisplay": "5d 7h 50m",
+          "value": "9.60%"
+        },
+        {
+          "level": 33,
+          "cost": 545500,
+          "timeMinutes": 8303,
+          "timeDisplay": "5d 18h 23m",
+          "value": "9.90%"
+        },
+        {
+          "level": 34,
+          "cost": 598050,
+          "timeMinutes": 8968,
+          "timeDisplay": "6d 5h 28m",
+          "value": "10.20%"
+        },
+        {
+          "level": 35,
+          "cost": 653790,
+          "timeMinutes": 9663,
+          "timeDisplay": "6d 17h 3m",
+          "value": "10.50%"
+        },
+        {
+          "level": 36,
+          "cost": 712810,
+          "timeMinutes": 10391,
+          "timeDisplay": "7d 5h 11m",
+          "value": "10.80%"
+        },
+        {
+          "level": 37,
+          "cost": 775190,
+          "timeMinutes": 11152,
+          "timeDisplay": "7d 17h 52m",
+          "value": "11.10%"
+        },
+        {
+          "level": 38,
+          "cost": 841010,
+          "timeMinutes": 11946,
+          "timeDisplay": "8d 7h 6m",
+          "value": "11.40%"
+        },
+        {
+          "level": 39,
+          "cost": 910340,
+          "timeMinutes": 12773,
+          "timeDisplay": "8d 20h 53m",
+          "value": "11.70%"
+        },
+        {
+          "level": 40,
+          "cost": 983280,
+          "timeMinutes": 13634,
+          "timeDisplay": "9d 11h 14m",
+          "value": "12.00%"
+        },
+        {
+          "level": 41,
+          "cost": 1060000,
+          "timeMinutes": 14530,
+          "timeDisplay": "10d 2h 10m",
+          "value": "12.30%"
+        },
+        {
+          "level": 42,
+          "cost": 1140000,
+          "timeMinutes": 15461,
+          "timeDisplay": "10d 17h 41m",
+          "value": "12.60%"
+        },
+        {
+          "level": 43,
+          "cost": 1220000,
+          "timeMinutes": 16428,
+          "timeDisplay": "11d 9h 48m",
+          "value": "12.90%"
+        },
+        {
+          "level": 44,
+          "cost": 1310000,
+          "timeMinutes": 17430,
+          "timeDisplay": "12d 2h 30m",
+          "value": "13.20%"
+        },
+        {
+          "level": 45,
+          "cost": 1400000,
+          "timeMinutes": 18470,
+          "timeDisplay": "12d 19h 50m",
+          "value": "13.50%"
+        },
+        {
+          "level": 46,
+          "cost": 1500000,
+          "timeMinutes": 19546,
+          "timeDisplay": "13d 13h 46m",
+          "value": "13.80%"
+        },
+        {
+          "level": 47,
+          "cost": 1600000,
+          "timeMinutes": 20659,
+          "timeDisplay": "14d 8h 19m",
+          "value": "14.10%"
+        },
+        {
+          "level": 48,
+          "cost": 1710000,
+          "timeMinutes": 21810,
+          "timeDisplay": "15d 3h 30m",
+          "value": "14.40%"
+        },
+        {
+          "level": 49,
+          "cost": 1810000,
+          "timeMinutes": 23000,
+          "timeDisplay": "15d 23h 20m",
+          "value": "14.70%"
+        },
+        {
+          "level": 50,
+          "cost": 1930000,
+          "timeMinutes": 24228,
+          "timeDisplay": "16d 19h 48m",
+          "value": "15.00%"
+        },
+        {
+          "level": 51,
+          "cost": 2040000,
+          "timeMinutes": 25499,
+          "timeDisplay": "17d 16h 59m",
+          "value": "15.30%"
+        },
+        {
+          "level": 52,
+          "cost": 2170000,
+          "timeMinutes": 26803,
+          "timeDisplay": "18d 14h 43m",
+          "value": "15.60%"
+        },
+        {
+          "level": 53,
+          "cost": 2290000,
+          "timeMinutes": 28151,
+          "timeDisplay": "19d 13h 11m",
+          "value": "15.90%"
+        },
+        {
+          "level": 54,
+          "cost": 2420000,
+          "timeMinutes": 29539,
+          "timeDisplay": "20d 12h 19m",
+          "value": "16.20%"
+        },
+        {
+          "level": 55,
+          "cost": 2560000,
+          "timeMinutes": 30967,
+          "timeDisplay": "21d 12h 7m",
+          "value": "16.50%"
+        },
+        {
+          "level": 56,
+          "cost": 2700000,
+          "timeMinutes": 32438,
+          "timeDisplay": "22d 12h 38m",
+          "value": "16.80%"
+        },
+        {
+          "level": 57,
+          "cost": 2840000,
+          "timeMinutes": 33950,
+          "timeDisplay": "23d 13h 50m",
+          "value": "17.10%"
+        },
+        {
+          "level": 58,
+          "cost": 2990000,
+          "timeMinutes": 35504,
+          "timeDisplay": "24d 15h 44m",
+          "value": "17.40%"
+        },
+        {
+          "level": 59,
+          "cost": 3150000,
+          "timeMinutes": 37101,
+          "timeDisplay": "25d 18h 21m",
+          "value": "17.70%"
+        },
+        {
+          "level": 60,
+          "cost": 3310000,
+          "timeMinutes": 38740,
+          "timeDisplay": "26d 21h 40m",
+          "value": "18.00%"
+        },
+        {
+          "level": 61,
+          "cost": 3470000,
+          "timeMinutes": 40424,
+          "timeDisplay": "28d 1h 44m",
+          "value": "18.30%"
+        },
+        {
+          "level": 62,
+          "cost": 3640000,
+          "timeMinutes": 42151,
+          "timeDisplay": "29d 6h 31m",
+          "value": "18.60%"
+        },
+        {
+          "level": 63,
+          "cost": 3810000,
+          "timeMinutes": 43922,
+          "timeDisplay": "30d 12h 2m",
+          "value": "18.90%"
+        },
+        {
+          "level": 64,
+          "cost": 3990000,
+          "timeMinutes": 45738,
+          "timeDisplay": "31d 18h 18m",
+          "value": "19.20%"
+        },
+        {
+          "level": 65,
+          "cost": 4180000,
+          "timeMinutes": 47599,
+          "timeDisplay": "33d 1h 19m",
+          "value": "19.50%"
+        },
+        {
+          "level": 66,
+          "cost": 4360000,
+          "timeMinutes": 49505,
+          "timeDisplay": "34d 9h 5m",
+          "value": "19.80%"
+        },
+        {
+          "level": 67,
+          "cost": 4560000,
+          "timeMinutes": 51458,
+          "timeDisplay": "35d 17h 38m",
+          "value": "20.10%"
+        },
+        {
+          "level": 68,
+          "cost": 4760000,
+          "timeMinutes": 53456,
+          "timeDisplay": "37d 2h 56m",
+          "value": "20.40%"
+        },
+        {
+          "level": 69,
+          "cost": 4960000,
+          "timeMinutes": 55501,
+          "timeDisplay": "38d 13h 1m",
+          "value": "20.70%"
+        },
+        {
+          "level": 70,
+          "cost": 5170000,
+          "timeMinutes": 57593,
+          "timeDisplay": "39d 23h 53m",
+          "value": "21.00%"
+        },
+        {
+          "level": 71,
+          "cost": 5390000,
+          "timeMinutes": 59732,
+          "timeDisplay": "41d 11h 32m",
+          "value": "21.30%"
+        },
+        {
+          "level": 72,
+          "cost": 5610000,
+          "timeMinutes": 61919,
+          "timeDisplay": "42d 23h 59m",
+          "value": "21.60%"
+        },
+        {
+          "level": 73,
+          "cost": 5840000,
+          "timeMinutes": 64154,
+          "timeDisplay": "44d 13h 14m",
+          "value": "21.90%"
+        },
+        {
+          "level": 74,
+          "cost": 6070000,
+          "timeMinutes": 66438,
+          "timeDisplay": "46d 3h 18m",
+          "value": "22.20%"
+        },
+        {
+          "level": 75,
+          "cost": 6300000,
+          "timeMinutes": 68770,
+          "timeDisplay": "47d 18h 10m",
+          "value": "22.50%"
+        },
+        {
+          "level": 76,
+          "cost": 6550000,
+          "timeMinutes": 71151,
+          "timeDisplay": "49d 9h 51m",
+          "value": "22.80%"
+        },
+        {
+          "level": 77,
+          "cost": 6800000,
+          "timeMinutes": 73583,
+          "timeDisplay": "51d 2h 23m",
+          "value": "23.10%"
+        },
+        {
+          "level": 78,
+          "cost": 7050000,
+          "timeMinutes": 76063,
+          "timeDisplay": "52d 19h 43m",
+          "value": "23.40%"
+        },
+        {
+          "level": 79,
+          "cost": 7310000,
+          "timeMinutes": 78595,
+          "timeDisplay": "54d 13h 55m",
+          "value": "23.70%"
+        },
+        {
+          "level": 80,
+          "cost": 7570000,
+          "timeMinutes": 81177,
+          "timeDisplay": "56d 8h 57m",
+          "value": "24.00%"
+        },
+        {
+          "level": 81,
+          "cost": 7840000,
+          "timeMinutes": 83810,
+          "timeDisplay": "58d 4h 50m",
+          "value": "24.30%"
+        },
+        {
+          "level": 82,
+          "cost": 8120000,
+          "timeMinutes": 86494,
+          "timeDisplay": "60d 1h 34m",
+          "value": "24.60%"
+        },
+        {
+          "level": 83,
+          "cost": 8400000,
+          "timeMinutes": 89230,
+          "timeDisplay": "61d 23h 10m",
+          "value": "24.90%"
+        },
+        {
+          "level": 84,
+          "cost": 8690000,
+          "timeMinutes": 92018,
+          "timeDisplay": "63d 21h 38m",
+          "value": "25.20%"
+        },
+        {
+          "level": 85,
+          "cost": 8980000,
+          "timeMinutes": 94858,
+          "timeDisplay": "65d 20h 58m",
+          "value": "25.50%"
+        },
+        {
+          "level": 86,
+          "cost": 9280000,
+          "timeMinutes": 97751,
+          "timeDisplay": "67d 21h 11m",
+          "value": "25.80%"
+        },
+        {
+          "level": 87,
+          "cost": 9580000,
+          "timeMinutes": 100698,
+          "timeDisplay": "69d 22h 18m",
+          "value": "26.10%"
+        },
+        {
+          "level": 88,
+          "cost": 9890000,
+          "timeMinutes": 103697,
+          "timeDisplay": "72d 0h 17m",
+          "value": "26.40%"
+        },
+        {
+          "level": 89,
+          "cost": 10200000,
+          "timeMinutes": 106751,
+          "timeDisplay": "74d 3h 11m",
+          "value": "26.70%"
+        },
+        {
+          "level": 90,
+          "cost": 10530000,
+          "timeMinutes": 109858,
+          "timeDisplay": "76d 6h 58m",
+          "value": "27.00%"
+        },
+        {
+          "level": 91,
+          "cost": 10850000,
+          "timeMinutes": 113020,
+          "timeDisplay": "78d 11h 40m",
+          "value": "27.30%"
+        },
+        {
+          "level": 92,
+          "cost": 11180000,
+          "timeMinutes": 116237,
+          "timeDisplay": "80d 17h 17m",
+          "value": "27.60%"
+        },
+        {
+          "level": 93,
+          "cost": 11520000,
+          "timeMinutes": 119509,
+          "timeDisplay": "82d 23h 49m",
+          "value": "27.90%"
+        },
+        {
+          "level": 94,
+          "cost": 11860000,
+          "timeMinutes": 122836,
+          "timeDisplay": "85d 7h 16m",
+          "value": "28.20%"
+        },
+        {
+          "level": 95,
+          "cost": 12210000,
+          "timeMinutes": 126219,
+          "timeDisplay": "87d 15h 39m",
+          "value": "28.50%"
+        },
+        {
+          "level": 96,
+          "cost": 12570000,
+          "timeMinutes": 129659,
+          "timeDisplay": "90d 0h 59m",
+          "value": "28.80%"
+        },
+        {
+          "level": 97,
+          "cost": 12930000,
+          "timeMinutes": 133154,
+          "timeDisplay": "92d 11h 14m",
+          "value": "29.10%"
+        },
+        {
+          "level": 98,
+          "cost": 13290000,
+          "timeMinutes": 136707,
+          "timeDisplay": "94d 22h 27m",
+          "value": "29.40%"
+        },
+        {
+          "level": 99,
+          "cost": 13670000,
+          "timeMinutes": 140316,
+          "timeDisplay": "97d 10h 36m",
+          "value": "29.70%"
+        }
+      ]
+    },
+    {
+      "id": "more-round-stats",
+      "name": "More Round Stats",
+      "maxLevel": 1,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 1 wave 250. Has 1 level.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 250000,
+          "timeMinutes": 719,
+          "timeDisplay": "0d 11h 59m",
+          "value": "Unlocked"
+        }
+      ]
+    },
+    {
+      "id": "starting-cash",
+      "name": "Starting Cash",
+      "maxLevel": 99,
+      "unlock": "Unlocked with [[Lab Upgrades|labs]] in [[Milestones]] at tier 1 wave 30. Has 99 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30,
+          "timeMinutes": 0,
+          "timeDisplay": "0d 0h 0m",
+          "value": "5"
+        },
+        {
+          "level": 2,
+          "cost": 71,
+          "timeMinutes": 6,
+          "timeDisplay": "0d 0h 6m",
+          "value": "10"
+        },
+        {
+          "level": 3,
+          "cost": 178,
+          "timeMinutes": 16,
+          "timeDisplay": "0d 0h 16m",
+          "value": "15"
+        },
+        {
+          "level": 4,
+          "cost": 398,
+          "timeMinutes": 31,
+          "timeDisplay": "0d 0h 31m",
+          "value": "20"
+        },
+        {
+          "level": 5,
+          "cost": 772,
+          "timeMinutes": 52,
+          "timeDisplay": "0d 0h 52m",
+          "value": "25"
+        },
+        {
+          "level": 6,
+          "cost": 1340,
+          "timeMinutes": 80,
+          "timeDisplay": "0d 1h 20m",
+          "value": "30"
+        },
+        {
+          "level": 7,
+          "cost": 2120,
+          "timeMinutes": 116,
+          "timeDisplay": "0d 1h 56m",
+          "value": "35"
+        },
+        {
+          "level": 8,
+          "cost": 3170,
+          "timeMinutes": 159,
+          "timeDisplay": "0d 2h 39m",
+          "value": "40"
+        },
+        {
+          "level": 9,
+          "cost": 4510,
+          "timeMinutes": 211,
+          "timeDisplay": "0d 3h 31m",
+          "value": "45"
+        },
+        {
+          "level": 10,
+          "cost": 6170,
+          "timeMinutes": 272,
+          "timeDisplay": "0d 4h 32m",
+          "value": "50"
+        },
+        {
+          "level": 11,
+          "cost": 8170,
+          "timeMinutes": 343,
+          "timeDisplay": "0d 5h 43m",
+          "value": "55"
+        },
+        {
+          "level": 12,
+          "cost": 10560,
+          "timeMinutes": 423,
+          "timeDisplay": "0d 7h 3m",
+          "value": "60"
+        },
+        {
+          "level": 13,
+          "cost": 13350,
+          "timeMinutes": 514,
+          "timeDisplay": "0d 8h 34m",
+          "value": "65"
+        },
+        {
+          "level": 14,
+          "cost": 16580,
+          "timeMinutes": 615,
+          "timeDisplay": "0d 10h 15m",
+          "value": "70"
+        },
+        {
+          "level": 15,
+          "cost": 20270,
+          "timeMinutes": 727,
+          "timeDisplay": "0d 12h 7m",
+          "value": "75"
+        },
+        {
+          "level": 16,
+          "cost": 24440,
+          "timeMinutes": 850,
+          "timeDisplay": "0d 14h 10m",
+          "value": "80"
+        },
+        {
+          "level": 17,
+          "cost": 29130,
+          "timeMinutes": 985,
+          "timeDisplay": "0d 16h 25m",
+          "value": "85"
+        },
+        {
+          "level": 18,
+          "cost": 34360,
+          "timeMinutes": 1132,
+          "timeDisplay": "0d 18h 52m",
+          "value": "90"
+        },
+        {
+          "level": 19,
+          "cost": 40160,
+          "timeMinutes": 1291,
+          "timeDisplay": "0d 21h 31m",
+          "value": "95"
+        },
+        {
+          "level": 20,
+          "cost": 46540,
+          "timeMinutes": 1462,
+          "timeDisplay": "1d 0h 22m",
+          "value": "100"
+        },
+        {
+          "level": 21,
+          "cost": 53530,
+          "timeMinutes": 1646,
+          "timeDisplay": "1d 3h 26m",
+          "value": "105"
+        },
+        {
+          "level": 22,
+          "cost": 61160,
+          "timeMinutes": 1844,
+          "timeDisplay": "1d 6h 44m",
+          "value": "110"
+        },
+        {
+          "level": 23,
+          "cost": 69460,
+          "timeMinutes": 2054,
+          "timeDisplay": "1d 10h 14m",
+          "value": "115"
+        },
+        {
+          "level": 24,
+          "cost": 78430,
+          "timeMinutes": 2278,
+          "timeDisplay": "1d 13h 58m",
+          "value": "120"
+        },
+        {
+          "level": 25,
+          "cost": 88120,
+          "timeMinutes": 2516,
+          "timeDisplay": "1d 17h 56m",
+          "value": "125"
+        },
+        {
+          "level": 26,
+          "cost": 98530,
+          "timeMinutes": 2767,
+          "timeDisplay": "1d 22h 7m",
+          "value": "130"
+        },
+        {
+          "level": 27,
+          "cost": 109700,
+          "timeMinutes": 3033,
+          "timeDisplay": "2d 2h 33m",
+          "value": "135"
+        },
+        {
+          "level": 28,
+          "cost": 121650,
+          "timeMinutes": 3313,
+          "timeDisplay": "2d 7h 13m",
+          "value": "140"
+        },
+        {
+          "level": 29,
+          "cost": 134390,
+          "timeMinutes": 3608,
+          "timeDisplay": "2d 12h 8m",
+          "value": "145"
+        },
+        {
+          "level": 30,
+          "cost": 147950,
+          "timeMinutes": 3918,
+          "timeDisplay": "2d 17h 18m",
+          "value": "150"
+        },
+        {
+          "level": 31,
+          "cost": 162350,
+          "timeMinutes": 4243,
+          "timeDisplay": "2d 22h 43m",
+          "value": "155"
+        },
+        {
+          "level": 32,
+          "cost": 177620,
+          "timeMinutes": 4583,
+          "timeDisplay": "3d 4h 23m",
+          "value": "160"
+        },
+        {
+          "level": 33,
+          "cost": 193780,
+          "timeMinutes": 4938,
+          "timeDisplay": "3d 10h 18m",
+          "value": "165"
+        },
+        {
+          "level": 34,
+          "cost": 210830,
+          "timeMinutes": 5310,
+          "timeDisplay": "3d 16h 30m",
+          "value": "170"
+        },
+        {
+          "level": 35,
+          "cost": 228820,
+          "timeMinutes": 5697,
+          "timeDisplay": "3d 22h 57m",
+          "value": "175"
+        },
+        {
+          "level": 36,
+          "cost": 247760,
+          "timeMinutes": 6100,
+          "timeDisplay": "4d 5h 40m",
+          "value": "180"
+        },
+        {
+          "level": 37,
+          "cost": 267660,
+          "timeMinutes": 6520,
+          "timeDisplay": "4d 12h 40m",
+          "value": "185"
+        },
+        {
+          "level": 38,
+          "cost": 288560,
+          "timeMinutes": 6955,
+          "timeDisplay": "4d 19h 55m",
+          "value": "190"
+        },
+        {
+          "level": 39,
+          "cost": 310470,
+          "timeMinutes": 7408,
+          "timeDisplay": "5d 3h 28m",
+          "value": "195"
+        },
+        {
+          "level": 40,
+          "cost": 333400,
+          "timeMinutes": 7877,
+          "timeDisplay": "5d 11h 17m",
+          "value": "200"
+        },
+        {
+          "level": 41,
+          "cost": 357390,
+          "timeMinutes": 8364,
+          "timeDisplay": "5d 19h 24m",
+          "value": "205"
+        },
+        {
+          "level": 42,
+          "cost": 382450,
+          "timeMinutes": 8867,
+          "timeDisplay": "6d 3h 47m",
+          "value": "210"
+        },
+        {
+          "level": 43,
+          "cost": 408600,
+          "timeMinutes": 9388,
+          "timeDisplay": "6d 12h 28m",
+          "value": "215"
+        },
+        {
+          "level": 44,
+          "cost": 435870,
+          "timeMinutes": 9926,
+          "timeDisplay": "6d 21h 26m",
+          "value": "220"
+        },
+        {
+          "level": 45,
+          "cost": 464260,
+          "timeMinutes": 10482,
+          "timeDisplay": "7d 6h 42m",
+          "value": "225"
+        },
+        {
+          "level": 46,
+          "cost": 493810,
+          "timeMinutes": 11055,
+          "timeDisplay": "7d 16h 15m",
+          "value": "230"
+        },
+        {
+          "level": 47,
+          "cost": 524530,
+          "timeMinutes": 11647,
+          "timeDisplay": "8d 2h 7m",
+          "value": "235"
+        },
+        {
+          "level": 48,
+          "cost": 556430,
+          "timeMinutes": 12257,
+          "timeDisplay": "8d 12h 17m",
+          "value": "240"
+        },
+        {
+          "level": 49,
+          "cost": 589550,
+          "timeMinutes": 12885,
+          "timeDisplay": "8d 22h 45m",
+          "value": "245"
+        },
+        {
+          "level": 50,
+          "cost": 623890,
+          "timeMinutes": 13531,
+          "timeDisplay": "9d 9h 31m",
+          "value": "250"
+        },
+        {
+          "level": 51,
+          "cost": 659490,
+          "timeMinutes": 14197,
+          "timeDisplay": "9d 20h 37m",
+          "value": "255"
+        },
+        {
+          "level": 52,
+          "cost": 696340,
+          "timeMinutes": 14880,
+          "timeDisplay": "10d 8h 0m",
+          "value": "260"
+        },
+        {
+          "level": 53,
+          "cost": 734490,
+          "timeMinutes": 15583,
+          "timeDisplay": "10d 19h 43m",
+          "value": "265"
+        },
+        {
+          "level": 54,
+          "cost": 773940,
+          "timeMinutes": 16305,
+          "timeDisplay": "11d 7h 45m",
+          "value": "270"
+        },
+        {
+          "level": 55,
+          "cost": 814710,
+          "timeMinutes": 17046,
+          "timeDisplay": "11d 20h 6m",
+          "value": "275"
+        },
+        {
+          "level": 56,
+          "cost": 856830,
+          "timeMinutes": 17806,
+          "timeDisplay": "12d 8h 46m",
+          "value": "280"
+        },
+        {
+          "level": 57,
+          "cost": 900300,
+          "timeMinutes": 18586,
+          "timeDisplay": "12d 21h 46m",
+          "value": "285"
+        },
+        {
+          "level": 58,
+          "cost": 945160,
+          "timeMinutes": 19385,
+          "timeDisplay": "13d 11h 5m",
+          "value": "290"
+        },
+        {
+          "level": 59,
+          "cost": 991410,
+          "timeMinutes": 20204,
+          "timeDisplay": "14d 0h 44m",
+          "value": "295"
+        },
+        {
+          "level": 60,
+          "cost": 1040000,
+          "timeMinutes": 21043,
+          "timeDisplay": "14d 14h 43m",
+          "value": "300"
+        },
+        {
+          "level": 61,
+          "cost": 1090000,
+          "timeMinutes": 21903,
+          "timeDisplay": "15d 5h 3m",
+          "value": "305"
+        },
+        {
+          "level": 62,
+          "cost": 1140000,
+          "timeMinutes": 22782,
+          "timeDisplay": "15d 19h 42m",
+          "value": "310"
+        },
+        {
+          "level": 63,
+          "cost": 1190000,
+          "timeMinutes": 23681,
+          "timeDisplay": "16d 10h 41m",
+          "value": "315"
+        },
+        {
+          "level": 64,
+          "cost": 1240000,
+          "timeMinutes": 24601,
+          "timeDisplay": "17d 2h 1m",
+          "value": "320"
+        },
+        {
+          "level": 65,
+          "cost": 1300000,
+          "timeMinutes": 25542,
+          "timeDisplay": "17d 17h 42m",
+          "value": "325"
+        },
+        {
+          "level": 66,
+          "cost": 1360000,
+          "timeMinutes": 26503,
+          "timeDisplay": "18d 9h 43m",
+          "value": "330"
+        },
+        {
+          "level": 67,
+          "cost": 1410000,
+          "timeMinutes": 27485,
+          "timeDisplay": "19d 2h 5m",
+          "value": "335"
+        },
+        {
+          "level": 68,
+          "cost": 1470000,
+          "timeMinutes": 28488,
+          "timeDisplay": "19d 18h 48m",
+          "value": "340"
+        },
+        {
+          "level": 69,
+          "cost": 1530000,
+          "timeMinutes": 29512,
+          "timeDisplay": "20d 11h 52m",
+          "value": "345"
+        },
+        {
+          "level": 70,
+          "cost": 1600000,
+          "timeMinutes": 30557,
+          "timeDisplay": "21d 5h 17m",
+          "value": "350"
+        },
+        {
+          "level": 71,
+          "cost": 1660000,
+          "timeMinutes": 31624,
+          "timeDisplay": "21d 23h 4m",
+          "value": "355"
+        },
+        {
+          "level": 72,
+          "cost": 1730000,
+          "timeMinutes": 32712,
+          "timeDisplay": "22d 17h 12m",
+          "value": "360"
+        },
+        {
+          "level": 73,
+          "cost": 1800000,
+          "timeMinutes": 33821,
+          "timeDisplay": "23d 11h 41m",
+          "value": "365"
+        },
+        {
+          "level": 74,
+          "cost": 1870000,
+          "timeMinutes": 34952,
+          "timeDisplay": "24d 6h 32m",
+          "value": "370"
+        },
+        {
+          "level": 75,
+          "cost": 1940000,
+          "timeMinutes": 36106,
+          "timeDisplay": "25d 1h 46m",
+          "value": "375"
+        },
+        {
+          "level": 76,
+          "cost": 2010000,
+          "timeMinutes": 37280,
+          "timeDisplay": "25d 21h 20m",
+          "value": "380"
+        },
+        {
+          "level": 77,
+          "cost": 2080000,
+          "timeMinutes": 38478,
+          "timeDisplay": "26d 17h 18m",
+          "value": "385"
+        },
+        {
+          "level": 78,
+          "cost": 2160000,
+          "timeMinutes": 39697,
+          "timeDisplay": "27d 13h 37m",
+          "value": "390"
+        },
+        {
+          "level": 79,
+          "cost": 2240000,
+          "timeMinutes": 40938,
+          "timeDisplay": "28d 10h 18m",
+          "value": "395"
+        },
+        {
+          "level": 80,
+          "cost": 2320000,
+          "timeMinutes": 42202,
+          "timeDisplay": "29d 7h 22m",
+          "value": "400"
+        },
+        {
+          "level": 81,
+          "cost": 2400000,
+          "timeMinutes": 43488,
+          "timeDisplay": "30d 4h 48m",
+          "value": "405"
+        },
+        {
+          "level": 82,
+          "cost": 2480000,
+          "timeMinutes": 44797,
+          "timeDisplay": "31d 2h 37m",
+          "value": "410"
+        },
+        {
+          "level": 83,
+          "cost": 2570000,
+          "timeMinutes": 46129,
+          "timeDisplay": "32d 0h 49m",
+          "value": "415"
+        },
+        {
+          "level": 84,
+          "cost": 2650000,
+          "timeMinutes": 47484,
+          "timeDisplay": "32d 23h 24m",
+          "value": "420"
+        },
+        {
+          "level": 85,
+          "cost": 2740000,
+          "timeMinutes": 48861,
+          "timeDisplay": "33d 22h 21m",
+          "value": "425"
+        },
+        {
+          "level": 86,
+          "cost": 2830000,
+          "timeMinutes": 50262,
+          "timeDisplay": "34d 21h 42m",
+          "value": "430"
+        },
+        {
+          "level": 87,
+          "cost": 2930000,
+          "timeMinutes": 51686,
+          "timeDisplay": "35d 21h 26m",
+          "value": "435"
+        },
+        {
+          "level": 88,
+          "cost": 3020000,
+          "timeMinutes": 53133,
+          "timeDisplay": "36d 21h 33m",
+          "value": "440"
+        },
+        {
+          "level": 89,
+          "cost": 3120000,
+          "timeMinutes": 54603,
+          "timeDisplay": "37d 22h 3m",
+          "value": "445"
+        },
+        {
+          "level": 90,
+          "cost": 3220000,
+          "timeMinutes": 56097,
+          "timeDisplay": "38d 22h 57m",
+          "value": "450"
+        },
+        {
+          "level": 91,
+          "cost": 3320000,
+          "timeMinutes": 57615,
+          "timeDisplay": "40d 0h 15m",
+          "value": "455"
+        },
+        {
+          "level": 92,
+          "cost": 3420000,
+          "timeMinutes": 59156,
+          "timeDisplay": "41d 1h 56m",
+          "value": "460"
+        },
+        {
+          "level": 93,
+          "cost": 3520000,
+          "timeMinutes": 60721,
+          "timeDisplay": "42d 4h 1m",
+          "value": "465"
+        },
+        {
+          "level": 94,
+          "cost": 3630000,
+          "timeMinutes": 62310,
+          "timeDisplay": "43d 6h 30m",
+          "value": "470"
+        },
+        {
+          "level": 95,
+          "cost": 3740000,
+          "timeMinutes": 63923,
+          "timeDisplay": "44d 9h 23m",
+          "value": "475"
+        },
+        {
+          "level": 96,
+          "cost": 3850000,
+          "timeMinutes": 65560,
+          "timeDisplay": "45d 12h 40m",
+          "value": "480"
+        },
+        {
+          "level": 97,
+          "cost": 3960000,
+          "timeMinutes": 67222,
+          "timeDisplay": "46d 16h 22m",
+          "value": "485"
+        },
+        {
+          "level": 98,
+          "cost": 4070000,
+          "timeMinutes": 68907,
+          "timeDisplay": "47d 20h 27m",
+          "value": "490"
+        },
+        {
+          "level": 99,
+          "cost": 4190000,
+          "timeMinutes": 70617,
+          "timeDisplay": "49d 0h 57m",
+          "value": "495"
+        }
+      ]
+    },
+    {
+      "id": "target-priority",
+      "name": "Target Priority",
+      "maxLevel": 2,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 4 wave 150. Has 2 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1000000,
+          "timeMinutes": 2879,
+          "timeDisplay": "1d 23h 59m",
+          "value": ""
+        },
+        {
+          "level": 2,
+          "cost": 1000000000,
+          "timeMinutes": 11520,
+          "timeDisplay": "8d 0h 0m",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "workshop-attack-discount",
+      "name": "Workshop Attack Discount",
+      "maxLevel": 99,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] on tier 1 wave 40. Has 99 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30,
+          "timeMinutes": 0,
+          "timeDisplay": "0d 0h 0m",
+          "value": "0.50%"
+        },
+        {
+          "level": 2,
+          "cost": 71,
+          "timeMinutes": 6,
+          "timeDisplay": "0d 0h 6m",
+          "value": "1.00%"
+        },
+        {
+          "level": 3,
+          "cost": 178,
+          "timeMinutes": 16,
+          "timeDisplay": "0d 0h 16m",
+          "value": "1.50%"
+        },
+        {
+          "level": 4,
+          "cost": 398,
+          "timeMinutes": 31,
+          "timeDisplay": "0d 0h 31m",
+          "value": "2.00%"
+        },
+        {
+          "level": 5,
+          "cost": 772,
+          "timeMinutes": 52,
+          "timeDisplay": "0d 0h 52m",
+          "value": "2.50%"
+        },
+        {
+          "level": 6,
+          "cost": 1340,
+          "timeMinutes": 80,
+          "timeDisplay": "0d 1h 20m",
+          "value": "3.00%"
+        },
+        {
+          "level": 7,
+          "cost": 2120,
+          "timeMinutes": 116,
+          "timeDisplay": "0d 1h 56m",
+          "value": "3.50%"
+        },
+        {
+          "level": 8,
+          "cost": 3170,
+          "timeMinutes": 159,
+          "timeDisplay": "0d 2h 39m",
+          "value": "4.00%"
+        },
+        {
+          "level": 9,
+          "cost": 4510,
+          "timeMinutes": 211,
+          "timeDisplay": "0d 3h 31m",
+          "value": "4.50%"
+        },
+        {
+          "level": 10,
+          "cost": 6170,
+          "timeMinutes": 272,
+          "timeDisplay": "0d 4h 32m",
+          "value": "5.00%"
+        },
+        {
+          "level": 11,
+          "cost": 8170,
+          "timeMinutes": 343,
+          "timeDisplay": "0d 5h 43m",
+          "value": "5.50%"
+        },
+        {
+          "level": 12,
+          "cost": 10560,
+          "timeMinutes": 423,
+          "timeDisplay": "0d 7h 3m",
+          "value": "6.00%"
+        },
+        {
+          "level": 13,
+          "cost": 13350,
+          "timeMinutes": 514,
+          "timeDisplay": "0d 8h 34m",
+          "value": "6.50%"
+        },
+        {
+          "level": 14,
+          "cost": 16580,
+          "timeMinutes": 615,
+          "timeDisplay": "0d 10h 15m",
+          "value": "7.00%"
+        },
+        {
+          "level": 15,
+          "cost": 20270,
+          "timeMinutes": 727,
+          "timeDisplay": "0d 12h 7m",
+          "value": "7.50%"
+        },
+        {
+          "level": 16,
+          "cost": 24440,
+          "timeMinutes": 850,
+          "timeDisplay": "0d 14h 10m",
+          "value": "8.00%"
+        },
+        {
+          "level": 17,
+          "cost": 29130,
+          "timeMinutes": 985,
+          "timeDisplay": "0d 16h 25m",
+          "value": "8.50%"
+        },
+        {
+          "level": 18,
+          "cost": 34360,
+          "timeMinutes": 1132,
+          "timeDisplay": "0d 18h 52m",
+          "value": "9.00%"
+        },
+        {
+          "level": 19,
+          "cost": 40160,
+          "timeMinutes": 1291,
+          "timeDisplay": "0d 21h 31m",
+          "value": "9.50%"
+        },
+        {
+          "level": 20,
+          "cost": 46540,
+          "timeMinutes": 1462,
+          "timeDisplay": "1d 0h 22m",
+          "value": "10.00%"
+        },
+        {
+          "level": 21,
+          "cost": 53530,
+          "timeMinutes": 1646,
+          "timeDisplay": "1d 3h 26m",
+          "value": "10.50%"
+        },
+        {
+          "level": 22,
+          "cost": 61160,
+          "timeMinutes": 1844,
+          "timeDisplay": "1d 6h 44m",
+          "value": "11.00%"
+        },
+        {
+          "level": 23,
+          "cost": 69460,
+          "timeMinutes": 2054,
+          "timeDisplay": "1d 10h 14m",
+          "value": "11.50%"
+        },
+        {
+          "level": 24,
+          "cost": 78430,
+          "timeMinutes": 2278,
+          "timeDisplay": "1d 13h 58m",
+          "value": "12.00%"
+        },
+        {
+          "level": 25,
+          "cost": 88120,
+          "timeMinutes": 2516,
+          "timeDisplay": "1d 17h 56m",
+          "value": "12.50%"
+        },
+        {
+          "level": 26,
+          "cost": 98530,
+          "timeMinutes": 2767,
+          "timeDisplay": "1d 22h 7m",
+          "value": "13.00%"
+        },
+        {
+          "level": 27,
+          "cost": 109700,
+          "timeMinutes": 3033,
+          "timeDisplay": "2d 2h 33m",
+          "value": "13.50%"
+        },
+        {
+          "level": 28,
+          "cost": 121650,
+          "timeMinutes": 3313,
+          "timeDisplay": "2d 7h 13m",
+          "value": "14.00%"
+        },
+        {
+          "level": 29,
+          "cost": 134390,
+          "timeMinutes": 3608,
+          "timeDisplay": "2d 12h 8m",
+          "value": "14.50%"
+        },
+        {
+          "level": 30,
+          "cost": 147950,
+          "timeMinutes": 3918,
+          "timeDisplay": "2d 17h 18m",
+          "value": "15.00%"
+        },
+        {
+          "level": 31,
+          "cost": 162350,
+          "timeMinutes": 4243,
+          "timeDisplay": "2d 22h 43m",
+          "value": "15.50%"
+        },
+        {
+          "level": 32,
+          "cost": 177620,
+          "timeMinutes": 4583,
+          "timeDisplay": "3d 4h 23m",
+          "value": "16.00%"
+        },
+        {
+          "level": 33,
+          "cost": 193780,
+          "timeMinutes": 4938,
+          "timeDisplay": "3d 10h 18m",
+          "value": "16.50%"
+        },
+        {
+          "level": 34,
+          "cost": 210830,
+          "timeMinutes": 5310,
+          "timeDisplay": "3d 16h 30m",
+          "value": "17.00%"
+        },
+        {
+          "level": 35,
+          "cost": 228820,
+          "timeMinutes": 5697,
+          "timeDisplay": "3d 22h 57m",
+          "value": "17.50%"
+        },
+        {
+          "level": 36,
+          "cost": 247760,
+          "timeMinutes": 6100,
+          "timeDisplay": "4d 5h 40m",
+          "value": "18.00%"
+        },
+        {
+          "level": 37,
+          "cost": 267660,
+          "timeMinutes": 6520,
+          "timeDisplay": "4d 12h 40m",
+          "value": "18.50%"
+        },
+        {
+          "level": 38,
+          "cost": 288560,
+          "timeMinutes": 6955,
+          "timeDisplay": "4d 19h 55m",
+          "value": "19.00%"
+        },
+        {
+          "level": 39,
+          "cost": 310470,
+          "timeMinutes": 7408,
+          "timeDisplay": "5d 3h 28m",
+          "value": "19.50%"
+        },
+        {
+          "level": 40,
+          "cost": 333400,
+          "timeMinutes": 7877,
+          "timeDisplay": "5d 11h 17m",
+          "value": "20.00%"
+        },
+        {
+          "level": 41,
+          "cost": 357390,
+          "timeMinutes": 8364,
+          "timeDisplay": "5d 19h 24m",
+          "value": "20.50%"
+        },
+        {
+          "level": 42,
+          "cost": 382450,
+          "timeMinutes": 8867,
+          "timeDisplay": "6d 3h 47m",
+          "value": "21.00%"
+        },
+        {
+          "level": 43,
+          "cost": 408600,
+          "timeMinutes": 9388,
+          "timeDisplay": "6d 12h 28m",
+          "value": "21.50%"
+        },
+        {
+          "level": 44,
+          "cost": 435870,
+          "timeMinutes": 9926,
+          "timeDisplay": "6d 21h 26m",
+          "value": "22.00%"
+        },
+        {
+          "level": 45,
+          "cost": 464260,
+          "timeMinutes": 10482,
+          "timeDisplay": "7d 6h 42m",
+          "value": "22.50%"
+        },
+        {
+          "level": 46,
+          "cost": 493810,
+          "timeMinutes": 11055,
+          "timeDisplay": "7d 16h 15m",
+          "value": "23.00%"
+        },
+        {
+          "level": 47,
+          "cost": 524530,
+          "timeMinutes": 11647,
+          "timeDisplay": "8d 2h 7m",
+          "value": "23.50%"
+        },
+        {
+          "level": 48,
+          "cost": 556430,
+          "timeMinutes": 12257,
+          "timeDisplay": "8d 12h 17m",
+          "value": "24.00%"
+        },
+        {
+          "level": 49,
+          "cost": 589550,
+          "timeMinutes": 12885,
+          "timeDisplay": "8d 22h 45m",
+          "value": "24.50%"
+        },
+        {
+          "level": 50,
+          "cost": 623890,
+          "timeMinutes": 13531,
+          "timeDisplay": "9d 9h 31m",
+          "value": "25.00%"
+        },
+        {
+          "level": 51,
+          "cost": 659490,
+          "timeMinutes": 14197,
+          "timeDisplay": "9d 20h 37m",
+          "value": "25.50%"
+        },
+        {
+          "level": 52,
+          "cost": 696340,
+          "timeMinutes": 14880,
+          "timeDisplay": "10d 8h 0m",
+          "value": "26.00%"
+        },
+        {
+          "level": 53,
+          "cost": 734490,
+          "timeMinutes": 15583,
+          "timeDisplay": "10d 19h 43m",
+          "value": "26.50%"
+        },
+        {
+          "level": 54,
+          "cost": 773940,
+          "timeMinutes": 16305,
+          "timeDisplay": "11d 7h 45m",
+          "value": "27.00%"
+        },
+        {
+          "level": 55,
+          "cost": 814710,
+          "timeMinutes": 17046,
+          "timeDisplay": "11d 20h 6m",
+          "value": "27.50%"
+        },
+        {
+          "level": 56,
+          "cost": 856830,
+          "timeMinutes": 17806,
+          "timeDisplay": "12d 8h 46m",
+          "value": "28.00%"
+        },
+        {
+          "level": 57,
+          "cost": 900300,
+          "timeMinutes": 18586,
+          "timeDisplay": "12d 21h 46m",
+          "value": "28.50%"
+        },
+        {
+          "level": 58,
+          "cost": 945160,
+          "timeMinutes": 19385,
+          "timeDisplay": "13d 11h 5m",
+          "value": "29.00%"
+        },
+        {
+          "level": 59,
+          "cost": 991410,
+          "timeMinutes": 20204,
+          "timeDisplay": "14d 0h 44m",
+          "value": "29.50%"
+        },
+        {
+          "level": 60,
+          "cost": 1040000,
+          "timeMinutes": 21043,
+          "timeDisplay": "14d 14h 43m",
+          "value": "30.00%"
+        },
+        {
+          "level": 61,
+          "cost": 1090000,
+          "timeMinutes": 21903,
+          "timeDisplay": "15d 5h 3m",
+          "value": "30.50%"
+        },
+        {
+          "level": 62,
+          "cost": 1140000,
+          "timeMinutes": 22782,
+          "timeDisplay": "15d 19h 42m",
+          "value": "31.00%"
+        },
+        {
+          "level": 63,
+          "cost": 1190000,
+          "timeMinutes": 23681,
+          "timeDisplay": "16d 10h 41m",
+          "value": "31.50%"
+        },
+        {
+          "level": 64,
+          "cost": 1240000,
+          "timeMinutes": 24601,
+          "timeDisplay": "17d 2h 1m",
+          "value": "32.00%"
+        },
+        {
+          "level": 65,
+          "cost": 1300000,
+          "timeMinutes": 25542,
+          "timeDisplay": "17d 17h 42m",
+          "value": "32.50%"
+        },
+        {
+          "level": 66,
+          "cost": 1360000,
+          "timeMinutes": 26503,
+          "timeDisplay": "18d 9h 43m",
+          "value": "33.00%"
+        },
+        {
+          "level": 67,
+          "cost": 1410000,
+          "timeMinutes": 27485,
+          "timeDisplay": "19d 2h 5m",
+          "value": "33.50%"
+        },
+        {
+          "level": 68,
+          "cost": 1470000,
+          "timeMinutes": 28488,
+          "timeDisplay": "19d 18h 48m",
+          "value": "34.00%"
+        },
+        {
+          "level": 69,
+          "cost": 1530000,
+          "timeMinutes": 29512,
+          "timeDisplay": "20d 11h 52m",
+          "value": "34.50%"
+        },
+        {
+          "level": 70,
+          "cost": 1600000,
+          "timeMinutes": 30557,
+          "timeDisplay": "21d 5h 17m",
+          "value": "35.00%"
+        },
+        {
+          "level": 71,
+          "cost": 1660000,
+          "timeMinutes": 31624,
+          "timeDisplay": "21d 23h 4m",
+          "value": "35.50%"
+        },
+        {
+          "level": 72,
+          "cost": 1730000,
+          "timeMinutes": 32712,
+          "timeDisplay": "22d 17h 12m",
+          "value": "36.00%"
+        },
+        {
+          "level": 73,
+          "cost": 1800000,
+          "timeMinutes": 33821,
+          "timeDisplay": "23d 11h 41m",
+          "value": "36.50%"
+        },
+        {
+          "level": 74,
+          "cost": 1870000,
+          "timeMinutes": 34952,
+          "timeDisplay": "24d 6h 32m",
+          "value": "37.00%"
+        },
+        {
+          "level": 75,
+          "cost": 1940000,
+          "timeMinutes": 36106,
+          "timeDisplay": "25d 1h 46m",
+          "value": "37.50%"
+        },
+        {
+          "level": 76,
+          "cost": 2010000,
+          "timeMinutes": 37280,
+          "timeDisplay": "25d 21h 20m",
+          "value": "38.00%"
+        },
+        {
+          "level": 77,
+          "cost": 2080000,
+          "timeMinutes": 38478,
+          "timeDisplay": "26d 17h 18m",
+          "value": "38.50%"
+        },
+        {
+          "level": 78,
+          "cost": 2160000,
+          "timeMinutes": 39697,
+          "timeDisplay": "27d 13h 37m",
+          "value": "39.00%"
+        },
+        {
+          "level": 79,
+          "cost": 2240000,
+          "timeMinutes": 40938,
+          "timeDisplay": "28d 10h 18m",
+          "value": "39.50%"
+        },
+        {
+          "level": 80,
+          "cost": 2320000,
+          "timeMinutes": 42202,
+          "timeDisplay": "29d 7h 22m",
+          "value": "40.00%"
+        },
+        {
+          "level": 81,
+          "cost": 2400000,
+          "timeMinutes": 43488,
+          "timeDisplay": "30d 4h 48m",
+          "value": "40.50%"
+        },
+        {
+          "level": 82,
+          "cost": 2480000,
+          "timeMinutes": 44797,
+          "timeDisplay": "31d 2h 37m",
+          "value": "41.00%"
+        },
+        {
+          "level": 83,
+          "cost": 2570000,
+          "timeMinutes": 46129,
+          "timeDisplay": "32d 0h 49m",
+          "value": "41.50%"
+        },
+        {
+          "level": 84,
+          "cost": 2650000,
+          "timeMinutes": 47484,
+          "timeDisplay": "32d 23h 24m",
+          "value": "42.00%"
+        },
+        {
+          "level": 85,
+          "cost": 2740000,
+          "timeMinutes": 48861,
+          "timeDisplay": "33d 22h 21m",
+          "value": "42.50%"
+        },
+        {
+          "level": 86,
+          "cost": 2830000,
+          "timeMinutes": 50262,
+          "timeDisplay": "34d 21h 42m",
+          "value": "43.00%"
+        },
+        {
+          "level": 87,
+          "cost": 2930000,
+          "timeMinutes": 51686,
+          "timeDisplay": "35d 21h 26m",
+          "value": "43.50%"
+        },
+        {
+          "level": 88,
+          "cost": 3020000,
+          "timeMinutes": 53133,
+          "timeDisplay": "36d 21h 33m",
+          "value": "44.00%"
+        },
+        {
+          "level": 89,
+          "cost": 3120000,
+          "timeMinutes": 54603,
+          "timeDisplay": "37d 22h 3m",
+          "value": "44.50%"
+        },
+        {
+          "level": 90,
+          "cost": 3220000,
+          "timeMinutes": 56097,
+          "timeDisplay": "38d 22h 57m",
+          "value": "45.00%"
+        },
+        {
+          "level": 91,
+          "cost": 3320000,
+          "timeMinutes": 57615,
+          "timeDisplay": "40d 0h 15m",
+          "value": "45.50%"
+        },
+        {
+          "level": 92,
+          "cost": 3420000,
+          "timeMinutes": 59156,
+          "timeDisplay": "41d 1h 56m",
+          "value": "46.00%"
+        },
+        {
+          "level": 93,
+          "cost": 3520000,
+          "timeMinutes": 60721,
+          "timeDisplay": "42d 4h 1m",
+          "value": "46.50%"
+        },
+        {
+          "level": 94,
+          "cost": 3630000,
+          "timeMinutes": 62310,
+          "timeDisplay": "43d 6h 30m",
+          "value": "47.00%"
+        },
+        {
+          "level": 95,
+          "cost": 3740000,
+          "timeMinutes": 63923,
+          "timeDisplay": "44d 9h 23m",
+          "value": "47.50%"
+        },
+        {
+          "level": 96,
+          "cost": 3850000,
+          "timeMinutes": 65560,
+          "timeDisplay": "45d 12h 40m",
+          "value": "48.00%"
+        },
+        {
+          "level": 97,
+          "cost": 3960000,
+          "timeMinutes": 67222,
+          "timeDisplay": "46d 16h 22m",
+          "value": "48.50%"
+        },
+        {
+          "level": 98,
+          "cost": 4070000,
+          "timeMinutes": 68907,
+          "timeDisplay": "47d 20h 27m",
+          "value": "49.00%"
+        },
+        {
+          "level": 99,
+          "cost": 4190000,
+          "timeMinutes": 70617,
+          "timeDisplay": "49d 0h 57m",
+          "value": "49.50%"
+        }
+      ]
+    },
+    {
+      "id": "workshop-defense-discount",
+      "name": "Workshop Defense Discount",
+      "maxLevel": 99,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 2 wave 50. Has 99 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30,
+          "timeMinutes": 0,
+          "timeDisplay": "0d 0h 0m",
+          "value": "0.50%"
+        },
+        {
+          "level": 2,
+          "cost": 71,
+          "timeMinutes": 6,
+          "timeDisplay": "0d 0h 6m",
+          "value": "1.00%"
+        },
+        {
+          "level": 3,
+          "cost": 178,
+          "timeMinutes": 16,
+          "timeDisplay": "0d 0h 16m",
+          "value": "1.50%"
+        },
+        {
+          "level": 4,
+          "cost": 398,
+          "timeMinutes": 31,
+          "timeDisplay": "0d 0h 31m",
+          "value": "2.00%"
+        },
+        {
+          "level": 5,
+          "cost": 772,
+          "timeMinutes": 52,
+          "timeDisplay": "0d 0h 52m",
+          "value": "2.50%"
+        },
+        {
+          "level": 6,
+          "cost": 1340,
+          "timeMinutes": 80,
+          "timeDisplay": "0d 1h 20m",
+          "value": "3.00%"
+        },
+        {
+          "level": 7,
+          "cost": 2120,
+          "timeMinutes": 116,
+          "timeDisplay": "0d 1h 56m",
+          "value": "3.50%"
+        },
+        {
+          "level": 8,
+          "cost": 3170,
+          "timeMinutes": 159,
+          "timeDisplay": "0d 2h 39m",
+          "value": "4.00%"
+        },
+        {
+          "level": 9,
+          "cost": 4510,
+          "timeMinutes": 211,
+          "timeDisplay": "0d 3h 31m",
+          "value": "4.50%"
+        },
+        {
+          "level": 10,
+          "cost": 6170,
+          "timeMinutes": 272,
+          "timeDisplay": "0d 4h 32m",
+          "value": "5.00%"
+        },
+        {
+          "level": 11,
+          "cost": 8170,
+          "timeMinutes": 343,
+          "timeDisplay": "0d 5h 43m",
+          "value": "5.50%"
+        },
+        {
+          "level": 12,
+          "cost": 10560,
+          "timeMinutes": 423,
+          "timeDisplay": "0d 7h 3m",
+          "value": "6.00%"
+        },
+        {
+          "level": 13,
+          "cost": 13350,
+          "timeMinutes": 514,
+          "timeDisplay": "0d 8h 34m",
+          "value": "6.50%"
+        },
+        {
+          "level": 14,
+          "cost": 16580,
+          "timeMinutes": 615,
+          "timeDisplay": "0d 10h 15m",
+          "value": "7.00%"
+        },
+        {
+          "level": 15,
+          "cost": 20270,
+          "timeMinutes": 727,
+          "timeDisplay": "0d 12h 7m",
+          "value": "7.50%"
+        },
+        {
+          "level": 16,
+          "cost": 24440,
+          "timeMinutes": 850,
+          "timeDisplay": "0d 14h 10m",
+          "value": "8.00%"
+        },
+        {
+          "level": 17,
+          "cost": 29130,
+          "timeMinutes": 985,
+          "timeDisplay": "0d 16h 25m",
+          "value": "8.50%"
+        },
+        {
+          "level": 18,
+          "cost": 34360,
+          "timeMinutes": 1132,
+          "timeDisplay": "0d 18h 52m",
+          "value": "9.00%"
+        },
+        {
+          "level": 19,
+          "cost": 40160,
+          "timeMinutes": 1291,
+          "timeDisplay": "0d 21h 31m",
+          "value": "9.50%"
+        },
+        {
+          "level": 20,
+          "cost": 46540,
+          "timeMinutes": 1462,
+          "timeDisplay": "1d 0h 22m",
+          "value": "10.00%"
+        },
+        {
+          "level": 21,
+          "cost": 53530,
+          "timeMinutes": 1646,
+          "timeDisplay": "1d 3h 26m",
+          "value": "10.50%"
+        },
+        {
+          "level": 22,
+          "cost": 61160,
+          "timeMinutes": 1844,
+          "timeDisplay": "1d 6h 44m",
+          "value": "11.00%"
+        },
+        {
+          "level": 23,
+          "cost": 69460,
+          "timeMinutes": 2054,
+          "timeDisplay": "1d 10h 14m",
+          "value": "11.50%"
+        },
+        {
+          "level": 24,
+          "cost": 78430,
+          "timeMinutes": 2278,
+          "timeDisplay": "1d 13h 58m",
+          "value": "12.00%"
+        },
+        {
+          "level": 25,
+          "cost": 88120,
+          "timeMinutes": 2516,
+          "timeDisplay": "1d 17h 56m",
+          "value": "12.50%"
+        },
+        {
+          "level": 26,
+          "cost": 98530,
+          "timeMinutes": 2767,
+          "timeDisplay": "1d 22h 7m",
+          "value": "13.00%"
+        },
+        {
+          "level": 27,
+          "cost": 109700,
+          "timeMinutes": 3033,
+          "timeDisplay": "2d 2h 33m",
+          "value": "13.50%"
+        },
+        {
+          "level": 28,
+          "cost": 121650,
+          "timeMinutes": 3313,
+          "timeDisplay": "2d 7h 13m",
+          "value": "14.00%"
+        },
+        {
+          "level": 29,
+          "cost": 134390,
+          "timeMinutes": 3608,
+          "timeDisplay": "2d 12h 8m",
+          "value": "14.50%"
+        },
+        {
+          "level": 30,
+          "cost": 147950,
+          "timeMinutes": 3918,
+          "timeDisplay": "2d 17h 18m",
+          "value": "15.00%"
+        },
+        {
+          "level": 31,
+          "cost": 162350,
+          "timeMinutes": 4243,
+          "timeDisplay": "2d 22h 43m",
+          "value": "15.50%"
+        },
+        {
+          "level": 32,
+          "cost": 177620,
+          "timeMinutes": 4583,
+          "timeDisplay": "3d 4h 23m",
+          "value": "16.00%"
+        },
+        {
+          "level": 33,
+          "cost": 193780,
+          "timeMinutes": 4938,
+          "timeDisplay": "3d 10h 18m",
+          "value": "16.50%"
+        },
+        {
+          "level": 34,
+          "cost": 210830,
+          "timeMinutes": 5310,
+          "timeDisplay": "3d 16h 30m",
+          "value": "17.00%"
+        },
+        {
+          "level": 35,
+          "cost": 228820,
+          "timeMinutes": 5697,
+          "timeDisplay": "3d 22h 57m",
+          "value": "17.50%"
+        },
+        {
+          "level": 36,
+          "cost": 247760,
+          "timeMinutes": 6100,
+          "timeDisplay": "4d 5h 40m",
+          "value": "18.00%"
+        },
+        {
+          "level": 37,
+          "cost": 267660,
+          "timeMinutes": 6520,
+          "timeDisplay": "4d 12h 40m",
+          "value": "18.50%"
+        },
+        {
+          "level": 38,
+          "cost": 288560,
+          "timeMinutes": 6955,
+          "timeDisplay": "4d 19h 55m",
+          "value": "19.00%"
+        },
+        {
+          "level": 39,
+          "cost": 310470,
+          "timeMinutes": 7408,
+          "timeDisplay": "5d 3h 28m",
+          "value": "19.50%"
+        },
+        {
+          "level": 40,
+          "cost": 333400,
+          "timeMinutes": 7877,
+          "timeDisplay": "5d 11h 17m",
+          "value": "20.00%"
+        },
+        {
+          "level": 41,
+          "cost": 357390,
+          "timeMinutes": 8364,
+          "timeDisplay": "5d 19h 24m",
+          "value": "20.50%"
+        },
+        {
+          "level": 42,
+          "cost": 382450,
+          "timeMinutes": 8867,
+          "timeDisplay": "6d 3h 47m",
+          "value": "21.00%"
+        },
+        {
+          "level": 43,
+          "cost": 408600,
+          "timeMinutes": 9388,
+          "timeDisplay": "6d 12h 28m",
+          "value": "21.50%"
+        },
+        {
+          "level": 44,
+          "cost": 435870,
+          "timeMinutes": 9926,
+          "timeDisplay": "6d 21h 26m",
+          "value": "22.00%"
+        },
+        {
+          "level": 45,
+          "cost": 464260,
+          "timeMinutes": 10482,
+          "timeDisplay": "7d 6h 42m",
+          "value": "22.50%"
+        },
+        {
+          "level": 46,
+          "cost": 493810,
+          "timeMinutes": 11055,
+          "timeDisplay": "7d 16h 15m",
+          "value": "23.00%"
+        },
+        {
+          "level": 47,
+          "cost": 524530,
+          "timeMinutes": 11647,
+          "timeDisplay": "8d 2h 7m",
+          "value": "23.50%"
+        },
+        {
+          "level": 48,
+          "cost": 556430,
+          "timeMinutes": 12257,
+          "timeDisplay": "8d 12h 17m",
+          "value": "24.00%"
+        },
+        {
+          "level": 49,
+          "cost": 589550,
+          "timeMinutes": 12885,
+          "timeDisplay": "8d 22h 45m",
+          "value": "24.50%"
+        },
+        {
+          "level": 50,
+          "cost": 623890,
+          "timeMinutes": 13531,
+          "timeDisplay": "9d 9h 31m",
+          "value": "25.00%"
+        },
+        {
+          "level": 51,
+          "cost": 659490,
+          "timeMinutes": 14197,
+          "timeDisplay": "9d 20h 37m",
+          "value": "25.50%"
+        },
+        {
+          "level": 52,
+          "cost": 696340,
+          "timeMinutes": 14880,
+          "timeDisplay": "10d 8h 0m",
+          "value": "26.00%"
+        },
+        {
+          "level": 53,
+          "cost": 734490,
+          "timeMinutes": 15583,
+          "timeDisplay": "10d 19h 43m",
+          "value": "26.50%"
+        },
+        {
+          "level": 54,
+          "cost": 773940,
+          "timeMinutes": 16305,
+          "timeDisplay": "11d 7h 45m",
+          "value": "27.00%"
+        },
+        {
+          "level": 55,
+          "cost": 814710,
+          "timeMinutes": 17046,
+          "timeDisplay": "11d 20h 6m",
+          "value": "27.50%"
+        },
+        {
+          "level": 56,
+          "cost": 856830,
+          "timeMinutes": 17806,
+          "timeDisplay": "12d 8h 46m",
+          "value": "28.00%"
+        },
+        {
+          "level": 57,
+          "cost": 900300,
+          "timeMinutes": 18586,
+          "timeDisplay": "12d 21h 46m",
+          "value": "28.50%"
+        },
+        {
+          "level": 58,
+          "cost": 945160,
+          "timeMinutes": 19385,
+          "timeDisplay": "13d 11h 5m",
+          "value": "29.00%"
+        },
+        {
+          "level": 59,
+          "cost": 991410,
+          "timeMinutes": 20204,
+          "timeDisplay": "14d 0h 44m",
+          "value": "29.50%"
+        },
+        {
+          "level": 60,
+          "cost": 1040000,
+          "timeMinutes": 21043,
+          "timeDisplay": "14d 14h 43m",
+          "value": "30.00%"
+        },
+        {
+          "level": 61,
+          "cost": 1090000,
+          "timeMinutes": 21903,
+          "timeDisplay": "15d 5h 3m",
+          "value": "30.50%"
+        },
+        {
+          "level": 62,
+          "cost": 1140000,
+          "timeMinutes": 22782,
+          "timeDisplay": "15d 19h 42m",
+          "value": "31.00%"
+        },
+        {
+          "level": 63,
+          "cost": 1190000,
+          "timeMinutes": 23681,
+          "timeDisplay": "16d 10h 41m",
+          "value": "31.50%"
+        },
+        {
+          "level": 64,
+          "cost": 1240000,
+          "timeMinutes": 24601,
+          "timeDisplay": "17d 2h 1m",
+          "value": "32.00%"
+        },
+        {
+          "level": 65,
+          "cost": 1300000,
+          "timeMinutes": 25542,
+          "timeDisplay": "17d 17h 42m",
+          "value": "32.50%"
+        },
+        {
+          "level": 66,
+          "cost": 1360000,
+          "timeMinutes": 26503,
+          "timeDisplay": "18d 9h 43m",
+          "value": "33.00%"
+        },
+        {
+          "level": 67,
+          "cost": 1410000,
+          "timeMinutes": 27485,
+          "timeDisplay": "19d 2h 5m",
+          "value": "33.50%"
+        },
+        {
+          "level": 68,
+          "cost": 1470000,
+          "timeMinutes": 28488,
+          "timeDisplay": "19d 18h 48m",
+          "value": "34.00%"
+        },
+        {
+          "level": 69,
+          "cost": 1530000,
+          "timeMinutes": 29512,
+          "timeDisplay": "20d 11h 52m",
+          "value": "34.50%"
+        },
+        {
+          "level": 70,
+          "cost": 1600000,
+          "timeMinutes": 30557,
+          "timeDisplay": "21d 5h 17m",
+          "value": "35.00%"
+        },
+        {
+          "level": 71,
+          "cost": 1660000,
+          "timeMinutes": 31624,
+          "timeDisplay": "21d 23h 4m",
+          "value": "35.50%"
+        },
+        {
+          "level": 72,
+          "cost": 1730000,
+          "timeMinutes": 32712,
+          "timeDisplay": "22d 17h 12m",
+          "value": "36.00%"
+        },
+        {
+          "level": 73,
+          "cost": 1800000,
+          "timeMinutes": 33821,
+          "timeDisplay": "23d 11h 41m",
+          "value": "36.50%"
+        },
+        {
+          "level": 74,
+          "cost": 1870000,
+          "timeMinutes": 34952,
+          "timeDisplay": "24d 6h 32m",
+          "value": "37.00%"
+        },
+        {
+          "level": 75,
+          "cost": 1940000,
+          "timeMinutes": 36106,
+          "timeDisplay": "25d 1h 46m",
+          "value": "37.50%"
+        },
+        {
+          "level": 76,
+          "cost": 2010000,
+          "timeMinutes": 37280,
+          "timeDisplay": "25d 21h 20m",
+          "value": "38.00%"
+        },
+        {
+          "level": 77,
+          "cost": 2080000,
+          "timeMinutes": 38478,
+          "timeDisplay": "26d 17h 18m",
+          "value": "38.50%"
+        },
+        {
+          "level": 78,
+          "cost": 2160000,
+          "timeMinutes": 39697,
+          "timeDisplay": "27d 13h 37m",
+          "value": "39.00%"
+        },
+        {
+          "level": 79,
+          "cost": 2240000,
+          "timeMinutes": 40938,
+          "timeDisplay": "28d 10h 18m",
+          "value": "39.50%"
+        },
+        {
+          "level": 80,
+          "cost": 2320000,
+          "timeMinutes": 42202,
+          "timeDisplay": "29d 7h 22m",
+          "value": "40.00%"
+        },
+        {
+          "level": 81,
+          "cost": 2400000,
+          "timeMinutes": 43488,
+          "timeDisplay": "30d 4h 48m",
+          "value": "40.50%"
+        },
+        {
+          "level": 82,
+          "cost": 2480000,
+          "timeMinutes": 44797,
+          "timeDisplay": "31d 2h 37m",
+          "value": "41.00%"
+        },
+        {
+          "level": 83,
+          "cost": 2570000,
+          "timeMinutes": 46129,
+          "timeDisplay": "32d 0h 49m",
+          "value": "41.50%"
+        },
+        {
+          "level": 84,
+          "cost": 2650000,
+          "timeMinutes": 47484,
+          "timeDisplay": "32d 23h 24m",
+          "value": "42.00%"
+        },
+        {
+          "level": 85,
+          "cost": 2740000,
+          "timeMinutes": 48861,
+          "timeDisplay": "33d 22h 21m",
+          "value": "42.50%"
+        },
+        {
+          "level": 86,
+          "cost": 2830000,
+          "timeMinutes": 50262,
+          "timeDisplay": "34d 21h 42m",
+          "value": "43.00%"
+        },
+        {
+          "level": 87,
+          "cost": 2930000,
+          "timeMinutes": 51686,
+          "timeDisplay": "35d 21h 26m",
+          "value": "43.50%"
+        },
+        {
+          "level": 88,
+          "cost": 3020000,
+          "timeMinutes": 53133,
+          "timeDisplay": "36d 21h 33m",
+          "value": "44.00%"
+        },
+        {
+          "level": 89,
+          "cost": 3120000,
+          "timeMinutes": 54603,
+          "timeDisplay": "37d 22h 3m",
+          "value": "44.50%"
+        },
+        {
+          "level": 90,
+          "cost": 3220000,
+          "timeMinutes": 56097,
+          "timeDisplay": "38d 22h 57m",
+          "value": "45.00%"
+        },
+        {
+          "level": 91,
+          "cost": 3320000,
+          "timeMinutes": 57615,
+          "timeDisplay": "40d 0h 15m",
+          "value": "45.50%"
+        },
+        {
+          "level": 92,
+          "cost": 3420000,
+          "timeMinutes": 59156,
+          "timeDisplay": "41d 1h 56m",
+          "value": "46.00%"
+        },
+        {
+          "level": 93,
+          "cost": 3520000,
+          "timeMinutes": 60721,
+          "timeDisplay": "42d 4h 1m",
+          "value": "46.50%"
+        },
+        {
+          "level": 94,
+          "cost": 3630000,
+          "timeMinutes": 62310,
+          "timeDisplay": "43d 6h 30m",
+          "value": "47.00%"
+        },
+        {
+          "level": 95,
+          "cost": 3740000,
+          "timeMinutes": 63923,
+          "timeDisplay": "44d 9h 23m",
+          "value": "47.50%"
+        },
+        {
+          "level": 96,
+          "cost": 3850000,
+          "timeMinutes": 65560,
+          "timeDisplay": "45d 12h 40m",
+          "value": "48.00%"
+        },
+        {
+          "level": 97,
+          "cost": 3960000,
+          "timeMinutes": 67222,
+          "timeDisplay": "46d 16h 22m",
+          "value": "48.50%"
+        },
+        {
+          "level": 98,
+          "cost": 4070000,
+          "timeMinutes": 68907,
+          "timeDisplay": "47d 20h 27m",
+          "value": "49.00%"
+        },
+        {
+          "level": 99,
+          "cost": 4190000,
+          "timeMinutes": 70617,
+          "timeDisplay": "49d 0h 57m",
+          "value": "49.50%"
+        }
+      ]
+    },
+    {
+      "id": "workshop-enhancement",
+      "name": "Workshop Enhancement",
+      "maxLevel": 1,
+      "unlock": "unlocked by spending coins on other enhancements of the same type.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 5000000000,
+          "timeMinutes": 9599,
+          "timeDisplay": "6d 15h 59m",
+          "value": "Unlocked"
+        }
+      ]
+    },
+    {
+      "id": "workshop-respec",
+      "name": "Workshop Respec",
+      "maxLevel": 1,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 4 wave 30. Has 1 level.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 3000000,
+          "timeMinutes": 3666,
+          "timeDisplay": "2d 13h 6m",
+          "value": "Unlocked"
+        }
+      ]
+    },
+    {
+      "id": "reroll-daily-mission",
+      "name": "Reroll Daily mission",
+      "maxLevel": 1,
+      "unlock": "Allows missions to be rerolled for 5 gems. A different mission will always be rolled. Unlocked at Tier 4 Wave 30. Has 1 level.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 20000000,
+          "timeMinutes": 2399,
+          "timeDisplay": "2d 13h 6m",
+          "value": "Unlocked"
+        }
+      ]
+    },
+    {
+      "id": "workshop-utility-discount",
+      "name": "Workshop Utility Discount",
+      "maxLevel": 99,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] on tier 2 wave 60. Has 99 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30,
+          "timeMinutes": 0,
+          "timeDisplay": "0d 0h 0m",
+          "value": "0.50%"
+        },
+        {
+          "level": 2,
+          "cost": 71,
+          "timeMinutes": 6,
+          "timeDisplay": "0d 0h 6m",
+          "value": "1.00%"
+        },
+        {
+          "level": 3,
+          "cost": 178,
+          "timeMinutes": 16,
+          "timeDisplay": "0d 0h 16m",
+          "value": "1.50%"
+        },
+        {
+          "level": 4,
+          "cost": 398,
+          "timeMinutes": 31,
+          "timeDisplay": "0d 0h 31m",
+          "value": "2.00%"
+        },
+        {
+          "level": 5,
+          "cost": 772,
+          "timeMinutes": 52,
+          "timeDisplay": "0d 0h 52m",
+          "value": "2.50%"
+        },
+        {
+          "level": 6,
+          "cost": 1340,
+          "timeMinutes": 80,
+          "timeDisplay": "0d 1h 20m",
+          "value": "3.00%"
+        },
+        {
+          "level": 7,
+          "cost": 2120,
+          "timeMinutes": 116,
+          "timeDisplay": "0d 1h 56m",
+          "value": "3.50%"
+        },
+        {
+          "level": 8,
+          "cost": 3170,
+          "timeMinutes": 159,
+          "timeDisplay": "0d 2h 39m",
+          "value": "4.00%"
+        },
+        {
+          "level": 9,
+          "cost": 4510,
+          "timeMinutes": 211,
+          "timeDisplay": "0d 3h 31m",
+          "value": "4.50%"
+        },
+        {
+          "level": 10,
+          "cost": 6170,
+          "timeMinutes": 272,
+          "timeDisplay": "0d 4h 32m",
+          "value": "5.00%"
+        },
+        {
+          "level": 11,
+          "cost": 8170,
+          "timeMinutes": 343,
+          "timeDisplay": "0d 5h 43m",
+          "value": "5.50%"
+        },
+        {
+          "level": 12,
+          "cost": 10560,
+          "timeMinutes": 423,
+          "timeDisplay": "0d 7h 3m",
+          "value": "6.00%"
+        },
+        {
+          "level": 13,
+          "cost": 13350,
+          "timeMinutes": 514,
+          "timeDisplay": "0d 8h 34m",
+          "value": "6.50%"
+        },
+        {
+          "level": 14,
+          "cost": 16580,
+          "timeMinutes": 615,
+          "timeDisplay": "0d 10h 15m",
+          "value": "7.00%"
+        },
+        {
+          "level": 15,
+          "cost": 20270,
+          "timeMinutes": 727,
+          "timeDisplay": "0d 12h 7m",
+          "value": "7.50%"
+        },
+        {
+          "level": 16,
+          "cost": 24440,
+          "timeMinutes": 850,
+          "timeDisplay": "0d 14h 10m",
+          "value": "8.00%"
+        },
+        {
+          "level": 17,
+          "cost": 29130,
+          "timeMinutes": 985,
+          "timeDisplay": "0d 16h 25m",
+          "value": "8.50%"
+        },
+        {
+          "level": 18,
+          "cost": 34360,
+          "timeMinutes": 1132,
+          "timeDisplay": "0d 18h 52m",
+          "value": "9.00%"
+        },
+        {
+          "level": 19,
+          "cost": 40160,
+          "timeMinutes": 1291,
+          "timeDisplay": "0d 21h 31m",
+          "value": "9.50%"
+        },
+        {
+          "level": 20,
+          "cost": 46540,
+          "timeMinutes": 1462,
+          "timeDisplay": "1d 0h 22m",
+          "value": "10.00%"
+        },
+        {
+          "level": 21,
+          "cost": 53530,
+          "timeMinutes": 1646,
+          "timeDisplay": "1d 3h 26m",
+          "value": "10.50%"
+        },
+        {
+          "level": 22,
+          "cost": 61160,
+          "timeMinutes": 1844,
+          "timeDisplay": "1d 6h 44m",
+          "value": "11.00%"
+        },
+        {
+          "level": 23,
+          "cost": 69460,
+          "timeMinutes": 2054,
+          "timeDisplay": "1d 10h 14m",
+          "value": "11.50%"
+        },
+        {
+          "level": 24,
+          "cost": 78430,
+          "timeMinutes": 2278,
+          "timeDisplay": "1d 13h 58m",
+          "value": "12.00%"
+        },
+        {
+          "level": 25,
+          "cost": 88120,
+          "timeMinutes": 2516,
+          "timeDisplay": "1d 17h 56m",
+          "value": "12.50%"
+        },
+        {
+          "level": 26,
+          "cost": 98530,
+          "timeMinutes": 2767,
+          "timeDisplay": "1d 22h 7m",
+          "value": "13.00%"
+        },
+        {
+          "level": 27,
+          "cost": 109700,
+          "timeMinutes": 3033,
+          "timeDisplay": "2d 2h 33m",
+          "value": "13.50%"
+        },
+        {
+          "level": 28,
+          "cost": 121650,
+          "timeMinutes": 3313,
+          "timeDisplay": "2d 7h 13m",
+          "value": "14.00%"
+        },
+        {
+          "level": 29,
+          "cost": 134390,
+          "timeMinutes": 3608,
+          "timeDisplay": "2d 12h 8m",
+          "value": "14.50%"
+        },
+        {
+          "level": 30,
+          "cost": 147950,
+          "timeMinutes": 3918,
+          "timeDisplay": "2d 17h 18m",
+          "value": "15.00%"
+        },
+        {
+          "level": 31,
+          "cost": 162350,
+          "timeMinutes": 4243,
+          "timeDisplay": "2d 22h 43m",
+          "value": "15.50%"
+        },
+        {
+          "level": 32,
+          "cost": 177620,
+          "timeMinutes": 4583,
+          "timeDisplay": "3d 4h 23m",
+          "value": "16.00%"
+        },
+        {
+          "level": 33,
+          "cost": 193780,
+          "timeMinutes": 4938,
+          "timeDisplay": "3d 10h 18m",
+          "value": "16.50%"
+        },
+        {
+          "level": 34,
+          "cost": 210830,
+          "timeMinutes": 5310,
+          "timeDisplay": "3d 16h 30m",
+          "value": "17.00%"
+        },
+        {
+          "level": 35,
+          "cost": 228820,
+          "timeMinutes": 5697,
+          "timeDisplay": "3d 22h 57m",
+          "value": "17.50%"
+        },
+        {
+          "level": 36,
+          "cost": 247760,
+          "timeMinutes": 6100,
+          "timeDisplay": "4d 5h 40m",
+          "value": "18.00%"
+        },
+        {
+          "level": 37,
+          "cost": 267660,
+          "timeMinutes": 6520,
+          "timeDisplay": "4d 12h 40m",
+          "value": "18.50%"
+        },
+        {
+          "level": 38,
+          "cost": 288560,
+          "timeMinutes": 6955,
+          "timeDisplay": "4d 19h 55m",
+          "value": "19.00%"
+        },
+        {
+          "level": 39,
+          "cost": 310470,
+          "timeMinutes": 7408,
+          "timeDisplay": "5d 3h 28m",
+          "value": "19.50%"
+        },
+        {
+          "level": 40,
+          "cost": 333400,
+          "timeMinutes": 7877,
+          "timeDisplay": "5d 11h 17m",
+          "value": "20.00%"
+        },
+        {
+          "level": 41,
+          "cost": 357390,
+          "timeMinutes": 8364,
+          "timeDisplay": "5d 19h 24m",
+          "value": "20.50%"
+        },
+        {
+          "level": 42,
+          "cost": 382450,
+          "timeMinutes": 8867,
+          "timeDisplay": "6d 3h 47m",
+          "value": "21.00%"
+        },
+        {
+          "level": 43,
+          "cost": 408600,
+          "timeMinutes": 9388,
+          "timeDisplay": "6d 12h 28m",
+          "value": "21.50%"
+        },
+        {
+          "level": 44,
+          "cost": 435870,
+          "timeMinutes": 9926,
+          "timeDisplay": "6d 21h 26m",
+          "value": "22.00%"
+        },
+        {
+          "level": 45,
+          "cost": 464260,
+          "timeMinutes": 10482,
+          "timeDisplay": "7d 6h 42m",
+          "value": "22.50%"
+        },
+        {
+          "level": 46,
+          "cost": 493810,
+          "timeMinutes": 11055,
+          "timeDisplay": "7d 16h 15m",
+          "value": "23.00%"
+        },
+        {
+          "level": 47,
+          "cost": 524530,
+          "timeMinutes": 11647,
+          "timeDisplay": "8d 2h 7m",
+          "value": "23.50%"
+        },
+        {
+          "level": 48,
+          "cost": 556430,
+          "timeMinutes": 12257,
+          "timeDisplay": "8d 12h 17m",
+          "value": "24.00%"
+        },
+        {
+          "level": 49,
+          "cost": 589550,
+          "timeMinutes": 12885,
+          "timeDisplay": "8d 22h 45m",
+          "value": "24.50%"
+        },
+        {
+          "level": 50,
+          "cost": 623890,
+          "timeMinutes": 13531,
+          "timeDisplay": "9d 9h 31m",
+          "value": "25.00%"
+        },
+        {
+          "level": 51,
+          "cost": 659490,
+          "timeMinutes": 14197,
+          "timeDisplay": "9d 20h 37m",
+          "value": "25.50%"
+        },
+        {
+          "level": 52,
+          "cost": 696340,
+          "timeMinutes": 14880,
+          "timeDisplay": "10d 8h 0m",
+          "value": "26.00%"
+        },
+        {
+          "level": 53,
+          "cost": 734490,
+          "timeMinutes": 15583,
+          "timeDisplay": "10d 19h 43m",
+          "value": "26.50%"
+        },
+        {
+          "level": 54,
+          "cost": 773940,
+          "timeMinutes": 16305,
+          "timeDisplay": "11d 7h 45m",
+          "value": "27.00%"
+        },
+        {
+          "level": 55,
+          "cost": 814710,
+          "timeMinutes": 17046,
+          "timeDisplay": "11d 20h 6m",
+          "value": "27.50%"
+        },
+        {
+          "level": 56,
+          "cost": 856830,
+          "timeMinutes": 17806,
+          "timeDisplay": "12d 8h 46m",
+          "value": "28.00%"
+        },
+        {
+          "level": 57,
+          "cost": 900300,
+          "timeMinutes": 18586,
+          "timeDisplay": "12d 21h 46m",
+          "value": "28.50%"
+        },
+        {
+          "level": 58,
+          "cost": 945160,
+          "timeMinutes": 19385,
+          "timeDisplay": "13d 11h 5m",
+          "value": "29.00%"
+        },
+        {
+          "level": 59,
+          "cost": 991410,
+          "timeMinutes": 20204,
+          "timeDisplay": "14d 0h 44m",
+          "value": "29.50%"
+        },
+        {
+          "level": 60,
+          "cost": 1040000,
+          "timeMinutes": 21043,
+          "timeDisplay": "14d 14h 43m",
+          "value": "30.00%"
+        },
+        {
+          "level": 61,
+          "cost": 1090000,
+          "timeMinutes": 21903,
+          "timeDisplay": "15d 5h 3m",
+          "value": "30.50%"
+        },
+        {
+          "level": 62,
+          "cost": 1140000,
+          "timeMinutes": 22782,
+          "timeDisplay": "15d 19h 42m",
+          "value": "31.00%"
+        },
+        {
+          "level": 63,
+          "cost": 1190000,
+          "timeMinutes": 23681,
+          "timeDisplay": "16d 10h 41m",
+          "value": "31.50%"
+        },
+        {
+          "level": 64,
+          "cost": 1240000,
+          "timeMinutes": 24601,
+          "timeDisplay": "17d 2h 1m",
+          "value": "32.00%"
+        },
+        {
+          "level": 65,
+          "cost": 1300000,
+          "timeMinutes": 25542,
+          "timeDisplay": "17d 17h 42m",
+          "value": "32.50%"
+        },
+        {
+          "level": 66,
+          "cost": 1360000,
+          "timeMinutes": 26503,
+          "timeDisplay": "18d 9h 43m",
+          "value": "33.00%"
+        },
+        {
+          "level": 67,
+          "cost": 1410000,
+          "timeMinutes": 27485,
+          "timeDisplay": "19d 2h 5m",
+          "value": "33.50%"
+        },
+        {
+          "level": 68,
+          "cost": 1470000,
+          "timeMinutes": 28488,
+          "timeDisplay": "19d 18h 48m",
+          "value": "34.00%"
+        },
+        {
+          "level": 69,
+          "cost": 1530000,
+          "timeMinutes": 29512,
+          "timeDisplay": "20d 11h 52m",
+          "value": "34.50%"
+        },
+        {
+          "level": 70,
+          "cost": 1600000,
+          "timeMinutes": 30557,
+          "timeDisplay": "21d 5h 17m",
+          "value": "35.00%"
+        },
+        {
+          "level": 71,
+          "cost": 1660000,
+          "timeMinutes": 31624,
+          "timeDisplay": "21d 23h 4m",
+          "value": "35.50%"
+        },
+        {
+          "level": 72,
+          "cost": 1730000,
+          "timeMinutes": 32712,
+          "timeDisplay": "22d 17h 12m",
+          "value": "36.00%"
+        },
+        {
+          "level": 73,
+          "cost": 1800000,
+          "timeMinutes": 33821,
+          "timeDisplay": "23d 11h 41m",
+          "value": "36.50%"
+        },
+        {
+          "level": 74,
+          "cost": 1870000,
+          "timeMinutes": 34952,
+          "timeDisplay": "24d 6h 32m",
+          "value": "37.00%"
+        },
+        {
+          "level": 75,
+          "cost": 1940000,
+          "timeMinutes": 36106,
+          "timeDisplay": "25d 1h 46m",
+          "value": "37.50%"
+        },
+        {
+          "level": 76,
+          "cost": 2010000,
+          "timeMinutes": 37280,
+          "timeDisplay": "25d 21h 20m",
+          "value": "38.00%"
+        },
+        {
+          "level": 77,
+          "cost": 2080000,
+          "timeMinutes": 38478,
+          "timeDisplay": "26d 17h 18m",
+          "value": "38.50%"
+        },
+        {
+          "level": 78,
+          "cost": 2160000,
+          "timeMinutes": 39697,
+          "timeDisplay": "27d 13h 37m",
+          "value": "39.00%"
+        },
+        {
+          "level": 79,
+          "cost": 2240000,
+          "timeMinutes": 40938,
+          "timeDisplay": "28d 10h 18m",
+          "value": "39.50%"
+        },
+        {
+          "level": 80,
+          "cost": 2320000,
+          "timeMinutes": 42202,
+          "timeDisplay": "29d 7h 22m",
+          "value": "40.00%"
+        },
+        {
+          "level": 81,
+          "cost": 2400000,
+          "timeMinutes": 43488,
+          "timeDisplay": "30d 4h 48m",
+          "value": "40.50%"
+        },
+        {
+          "level": 82,
+          "cost": 2480000,
+          "timeMinutes": 44797,
+          "timeDisplay": "31d 2h 37m",
+          "value": "41.00%"
+        },
+        {
+          "level": 83,
+          "cost": 2570000,
+          "timeMinutes": 46129,
+          "timeDisplay": "32d 0h 49m",
+          "value": "41.50%"
+        },
+        {
+          "level": 84,
+          "cost": 2650000,
+          "timeMinutes": 47484,
+          "timeDisplay": "32d 23h 24m",
+          "value": "42.00%"
+        },
+        {
+          "level": 85,
+          "cost": 2740000,
+          "timeMinutes": 48861,
+          "timeDisplay": "33d 22h 21m",
+          "value": "42.50%"
+        },
+        {
+          "level": 86,
+          "cost": 2830000,
+          "timeMinutes": 50262,
+          "timeDisplay": "34d 21h 42m",
+          "value": "43.00%"
+        },
+        {
+          "level": 87,
+          "cost": 2930000,
+          "timeMinutes": 51686,
+          "timeDisplay": "35d 21h 26m",
+          "value": "43.50%"
+        },
+        {
+          "level": 88,
+          "cost": 3020000,
+          "timeMinutes": 53133,
+          "timeDisplay": "36d 21h 33m",
+          "value": "44.00%"
+        },
+        {
+          "level": 89,
+          "cost": 3120000,
+          "timeMinutes": 54603,
+          "timeDisplay": "37d 22h 3m",
+          "value": "44.50%"
+        },
+        {
+          "level": 90,
+          "cost": 3220000,
+          "timeMinutes": 56097,
+          "timeDisplay": "38d 22h 57m",
+          "value": "45.00%"
+        },
+        {
+          "level": 91,
+          "cost": 3320000,
+          "timeMinutes": 57615,
+          "timeDisplay": "40d 0h 15m",
+          "value": "45.50%"
+        },
+        {
+          "level": 92,
+          "cost": 3420000,
+          "timeMinutes": 59156,
+          "timeDisplay": "41d 1h 56m",
+          "value": "46.00%"
+        },
+        {
+          "level": 93,
+          "cost": 3520000,
+          "timeMinutes": 60721,
+          "timeDisplay": "42d 4h 1m",
+          "value": "46.50%"
+        },
+        {
+          "level": 94,
+          "cost": 3630000,
+          "timeMinutes": 62310,
+          "timeDisplay": "43d 6h 30m",
+          "value": "47.00%"
+        },
+        {
+          "level": 95,
+          "cost": 3740000,
+          "timeMinutes": 63923,
+          "timeDisplay": "44d 9h 23m",
+          "value": "47.50%"
+        },
+        {
+          "level": 96,
+          "cost": 3850000,
+          "timeMinutes": 65560,
+          "timeDisplay": "45d 12h 40m",
+          "value": "48.00%"
+        },
+        {
+          "level": 97,
+          "cost": 3960000,
+          "timeMinutes": 67222,
+          "timeDisplay": "46d 16h 22m",
+          "value": "48.50%"
+        },
+        {
+          "level": 98,
+          "cost": 4070000,
+          "timeMinutes": 68907,
+          "timeDisplay": "47d 20h 27m",
+          "value": "49.00%"
+        },
+        {
+          "level": 99,
+          "cost": 4190000,
+          "timeMinutes": 70617,
+          "timeDisplay": "49d 0h 57m",
+          "value": "49.50%"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "categories": [
+    {
+      "id": "battle-condition",
+      "name": "Battle Condition",
+      "file": "/data/battle-condition.json"
+    }
+  ]
+}

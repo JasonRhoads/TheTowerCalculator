@@ -1,0 +1,1268 @@
+{
+  "source": {
+    "wiki": "The Tower - Idle Tower Defense Wiki",
+    "fandom_root": "https://the-tower-idle-tower-defense.fandom.com/wiki/",
+    "note": "Starter dataset extracted from the fandom wiki. This file currently includes Main Research examples and Perk Labs."
+  },
+  "labs": {
+    "Game Speed": {
+      "category": "Main Research",
+      "max_level": 7,
+      "rows": [
+        {
+          "level": 1,
+          "cost": "300",
+          "time": "9m",
+          "value": "x2.0"
+        },
+        {
+          "level": 2,
+          "cost": "2,500",
+          "time": "2h 30m",
+          "value": "x2.5"
+        },
+        {
+          "level": 3,
+          "cost": "12,000",
+          "time": "9h 48m",
+          "value": "x3.0"
+        },
+        {
+          "level": 4,
+          "cost": "50,000",
+          "time": "1d 10h 2m",
+          "value": "x3.5"
+        },
+        {
+          "level": 5,
+          "cost": "150,000",
+          "time": "3d 19h 39m",
+          "value": "x4.0"
+        },
+        {
+          "level": 6,
+          "cost": "500,000",
+          "time": "14d 1h 46m",
+          "value": "x4.5"
+        },
+        {
+          "level": 7,
+          "cost": "1,000,000",
+          "time": "25d 11h 6m",
+          "value": "x5.0"
+        }
+      ]
+    },
+    "Starting Cash": {
+      "category": "Main Research",
+      "max_level": 99,
+      "rows": [
+        {
+          "level": 1,
+          "time": "0d 0h 0m",
+          "cost": "30",
+          "value": "5"
+        },
+        {
+          "level": 2,
+          "time": "0d 0h 6m",
+          "cost": "71",
+          "value": "10"
+        },
+        {
+          "level": 3,
+          "time": "0d 0h 16m",
+          "cost": "178",
+          "value": "15"
+        },
+        {
+          "level": 4,
+          "time": "0d 0h 31m",
+          "cost": "398",
+          "value": "20"
+        },
+        {
+          "level": 5,
+          "time": "0d 0h 52m",
+          "cost": "772",
+          "value": "25"
+        },
+        {
+          "level": 6,
+          "time": "0d 1h 20m",
+          "cost": "1,340",
+          "value": "30"
+        },
+        {
+          "level": 7,
+          "time": "0d 1h 56m",
+          "cost": "2,120",
+          "value": "35"
+        },
+        {
+          "level": 8,
+          "time": "0d 2h 39m",
+          "cost": "3,170",
+          "value": "40"
+        },
+        {
+          "level": 9,
+          "time": "0d 3h 31m",
+          "cost": "4,510",
+          "value": "45"
+        },
+        {
+          "level": 10,
+          "time": "0d 4h 32m",
+          "cost": "6,170",
+          "value": "50"
+        },
+        {
+          "level": 11,
+          "time": "0d 5h 43m",
+          "cost": "8,170",
+          "value": "55"
+        },
+        {
+          "level": 12,
+          "time": "0d 7h 3m",
+          "cost": "10,560",
+          "value": "60"
+        },
+        {
+          "level": 13,
+          "time": "0d 8h 34m",
+          "cost": "13,350",
+          "value": "65"
+        },
+        {
+          "level": 14,
+          "time": "0d 10h 15m",
+          "cost": "16,580",
+          "value": "70"
+        },
+        {
+          "level": 15,
+          "time": "0d 12h 7m",
+          "cost": "20,270",
+          "value": "75"
+        },
+        {
+          "level": 16,
+          "time": "0d 14h 10m",
+          "cost": "24,440",
+          "value": "80"
+        },
+        {
+          "level": 17,
+          "time": "0d 16h 25m",
+          "cost": "29,130",
+          "value": "85"
+        },
+        {
+          "level": 18,
+          "time": "0d 18h 52m",
+          "cost": "34,360",
+          "value": "90"
+        },
+        {
+          "level": 19,
+          "time": "0d 21h 31m",
+          "cost": "40,160",
+          "value": "95"
+        },
+        {
+          "level": 20,
+          "time": "1d 0h 22m",
+          "cost": "46,540",
+          "value": "100"
+        },
+        {
+          "level": 21,
+          "time": "1d 3h 26m",
+          "cost": "53,530",
+          "value": "105"
+        },
+        {
+          "level": 22,
+          "time": "1d 6h 44m",
+          "cost": "61,160",
+          "value": "110"
+        },
+        {
+          "level": 23,
+          "time": "1d 10h 14m",
+          "cost": "69,460",
+          "value": "115"
+        },
+        {
+          "level": 24,
+          "time": "1d 13h 58m",
+          "cost": "78,430",
+          "value": "120"
+        },
+        {
+          "level": 25,
+          "time": "1d 17h 56m",
+          "cost": "88,120",
+          "value": "125"
+        },
+        {
+          "level": 26,
+          "time": "1d 22h 7m",
+          "cost": "98,530",
+          "value": "130"
+        },
+        {
+          "level": 27,
+          "time": "2d 2h 33m",
+          "cost": "109,700",
+          "value": "135"
+        },
+        {
+          "level": 28,
+          "time": "2d 7h 13m",
+          "cost": "121,650",
+          "value": "140"
+        },
+        {
+          "level": 29,
+          "time": "2d 12h 8m",
+          "cost": "134,390",
+          "value": "145"
+        },
+        {
+          "level": 30,
+          "time": "2d 17h 18m",
+          "cost": "147,950",
+          "value": "150"
+        },
+        {
+          "level": 31,
+          "time": "2d 22h 43m",
+          "cost": "162,350",
+          "value": "155"
+        },
+        {
+          "level": 32,
+          "time": "3d 4h 23m",
+          "cost": "177,620",
+          "value": "160"
+        },
+        {
+          "level": 33,
+          "time": "3d 10h 18m",
+          "cost": "193,780",
+          "value": "165"
+        },
+        {
+          "level": 34,
+          "time": "3d 16h 30m",
+          "cost": "210,830",
+          "value": "170"
+        },
+        {
+          "level": 35,
+          "time": "3d 22h 57m",
+          "cost": "228,820",
+          "value": "175"
+        },
+        {
+          "level": 36,
+          "time": "4d 5h 40m",
+          "cost": "247,760",
+          "value": "180"
+        },
+        {
+          "level": 37,
+          "time": "4d 12h 40m",
+          "cost": "267,660",
+          "value": "185"
+        },
+        {
+          "level": 38,
+          "time": "4d 19h 55m",
+          "cost": "288,560",
+          "value": "190"
+        },
+        {
+          "level": 39,
+          "time": "5d 3h 28m",
+          "cost": "310,470",
+          "value": "195"
+        },
+        {
+          "level": 40,
+          "time": "5d 11h 17m",
+          "cost": "333,400",
+          "value": "200"
+        },
+        {
+          "level": 41,
+          "time": "5d 19h 24m",
+          "cost": "357,390",
+          "value": "205"
+        },
+        {
+          "level": 42,
+          "time": "6d 3h 47m",
+          "cost": "382,450",
+          "value": "210"
+        },
+        {
+          "level": 43,
+          "time": "6d 12h 28m",
+          "cost": "408,600",
+          "value": "215"
+        },
+        {
+          "level": 44,
+          "time": "6d 21h 26m",
+          "cost": "435,870",
+          "value": "220"
+        },
+        {
+          "level": 45,
+          "time": "7d 6h 42m",
+          "cost": "464,260",
+          "value": "225"
+        },
+        {
+          "level": 46,
+          "time": "7d 16h 15m",
+          "cost": "493,810",
+          "value": "230"
+        },
+        {
+          "level": 47,
+          "time": "8d 2h 7m",
+          "cost": "524,530",
+          "value": "235"
+        },
+        {
+          "level": 48,
+          "time": "8d 12h 17m",
+          "cost": "556,430",
+          "value": "240"
+        },
+        {
+          "level": 49,
+          "time": "8d 22h 45m",
+          "cost": "589,550",
+          "value": "245"
+        },
+        {
+          "level": 50,
+          "time": "9d 9h 31m",
+          "cost": "623,890",
+          "value": "250"
+        },
+        {
+          "level": 51,
+          "time": "9d 20h 37m",
+          "cost": "659,490",
+          "value": "255"
+        },
+        {
+          "level": 52,
+          "time": "10d 8h 0m",
+          "cost": "696,340",
+          "value": "260"
+        },
+        {
+          "level": 53,
+          "time": "10d 19h 43m",
+          "cost": "734,490",
+          "value": "265"
+        },
+        {
+          "level": 54,
+          "time": "11d 7h 45m",
+          "cost": "773,940",
+          "value": "270"
+        },
+        {
+          "level": 55,
+          "time": "11d 20h 6m",
+          "cost": "814,710",
+          "value": "275"
+        },
+        {
+          "level": 56,
+          "time": "12d 8h 46m",
+          "cost": "856,830",
+          "value": "280"
+        },
+        {
+          "level": 57,
+          "time": "12d 21h 46m",
+          "cost": "900,300",
+          "value": "285"
+        },
+        {
+          "level": 58,
+          "time": "13d 11h 5m",
+          "cost": "945,160",
+          "value": "290"
+        },
+        {
+          "level": 59,
+          "time": "14d 0h 44m",
+          "cost": "991,410",
+          "value": "295"
+        },
+        {
+          "level": 60,
+          "time": "14d 14h 43m",
+          "cost": "1,040,000",
+          "value": "300"
+        },
+        {
+          "level": 61,
+          "time": "15d 5h 3m",
+          "cost": "1,090,000",
+          "value": "305"
+        },
+        {
+          "level": 62,
+          "time": "15d 19h 42m",
+          "cost": "1,140,000",
+          "value": "310"
+        },
+        {
+          "level": 63,
+          "time": "16d 10h 41m",
+          "cost": "1,190,000",
+          "value": "315"
+        },
+        {
+          "level": 64,
+          "time": "17d 2h 1m",
+          "cost": "1,240,000",
+          "value": "320"
+        },
+        {
+          "level": 65,
+          "time": "17d 17h 42m",
+          "cost": "1,300,000",
+          "value": "325"
+        },
+        {
+          "level": 66,
+          "time": "18d 9h 43m",
+          "cost": "1,360,000",
+          "value": "330"
+        },
+        {
+          "level": 67,
+          "time": "19d 2h 5m",
+          "cost": "1,410,000",
+          "value": "335"
+        },
+        {
+          "level": 68,
+          "time": "19d 18h 48m",
+          "cost": "1,470,000",
+          "value": "340"
+        },
+        {
+          "level": 69,
+          "time": "20d 11h 52m",
+          "cost": "1,530,000",
+          "value": "345"
+        },
+        {
+          "level": 70,
+          "time": "21d 5h 17m",
+          "cost": "1,600,000",
+          "value": "350"
+        },
+        {
+          "level": 71,
+          "time": "21d 23h 4m",
+          "cost": "1,660,000",
+          "value": "355"
+        },
+        {
+          "level": 72,
+          "time": "22d 17h 12m",
+          "cost": "1,730,000",
+          "value": "360"
+        },
+        {
+          "level": 73,
+          "time": "23d 11h 41m",
+          "cost": "1,800,000",
+          "value": "365"
+        },
+        {
+          "level": 74,
+          "time": "24d 6h 32m",
+          "cost": "1,870,000",
+          "value": "370"
+        },
+        {
+          "level": 75,
+          "time": "25d 1h 46m",
+          "cost": "1,940,000",
+          "value": "375"
+        },
+        {
+          "level": 76,
+          "time": "25d 21h 20m",
+          "cost": "2,010,000",
+          "value": "380"
+        },
+        {
+          "level": 77,
+          "time": "26d 17h 18m",
+          "cost": "2,080,000",
+          "value": "385"
+        },
+        {
+          "level": 78,
+          "time": "27d 13h 37m",
+          "cost": "2,160,000",
+          "value": "390"
+        },
+        {
+          "level": 79,
+          "time": "28d 10h 18m",
+          "cost": "2,240,000",
+          "value": "395"
+        },
+        {
+          "level": 80,
+          "time": "29d 7h 22m",
+          "cost": "2,320,000",
+          "value": "400"
+        },
+        {
+          "level": 81,
+          "time": "30d 4h 48m",
+          "cost": "2,400,000",
+          "value": "405"
+        },
+        {
+          "level": 82,
+          "time": "31d 2h 37m",
+          "cost": "2,480,000",
+          "value": "410"
+        },
+        {
+          "level": 83,
+          "time": "32d 0h 49m",
+          "cost": "2,570,000",
+          "value": "415"
+        },
+        {
+          "level": 84,
+          "time": "32d 23h 24m",
+          "cost": "2,650,000",
+          "value": "420"
+        },
+        {
+          "level": 85,
+          "time": "33d 22h 21m",
+          "cost": "2,740,000",
+          "value": "425"
+        },
+        {
+          "level": 86,
+          "time": "34d 21h 42m",
+          "cost": "2,830,000",
+          "value": "430"
+        },
+        {
+          "level": 87,
+          "time": "35d 21h 26m",
+          "cost": "2,930,000",
+          "value": "435"
+        },
+        {
+          "level": 88,
+          "time": "36d 21h 33m",
+          "cost": "3,020,000",
+          "value": "440"
+        },
+        {
+          "level": 89,
+          "time": "37d 22h 3m",
+          "cost": "3,120,000",
+          "value": "445"
+        },
+        {
+          "level": 90,
+          "time": "38d 22h 57m",
+          "cost": "3,220,000",
+          "value": "450"
+        },
+        {
+          "level": 91,
+          "time": "40d 0h 15m",
+          "cost": "3,320,000",
+          "value": "455"
+        },
+        {
+          "level": 92,
+          "time": "41d 1h 56m",
+          "cost": "3,420,000",
+          "value": "460"
+        },
+        {
+          "level": 93,
+          "time": "42d 4h 1m",
+          "cost": "3,520,000",
+          "value": "465"
+        },
+        {
+          "level": 94,
+          "time": "43d 6h 30m",
+          "cost": "3,630,000",
+          "value": "470"
+        },
+        {
+          "level": 95,
+          "time": "44d 9h 23m",
+          "cost": "3,740,000",
+          "value": "475"
+        },
+        {
+          "level": 96,
+          "time": "45d 12h 40m",
+          "cost": "3,850,000",
+          "value": "480"
+        },
+        {
+          "level": 97,
+          "time": "46d 16h 22m",
+          "cost": "3,960,000",
+          "value": "485"
+        },
+        {
+          "level": 98,
+          "time": "47d 20h 27m",
+          "cost": "4,070,000",
+          "value": "490"
+        },
+        {
+          "level": 99,
+          "time": "49d 0h 57m",
+          "cost": "4,190,000",
+          "value": "495"
+        }
+      ]
+    },
+    "Labs Speed": {
+      "category": "Main Research",
+      "max_level": 99,
+      "rows_excerpt": [
+        {
+          "level": 1,
+          "time": "0d 0h 0m",
+          "cost": "40",
+          "value": "1.02"
+        },
+        {
+          "level": 2,
+          "time": "0d 0h 9m",
+          "cost": "83",
+          "value": "1.04"
+        },
+        {
+          "level": 3,
+          "time": "0d 0h 22m",
+          "cost": "211",
+          "value": "1.06"
+        },
+        {
+          "level": 4,
+          "time": "0d 0h 42m",
+          "cost": "522",
+          "value": "1.08"
+        },
+        {
+          "level": 5,
+          "time": "0d 1h 8m",
+          "cost": "1,120",
+          "value": "1.10"
+        },
+        {
+          "level": 6,
+          "time": "0d 1h 42m",
+          "cost": "2,100",
+          "value": "1.12"
+        },
+        {
+          "level": 7,
+          "time": "0d 2h 25m",
+          "cost": "3,580",
+          "value": "1.14"
+        },
+        {
+          "level": 8,
+          "time": "0d 3h 17m",
+          "cost": "5,670",
+          "value": "1.16"
+        },
+        {
+          "level": 9,
+          "time": "0d 4h 19m",
+          "cost": "8,470",
+          "value": "1.18"
+        },
+        {
+          "level": 10,
+          "time": "0d 5h 32m",
+          "cost": "12,120",
+          "value": "1.20"
+        },
+        {
+          "level": 11,
+          "time": "0d 6h 54m",
+          "cost": "16,710",
+          "value": "1.22"
+        },
+        {
+          "level": 12,
+          "time": "0d 8h 28m",
+          "cost": "22,360",
+          "value": "1.24"
+        },
+        {
+          "level": 13,
+          "time": "0d 10h 12m",
+          "cost": "29,200",
+          "value": "1.26"
+        },
+        {
+          "level": 14,
+          "time": "0d 12h 7m",
+          "cost": "37,340",
+          "value": "1.28"
+        },
+        {
+          "level": 15,
+          "time": "0d 14h 14m",
+          "cost": "46,910",
+          "value": "1.30"
+        },
+        {
+          "level": 16,
+          "time": "0d 16h 31m",
+          "cost": "58,010",
+          "value": "1.32"
+        },
+        {
+          "level": 17,
+          "time": "0d 19h 0m",
+          "cost": "70,780",
+          "value": "1.34"
+        },
+        {
+          "level": 18,
+          "time": "0d 21h 41m",
+          "cost": "85,340",
+          "value": "1.36"
+        },
+        {
+          "level": 19,
+          "time": "1d 0h 33m",
+          "cost": "101,810",
+          "value": "1.38"
+        },
+        {
+          "level": 20,
+          "time": "1d 3h 36m",
+          "cost": "120,310",
+          "value": "1.40"
+        },
+        {
+          "level": 21,
+          "time": "1d 6h 50m",
+          "cost": "140,970",
+          "value": "1.42"
+        },
+        {
+          "level": 22,
+          "time": "1d 10h 16m",
+          "cost": "163,910",
+          "value": "1.44"
+        },
+        {
+          "level": 23,
+          "time": "1d 13h 54m",
+          "cost": "189,260",
+          "value": "1.46"
+        }
+      ],
+      "note": "Only the opening segment is included here so you can wire up the app schema first."
+    },
+    "Perk Labs": {
+      "category": "Perk Research",
+      "sub_labs": {
+        "Unlock Perks": {
+          "max_level": 1,
+          "rows": [
+            {
+              "level": 1,
+              "time": "3d 11h 19m",
+              "cost": "1,500,000",
+              "value": "Unlocked"
+            }
+          ]
+        },
+        "Waves Required": {
+          "max_level": 100,
+          "rows_excerpt": [
+            {
+              "level": 1,
+              "time": "0d 1h 39m",
+              "cost": "100K",
+              "value": "-1.00"
+            },
+            {
+              "level": 2,
+              "time": "0d 5h 1m",
+              "cost": "220K",
+              "value": "-2.00"
+            },
+            {
+              "level": 3,
+              "time": "0d 8h 33m",
+              "cost": "940K",
+              "value": "-3.00"
+            },
+            {
+              "level": 4,
+              "time": "0d 12h 34m",
+              "cost": "5,26M",
+              "value": "-4.00"
+            },
+            {
+              "level": 5,
+              "time": "0d 17h 29m",
+              "cost": "20,98M",
+              "value": "-5.00"
+            },
+            {
+              "level": 6,
+              "time": "0d 23h 46m",
+              "cost": "63,1M",
+              "value": "-6.00"
+            },
+            {
+              "level": 7,
+              "time": "1d 7h 57m",
+              "cost": "156,22M",
+              "value": "-7.00"
+            },
+            {
+              "level": 8,
+              "time": "1d 18h 38m",
+              "cost": "336,94M",
+              "value": "-8.00"
+            },
+            {
+              "level": 9,
+              "time": "2d 8h 29m",
+              "cost": "656,26M",
+              "value": "-9.00"
+            },
+            {
+              "level": 10,
+              "time": "3d 2h 11m",
+              "cost": "1,18B",
+              "value": "-10.00"
+            },
+            {
+              "level": 50,
+              "time": "674d 2h 20m",
+              "cost": "5,65T",
+              "value": "-50.00"
+            },
+            {
+              "level": 75,
+              "time": "2834d 13h 6m",
+              "cost": "44,38T",
+              "value": "-75.00"
+            },
+            {
+              "level": 100,
+              "time": "7835d 15h 13m",
+              "cost": "190,2T",
+              "value": "-100.00"
+            }
+          ],
+          "note": "Large table sampled here; you can expand with the same schema."
+        },
+        "Standard Perk Bonus": {
+          "max_level": 25,
+          "rows": [
+            {
+              "level": 1,
+              "time": "0d 1h 39m",
+              "cost": "100,000",
+              "value": "1%"
+            },
+            {
+              "level": 2,
+              "time": "0d 5h 34m",
+              "cost": "280,000",
+              "value": "2%"
+            },
+            {
+              "level": 3,
+              "time": "0d 9h 39m",
+              "cost": "1,360,000",
+              "value": "3%"
+            },
+            {
+              "level": 4,
+              "time": "0d 14h 14m",
+              "cost": "7,840,000",
+              "value": "4%"
+            },
+            {
+              "level": 5,
+              "time": "0d 19h 42m",
+              "cost": "31,420,000",
+              "value": "5%"
+            },
+            {
+              "level": 6,
+              "time": "1d 2h 32m",
+              "cost": "94,600,000",
+              "value": "6%"
+            },
+            {
+              "level": 7,
+              "time": "1d 11h 17m",
+              "cost": "234,280,000",
+              "value": "7%"
+            },
+            {
+              "level": 8,
+              "time": "1d 22h 32m",
+              "cost": "505,360,000",
+              "value": "8%"
+            },
+            {
+              "level": 9,
+              "time": "2d 12h 56m",
+              "cost": "984,340,000",
+              "value": "9%"
+            },
+            {
+              "level": 10,
+              "time": "3d 7h 11m",
+              "cost": "1,770,000,000",
+              "value": "10%"
+            },
+            {
+              "level": 11,
+              "time": "4d 6h 2m",
+              "cost": "3,000,000,000",
+              "value": "11%"
+            },
+            {
+              "level": 12,
+              "time": "5d 10h 16m",
+              "cost": "4,830,000,000",
+              "value": "12%"
+            },
+            {
+              "level": 13,
+              "time": "6d 20h 43m",
+              "cost": "7,470,000,000",
+              "value": "13%"
+            },
+            {
+              "level": 14,
+              "time": "8d 14h 14m",
+              "cost": "11,140,000,000",
+              "value": "14%"
+            },
+            {
+              "level": 15,
+              "time": "10d 15h 44m",
+              "cost": "16,140,000,000",
+              "value": "15%"
+            },
+            {
+              "level": 16,
+              "time": "13d 2h 9m",
+              "cost": "22,780,000,000",
+              "value": "16%"
+            },
+            {
+              "level": 17,
+              "time": "15d 22h 27m",
+              "cost": "31,460,000,000",
+              "value": "17%"
+            },
+            {
+              "level": 18,
+              "time": "19d 5h 39m",
+              "cost": "42,600,000,000",
+              "value": "18%"
+            },
+            {
+              "level": 19,
+              "time": "23d 0h 46m",
+              "cost": "56,690,000,000",
+              "value": "19%"
+            },
+            {
+              "level": 20,
+              "time": "27d 8h 53m",
+              "cost": "74,290,000,000",
+              "value": "20%"
+            },
+            {
+              "level": 21,
+              "time": "32d 7h 6m",
+              "cost": "96,000,000,000",
+              "value": "21%"
+            },
+            {
+              "level": 22,
+              "time": "37d 20h 32m",
+              "cost": "122,530,000,000",
+              "value": "22%"
+            },
+            {
+              "level": 23,
+              "time": "44d 2h 20m",
+              "cost": "154,610,000,000",
+              "value": "23%"
+            },
+            {
+              "level": 24,
+              "time": "51d 1h 42m",
+              "cost": "193,090,000,000",
+              "value": "24%"
+            },
+            {
+              "level": 25,
+              "time": "58d 19h 50m",
+              "cost": "238,880,000,000",
+              "value": "25%"
+            }
+          ]
+        },
+        "First Perk Choice": {
+          "max_level": 1,
+          "rows": [
+            {
+              "level": 1,
+              "time": "4d 15h 6m",
+              "cost": "1,000,000,000",
+              "value": "Unlocked"
+            }
+          ]
+        },
+        "Improve Trade-Off Perks": {
+          "max_level": 10,
+          "rows": [
+            {
+              "level": 1,
+              "time": "1d 0h 59m",
+              "cost": "600,000,000",
+              "value": "1%"
+            },
+            {
+              "level": 2,
+              "time": "1d 14h 54m",
+              "cost": "700,030,000",
+              "value": "2%"
+            },
+            {
+              "level": 3,
+              "time": "2d 5h 0m",
+              "cost": "801,180,000",
+              "value": "3%"
+            },
+            {
+              "level": 4,
+              "time": "2d 19h 40m",
+              "cost": "910,140,000",
+              "value": "4%"
+            },
+            {
+              "level": 5,
+              "time": "3d 11h 24m",
+              "cost": "1,050,000,000",
+              "value": "5%"
+            },
+            {
+              "level": 6,
+              "time": "4d 4h 49m",
+              "cost": "1,250,000,000",
+              "value": "6%"
+            },
+            {
+              "level": 7,
+              "time": "5d 0h 38m",
+              "cost": "1,600,000,000",
+              "value": "7%"
+            },
+            {
+              "level": 8,
+              "time": "5d 23h 39m",
+              "cost": "2,200,000,000",
+              "value": "8%"
+            },
+            {
+              "level": 9,
+              "time": "7d 2h 46m",
+              "cost": "3,230,000,000",
+              "value": "9%"
+            },
+            {
+              "level": 10,
+              "time": "8d 10h 58m",
+              "cost": "4,920,000,000",
+              "value": "10%"
+            }
+          ]
+        },
+        "Auto Pick Perks": {
+          "max_level": 1,
+          "rows": [
+            {
+              "level": 1,
+              "time": "4d 23h 26m",
+              "cost": "100,000,000",
+              "value": "Unlocked"
+            }
+          ]
+        },
+        "Perk Option Quantity": {
+          "max_level": 2,
+          "rows": [
+            {
+              "level": 1,
+              "time": "4d 23h 26m",
+              "cost": "200,000,000",
+              "value": "+1"
+            },
+            {
+              "level": 2,
+              "time": "10d 4h 26m",
+              "cost": "2,000,000,000",
+              "value": "+2"
+            }
+          ]
+        },
+        "Ban Perks": {
+          "max_level": 8,
+          "rows": [
+            {
+              "level": 1,
+              "time": "2d 7h 33m",
+              "cost": "10.00M",
+              "value": "1"
+            },
+            {
+              "level": 2,
+              "time": "4d 15h 6m",
+              "cost": "100.00M",
+              "value": "2"
+            },
+            {
+              "level": 3,
+              "time": "9d 6h 13m",
+              "cost": "1.00B",
+              "value": "3"
+            },
+            {
+              "level": 4,
+              "time": "20d 19h 59m",
+              "cost": "15.00B",
+              "value": "4"
+            },
+            {
+              "level": 5,
+              "time": "41d 16h 0m 15m",
+              "cost": "100.00B",
+              "value": "5"
+            },
+            {
+              "level": 6,
+              "time": "83d 8h 0m",
+              "cost": "1.00T",
+              "value": "6"
+            },
+            {
+              "level": 7,
+              "time": "166d 15h 59m",
+              "cost": "100.00T",
+              "value": "7"
+            },
+            {
+              "level": 8,
+              "time": "333d 8h 0m",
+              "cost": "1.00q",
+              "value": "8"
+            }
+          ]
+        },
+        "Auto Pick Ranking": {
+          "max_level": 32,
+          "rows_excerpt": [
+            {
+              "level": 1,
+              "time": "1d 23h 46m",
+              "cost": "100.00K",
+              "value": "1"
+            },
+            {
+              "level": 2,
+              "time": "2d 5h 21m",
+              "cost": "180.00K",
+              "value": "2"
+            },
+            {
+              "level": 3,
+              "time": "2d 11h 18m",
+              "cost": "878.82K",
+              "value": "3"
+            },
+            {
+              "level": 4,
+              "time": "2d 18h 27m",
+              "cost": "4.46M",
+              "value": "4"
+            },
+            {
+              "level": 5,
+              "time": "3d 4h 11m",
+              "cost": "15.66M",
+              "value": "5"
+            },
+            {
+              "level": 16,
+              "time": "50d 3h 44m",
+              "cost": "5.88B",
+              "value": "16"
+            },
+            {
+              "level": 24,
+              "time": "244d 42m 18s",
+              "cost": "40.26B",
+              "value": "24"
+            },
+            {
+              "level": 32,
+              "time": "2y 37d 9h",
+              "cost": "154.26B",
+              "value": "32"
+            }
+          ],
+          "note": "Sampled levels for schema/reference."
+        }
+      }
+    }
+  }
+}

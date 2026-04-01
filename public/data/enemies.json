@@ -1,0 +1,4296 @@
+{
+  "id": "enemies",
+  "name": "Enemies",
+  "labs": [
+    {
+      "id": "boss-attack",
+      "name": "Boss Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases boss attack at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 40000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.30%"
+        },
+        {
+          "level": 2,
+          "cost": 80010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.60%"
+        },
+        {
+          "level": 3,
+          "cost": 120070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-0.90%"
+        },
+        {
+          "level": 4,
+          "cost": 160330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 5,
+          "cost": 200970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-1.50%"
+        },
+        {
+          "level": 6,
+          "cost": 242260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-1.80%"
+        },
+        {
+          "level": 7,
+          "cost": 284530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.10%"
+        },
+        {
+          "level": 8,
+          "cost": 328130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 9,
+          "cost": 373510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-2.70%"
+        },
+        {
+          "level": 10,
+          "cost": 421140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-3.00%"
+        },
+        {
+          "level": 11,
+          "cost": 471550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-3.30%"
+        },
+        {
+          "level": 12,
+          "cost": 525320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 13,
+          "cost": 583080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-3.90%"
+        },
+        {
+          "level": 14,
+          "cost": 645500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-4.20%"
+        },
+        {
+          "level": 15,
+          "cost": 713310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-4.50%"
+        },
+        {
+          "level": 16,
+          "cost": 787270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 17,
+          "cost": 868200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-5.10%"
+        },
+        {
+          "level": 18,
+          "cost": 956960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-5.40%"
+        },
+        {
+          "level": 19,
+          "cost": 1050000000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-5.70%"
+        },
+        {
+          "level": 20,
+          "cost": 1160000000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1280000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-6.30%"
+        },
+        {
+          "level": 22,
+          "cost": 1410000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-6.60%"
+        },
+        {
+          "level": 23,
+          "cost": 1550000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-6.90%"
+        },
+        {
+          "level": 24,
+          "cost": 1710000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 25,
+          "cost": 1880000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-7.50%"
+        },
+        {
+          "level": 26,
+          "cost": 2070000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-7.80%"
+        },
+        {
+          "level": 27,
+          "cost": 2270000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-8.10%"
+        },
+        {
+          "level": 28,
+          "cost": 2490000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 29,
+          "cost": 2740000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-8.70%"
+        },
+        {
+          "level": 30,
+          "cost": 3000000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-9.00%"
+        }
+      ]
+    },
+    {
+      "id": "boss-health",
+      "name": "Boss Health",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases boss health at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 40000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.30%"
+        },
+        {
+          "level": 2,
+          "cost": 80010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.60%"
+        },
+        {
+          "level": 3,
+          "cost": 120070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-0.90%"
+        },
+        {
+          "level": 4,
+          "cost": 160330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 5,
+          "cost": 200970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-1.50%"
+        },
+        {
+          "level": 6,
+          "cost": 242260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-1.80%"
+        },
+        {
+          "level": 7,
+          "cost": 284530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.10%"
+        },
+        {
+          "level": 8,
+          "cost": 328130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 9,
+          "cost": 373510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-2.70%"
+        },
+        {
+          "level": 10,
+          "cost": 421140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-3.00%"
+        },
+        {
+          "level": 11,
+          "cost": 471550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-3.30%"
+        },
+        {
+          "level": 12,
+          "cost": 525320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 13,
+          "cost": 583080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-3.90%"
+        },
+        {
+          "level": 14,
+          "cost": 645500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-4.20%"
+        },
+        {
+          "level": 15,
+          "cost": 713310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-4.50%"
+        },
+        {
+          "level": 16,
+          "cost": 787270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 17,
+          "cost": 868200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-5.10%"
+        },
+        {
+          "level": 18,
+          "cost": 956960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-5.40%"
+        },
+        {
+          "level": 19,
+          "cost": 1050000000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-5.70%"
+        },
+        {
+          "level": 20,
+          "cost": 1160000000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1280000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-6.30%"
+        },
+        {
+          "level": 22,
+          "cost": 1410000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-6.60%"
+        },
+        {
+          "level": 23,
+          "cost": 1550000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-6.90%"
+        },
+        {
+          "level": 24,
+          "cost": 1710000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 25,
+          "cost": 1880000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-7.50%"
+        },
+        {
+          "level": 26,
+          "cost": 2070000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-7.80%"
+        },
+        {
+          "level": 27,
+          "cost": 2270000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-8.10%"
+        },
+        {
+          "level": 28,
+          "cost": 2490000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 29,
+          "cost": 2740000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-8.70%"
+        },
+        {
+          "level": 30,
+          "cost": 3000000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-9.00%"
+        }
+      ]
+    },
+    {
+      "id": "common-enemy-attack",
+      "name": "Common Enemy Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocked lab in Milestones at tier 9 wave 10. Decreases basic enemy attack at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 20000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 40000000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 60070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 80330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 100970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 122260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 144530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 168130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 193510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 221140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 251550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 285320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 323080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 365500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 413310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 467270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 528200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 596960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 674450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 761600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 859420000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 968940000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1090000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1230000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1380000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1550000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 1730000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 1930000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2160000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2400000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "common-enemy-health",
+      "name": "Common Enemy Health",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 10. Decreases basic enemy health at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 20000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 40000000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 60070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 80330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 100970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 122260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 144530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 168130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 193510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 221140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 251550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 285320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 323080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 365500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 413310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 467270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 528200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 596960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 674450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 761600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 859420000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 968940000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1090000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1230000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1380000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1550000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 1730000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 1930000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2160000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2400000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "fast-enemy-attack",
+      "name": "Fast Enemy Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases Fast enemy attack at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 60010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 90070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 120330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 150970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 182260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 214530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 248130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 283510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 321140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 361550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 405320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 453080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 505500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 563310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 627270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 698200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 776960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 864450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 961600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1070000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 1190000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1320000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1470000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1630000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1810000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 2000000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 2210000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2450000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2700000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "fast-enemy-health",
+      "name": "Fast Enemy Health",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases Fast enemy health at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 60010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 90070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 120330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 150970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 182260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 214530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 248130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 283510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 321140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 361550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 405320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 453080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 505500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 563310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 627270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 698200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 776960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 864450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 961600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1070000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 1190000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1320000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1470000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1630000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1810000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 2000000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 2210000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2450000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2700000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "fast-enemy-speed",
+      "name": "Fast Enemy Speed",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 300. Decreases Fast enemy speed at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 60000000000,
+          "timeMinutes": 3999,
+          "timeDisplay": "2d 18h 39m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 120010000000,
+          "timeMinutes": 4501,
+          "timeDisplay": "3d 3h 1m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 180070000000,
+          "timeMinutes": 5014,
+          "timeDisplay": "3d 11h 34m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 240330000000,
+          "timeMinutes": 5560,
+          "timeDisplay": "3d 20h 40m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 300970000000,
+          "timeMinutes": 6171,
+          "timeDisplay": "4d 6h 51m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 362260000000,
+          "timeMinutes": 6883,
+          "timeDisplay": "4d 18h 43m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 424530000000,
+          "timeMinutes": 7738,
+          "timeDisplay": "5d 8h 58m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 488130000000,
+          "timeMinutes": 8786,
+          "timeDisplay": "6d 2h 26m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 553510000000,
+          "timeMinutes": 10080,
+          "timeDisplay": "7d 0h 0m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 621140000000,
+          "timeMinutes": 11678,
+          "timeDisplay": "8d 2h 38m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 691550000000,
+          "timeMinutes": 13644,
+          "timeDisplay": "9d 11h 24m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 765320000000,
+          "timeMinutes": 16045,
+          "timeDisplay": "11d 3h 25m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 843080000000,
+          "timeMinutes": 18953,
+          "timeDisplay": "13d 3h 53m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 925500000000,
+          "timeMinutes": 22443,
+          "timeDisplay": "15d 14h 3m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 1010000000000,
+          "timeMinutes": 26595,
+          "timeDisplay": "18d 11h 15m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 1110000000000,
+          "timeMinutes": 31492,
+          "timeDisplay": "21d 20h 52m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 1210000000000,
+          "timeMinutes": 37221,
+          "timeDisplay": "25d 20h 21m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 1320000000000,
+          "timeMinutes": 43873,
+          "timeDisplay": "30d 11h 13m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 1430000000000,
+          "timeMinutes": 51541,
+          "timeDisplay": "35d 19h 1m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 1560000000000,
+          "timeMinutes": 60323,
+          "timeDisplay": "41d 21h 23m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1700000000000,
+          "timeMinutes": 70318,
+          "timeDisplay": "48d 19h 58m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 1850000000000,
+          "timeMinutes": 81633,
+          "timeDisplay": "56d 16h 33m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 2010000000000,
+          "timeMinutes": 94372,
+          "timeDisplay": "65d 12h 52m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 2190000000000,
+          "timeMinutes": 108646,
+          "timeDisplay": "75d 10h 46m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 2380000000000,
+          "timeMinutes": 124569,
+          "timeDisplay": "86d 12h 9m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 2590000000000,
+          "timeMinutes": 142256,
+          "timeDisplay": "98d 18h 56m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 2810000000000,
+          "timeMinutes": 161827,
+          "timeDisplay": "112d 9h 7m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 3050000000000,
+          "timeMinutes": 183403,
+          "timeDisplay": "127d 8h 43m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 3320000000000,
+          "timeMinutes": 207110,
+          "timeDisplay": "143d 19h 50m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 3600000000000,
+          "timeMinutes": 233075,
+          "timeDisplay": "161d 20h 35m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "protector-damage-reduction",
+      "name": "Protector Damage Reduction",
+      "maxLevel": 20,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases protector damage reduction at all waves. Has 20 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 80000000000,
+          "timeMinutes": 3999,
+          "timeDisplay": "2d 18h 39m",
+          "value": "-0.30%"
+        },
+        {
+          "level": 2,
+          "cost": 150000000000,
+          "timeMinutes": 4501,
+          "timeDisplay": "3d 3h 1m",
+          "value": "-0.60%"
+        },
+        {
+          "level": 3,
+          "cost": 220070000000,
+          "timeMinutes": 5014,
+          "timeDisplay": "3d 11h 34m",
+          "value": "-0.90%"
+        },
+        {
+          "level": 4,
+          "cost": 290330000000,
+          "timeMinutes": 5560,
+          "timeDisplay": "3d 20h 40m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 5,
+          "cost": 360970000000,
+          "timeMinutes": 6171,
+          "timeDisplay": "4d 6h 51m",
+          "value": "-1.50%"
+        },
+        {
+          "level": 6,
+          "cost": 432260000000,
+          "timeMinutes": 6883,
+          "timeDisplay": "4d 18h 43m",
+          "value": "-1.80%"
+        },
+        {
+          "level": 7,
+          "cost": 504530000000,
+          "timeMinutes": 7738,
+          "timeDisplay": "5d 8h 58m",
+          "value": "-2.10%"
+        },
+        {
+          "level": 8,
+          "cost": 578130000000,
+          "timeMinutes": 8786,
+          "timeDisplay": "6d 2h 26m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 9,
+          "cost": 653510000000,
+          "timeMinutes": 10080,
+          "timeDisplay": "7d 0h 0m",
+          "value": "-2.70%"
+        },
+        {
+          "level": 10,
+          "cost": 731140000000,
+          "timeMinutes": 11678,
+          "timeDisplay": "8d 2h 38m",
+          "value": "-3.00%"
+        },
+        {
+          "level": 11,
+          "cost": 811550000000,
+          "timeMinutes": 13644,
+          "timeDisplay": "9d 11h 24m",
+          "value": "-3.30%"
+        },
+        {
+          "level": 12,
+          "cost": 895320000000,
+          "timeMinutes": 16045,
+          "timeDisplay": "11d 3h 25m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 13,
+          "cost": 983080000000,
+          "timeMinutes": 18953,
+          "timeDisplay": "13d 3h 53m",
+          "value": "-3.90%"
+        },
+        {
+          "level": 14,
+          "cost": 1080000000000,
+          "timeMinutes": 22443,
+          "timeDisplay": "15d 14h 3m",
+          "value": "-4.20%"
+        },
+        {
+          "level": 15,
+          "cost": 1170000000000,
+          "timeMinutes": 26595,
+          "timeDisplay": "18d 11h 15m",
+          "value": "-4.50%"
+        },
+        {
+          "level": 16,
+          "cost": 1280000000000,
+          "timeMinutes": 31492,
+          "timeDisplay": "21d 20h 52m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 17,
+          "cost": 1390000000000,
+          "timeMinutes": 37221,
+          "timeDisplay": "25d 20h 21m",
+          "value": "-5.10%"
+        },
+        {
+          "level": 18,
+          "cost": 1510000000000,
+          "timeMinutes": 43873,
+          "timeDisplay": "30d 11h 13m",
+          "value": "-5.40%"
+        },
+        {
+          "level": 19,
+          "cost": 1630000000000,
+          "timeMinutes": 51541,
+          "timeDisplay": "35d 19h 1m",
+          "value": "-5.70%"
+        },
+        {
+          "level": 20,
+          "cost": 1770000000000,
+          "timeMinutes": 60323,
+          "timeDisplay": "41d 21h 23m",
+          "value": "-6.00%"
+        }
+      ]
+    },
+    {
+      "id": "protector-health",
+      "name": "Protector Health",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases protector health at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 40000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.30%"
+        },
+        {
+          "level": 2,
+          "cost": 80010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.60%"
+        },
+        {
+          "level": 3,
+          "cost": 120070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-0.90%"
+        },
+        {
+          "level": 4,
+          "cost": 160330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 5,
+          "cost": 200970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-1.50%"
+        },
+        {
+          "level": 6,
+          "cost": 242260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-1.80%"
+        },
+        {
+          "level": 7,
+          "cost": 284530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.10%"
+        },
+        {
+          "level": 8,
+          "cost": 328130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 9,
+          "cost": 373510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-2.70%"
+        },
+        {
+          "level": 10,
+          "cost": 421140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-3.00%"
+        },
+        {
+          "level": 11,
+          "cost": 471550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-3.30%"
+        },
+        {
+          "level": 12,
+          "cost": 525320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 13,
+          "cost": 583080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-3.90%"
+        },
+        {
+          "level": 14,
+          "cost": 645500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-4.20%"
+        },
+        {
+          "level": 15,
+          "cost": 713310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-4.50%"
+        },
+        {
+          "level": 16,
+          "cost": 787270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 17,
+          "cost": 868200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-5.10%"
+        },
+        {
+          "level": 18,
+          "cost": 956960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-5.40%"
+        },
+        {
+          "level": 19,
+          "cost": 1050000000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-5.70%"
+        },
+        {
+          "level": 20,
+          "cost": 1160000000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1280000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-6.30%"
+        },
+        {
+          "level": 22,
+          "cost": 1410000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-6.60%"
+        },
+        {
+          "level": 23,
+          "cost": 1550000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-6.90%"
+        },
+        {
+          "level": 24,
+          "cost": 1710000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 25,
+          "cost": 1880000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-7.50%"
+        },
+        {
+          "level": 26,
+          "cost": 2070000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-7.80%"
+        },
+        {
+          "level": 27,
+          "cost": 2270000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-8.10%"
+        },
+        {
+          "level": 28,
+          "cost": 2490000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 29,
+          "cost": 2740000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-8.70%"
+        },
+        {
+          "level": 30,
+          "cost": 3000000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-9.00%"
+        }
+      ]
+    },
+    {
+      "id": "protector-radius",
+      "name": "Protector Radius",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases protector’s radius at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 40000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.30%"
+        },
+        {
+          "level": 2,
+          "cost": 80010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.60%"
+        },
+        {
+          "level": 3,
+          "cost": 120070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-0.90%"
+        },
+        {
+          "level": 4,
+          "cost": 160330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 5,
+          "cost": 200970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-1.50%"
+        },
+        {
+          "level": 6,
+          "cost": 242260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-1.80%"
+        },
+        {
+          "level": 7,
+          "cost": 284530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.10%"
+        },
+        {
+          "level": 8,
+          "cost": 328130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 9,
+          "cost": 373510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-2.70%"
+        },
+        {
+          "level": 10,
+          "cost": 421140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-3.00%"
+        },
+        {
+          "level": 11,
+          "cost": 471550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-3.30%"
+        },
+        {
+          "level": 12,
+          "cost": 525320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 13,
+          "cost": 583080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-3.90%"
+        },
+        {
+          "level": 14,
+          "cost": 645500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-4.20%"
+        },
+        {
+          "level": 15,
+          "cost": 713310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-4.50%"
+        },
+        {
+          "level": 16,
+          "cost": 787270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 17,
+          "cost": 868200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-5.10%"
+        },
+        {
+          "level": 18,
+          "cost": 956960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-5.40%"
+        },
+        {
+          "level": 19,
+          "cost": 1050000000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-5.70%"
+        },
+        {
+          "level": 20,
+          "cost": 1160000000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1280000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-6.30%"
+        },
+        {
+          "level": 22,
+          "cost": 1410000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-6.60%"
+        },
+        {
+          "level": 23,
+          "cost": 1550000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-6.90%"
+        },
+        {
+          "level": 24,
+          "cost": 1710000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 25,
+          "cost": 1880000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-7.50%"
+        },
+        {
+          "level": 26,
+          "cost": 2070000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-7.80%"
+        },
+        {
+          "level": 27,
+          "cost": 2270000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-8.10%"
+        },
+        {
+          "level": 28,
+          "cost": 2490000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 29,
+          "cost": 2740000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-8.70%"
+        },
+        {
+          "level": 30,
+          "cost": 3000000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-9.00%"
+        }
+      ]
+    },
+    {
+      "id": "ranged-enemy-attack",
+      "name": "Ranged Enemy Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases ranged enemy attack at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 60010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 90070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 120330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 150970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 182260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 214530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 248130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 283510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 321140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 361550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 405320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 453080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 505500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 563310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 627270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 698200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 776960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 864450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 961600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1070000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 1190000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1320000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1470000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1630000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1810000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 2000000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 2210000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2450000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2700000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "ranged-enemy-health",
+      "name": "Ranged Enemy Health",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases ranged enemy health at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 60010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 90070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 120330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 150970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 182260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 214530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 248130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 283510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 321140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 361550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 405320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 453080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 505500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 563310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 627270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 698200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 776960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 864450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 961600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1070000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 1190000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1320000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1470000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1630000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1810000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 2000000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 2210000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2450000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2700000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "ranged-enemy-range-lab",
+      "name": "Ranged Enemy Range Lab",
+      "maxLevel": 30,
+      "unlock": "Unlocked in Tier 13 Wave 80. Reduces the attack range of the Ranged Enemy type. Has 30 Levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1,
+          "timeMinutes": 3887,
+          "timeDisplay": "2d 16h 47m",
+          "value": "-0.50%"
+        },
+        {
+          "level": 2,
+          "cost": 1,
+          "timeMinutes": 7775,
+          "timeDisplay": "5d 9h 35m",
+          "value": "-1.00%"
+        },
+        {
+          "level": 3,
+          "cost": 2,
+          "timeMinutes": 11663,
+          "timeDisplay": "8d 2h 23m",
+          "value": "-1.50%"
+        },
+        {
+          "level": 4,
+          "cost": 3,
+          "timeMinutes": 15551,
+          "timeDisplay": "10d 19h 11m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 5,
+          "cost": 4,
+          "timeMinutes": 19439,
+          "timeDisplay": "13d 11h 59m",
+          "value": "-2.50%"
+        },
+        {
+          "level": 6,
+          "cost": 5,
+          "timeMinutes": 23326,
+          "timeDisplay": "16d 4h 46m",
+          "value": "-3.00%"
+        },
+        {
+          "level": 7,
+          "cost": 8,
+          "timeMinutes": 27214,
+          "timeDisplay": "18d 21h 34m",
+          "value": "-3.50%"
+        },
+        {
+          "level": 8,
+          "cost": 11,
+          "timeMinutes": 31102,
+          "timeDisplay": "21d 14h 22m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 9,
+          "cost": 15,
+          "timeMinutes": 34990,
+          "timeDisplay": "24d 7h 10m",
+          "value": "-4.50%"
+        },
+        {
+          "level": 10,
+          "cost": 21,
+          "timeMinutes": 38878,
+          "timeDisplay": "26d 23h 58m",
+          "value": "-5.00%"
+        },
+        {
+          "level": 11,
+          "cost": 29,
+          "timeMinutes": 42766,
+          "timeDisplay": "29d 16h 46m",
+          "value": "-5.50%"
+        },
+        {
+          "level": 12,
+          "cost": 41,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 13,
+          "cost": 57,
+          "timeMinutes": 50541,
+          "timeDisplay": "35d 2h 21m",
+          "value": "-6.50%"
+        },
+        {
+          "level": 14,
+          "cost": 79,
+          "timeMinutes": 54429,
+          "timeDisplay": "37d 19h 9m",
+          "value": "-7.00%"
+        },
+        {
+          "level": 15,
+          "cost": 111,
+          "timeMinutes": 58317,
+          "timeDisplay": "40d 11h 57m",
+          "value": "-7.50%"
+        },
+        {
+          "level": 16,
+          "cost": 156,
+          "timeMinutes": 62205,
+          "timeDisplay": "43d 4h 45m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 17,
+          "cost": 218,
+          "timeMinutes": 66093,
+          "timeDisplay": "45d 21h 33m",
+          "value": "-8.50%"
+        },
+        {
+          "level": 18,
+          "cost": 305,
+          "timeMinutes": 69980,
+          "timeDisplay": "48d 14h 20m",
+          "value": "-9.00%"
+        },
+        {
+          "level": 19,
+          "cost": 427,
+          "timeMinutes": 73868,
+          "timeDisplay": "51d 7h 8m",
+          "value": "-9.50%"
+        },
+        {
+          "level": 20,
+          "cost": 598,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 21,
+          "cost": 837,
+          "timeMinutes": 81644,
+          "timeDisplay": "56d 16h 44m",
+          "value": "-10.50%"
+        },
+        {
+          "level": 22,
+          "cost": 1171,
+          "timeMinutes": 85532,
+          "timeDisplay": "59d 9h 32m",
+          "value": "-11.00%"
+        },
+        {
+          "level": 23,
+          "cost": 1640,
+          "timeMinutes": 89420,
+          "timeDisplay": "62d 2h 20m",
+          "value": "-11.50%"
+        },
+        {
+          "level": 24,
+          "cost": 2296,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "-12.00%"
+        },
+        {
+          "level": 25,
+          "cost": 3214,
+          "timeMinutes": 97195,
+          "timeDisplay": "67d 11h 55m",
+          "value": "-12.50%"
+        },
+        {
+          "level": 26,
+          "cost": 4500,
+          "timeMinutes": 101083,
+          "timeDisplay": "70d 4h 43m",
+          "value": "-13.00%"
+        },
+        {
+          "level": 27,
+          "cost": 6300,
+          "timeMinutes": 104971,
+          "timeDisplay": "72d 21h 31m",
+          "value": "-13.50%"
+        },
+        {
+          "level": 28,
+          "cost": 8820,
+          "timeMinutes": 108859,
+          "timeDisplay": "75d 14h 19m",
+          "value": "-14.00%"
+        },
+        {
+          "level": 29,
+          "cost": 12348,
+          "timeMinutes": 112746,
+          "timeDisplay": "78d 7h 6m",
+          "value": "-14.50%"
+        },
+        {
+          "level": 30,
+          "cost": 17287,
+          "timeMinutes": 116634,
+          "timeDisplay": "80d 23h 54m",
+          "value": "-15.00%"
+        }
+      ]
+    },
+    {
+      "id": "ray-enemy-attack",
+      "name": "Ray Enemy Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocks at Tier 19 Wave 60. Reduces Ray Attack by x%. Has 30 Levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 0,
+          "timeMinutes": 15551,
+          "timeDisplay": "10d 19h 11m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 1,
+          "timeMinutes": 31102,
+          "timeDisplay": "21d 14h 22m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 1,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 1,
+          "timeMinutes": 62205,
+          "timeDisplay": "43d 4h 45m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 1,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 2,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 2,
+          "timeMinutes": 108859,
+          "timeDisplay": "75d 14h 19m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 2,
+          "timeMinutes": 124410,
+          "timeDisplay": "86d 9h 30m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 2,
+          "timeMinutes": 139961,
+          "timeDisplay": "97d 4h 41m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 3,
+          "timeMinutes": 155513,
+          "timeDisplay": "107d 23h 53m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 3,
+          "timeMinutes": 171064,
+          "timeDisplay": "118d 19h 4m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 3,
+          "timeMinutes": 186615,
+          "timeDisplay": "129d 14h 15m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 3,
+          "timeMinutes": 202167,
+          "timeDisplay": "140d 9h 27m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 4,
+          "timeMinutes": 217718,
+          "timeDisplay": "151d 4h 38m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 4,
+          "timeMinutes": 233269,
+          "timeDisplay": "161d 23h 49m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 4,
+          "timeMinutes": 248820,
+          "timeDisplay": "172d 19h 0m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 4,
+          "timeMinutes": 264372,
+          "timeDisplay": "183d 14h 12m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 5,
+          "timeMinutes": 279923,
+          "timeDisplay": "194d 9h 23m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 5,
+          "timeMinutes": 295474,
+          "timeDisplay": "205d 4h 34m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 5,
+          "timeMinutes": 311026,
+          "timeDisplay": "215d 23h 46m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 5,
+          "timeMinutes": 326577,
+          "timeDisplay": "226d 18h 57m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 6,
+          "timeMinutes": 342128,
+          "timeDisplay": "237d 14h 8m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 6,
+          "timeMinutes": 357680,
+          "timeDisplay": "248d 9h 20m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 6,
+          "timeMinutes": 373231,
+          "timeDisplay": "259d 4h 31m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 6,
+          "timeMinutes": 388782,
+          "timeDisplay": "269d 23h 42m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 7,
+          "timeMinutes": 404334,
+          "timeDisplay": "280d 18h 54m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 7,
+          "timeMinutes": 419885,
+          "timeDisplay": "291d 14h 5m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 7,
+          "timeMinutes": 435436,
+          "timeDisplay": "302d 9h 16m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 7,
+          "timeMinutes": 450987,
+          "timeDisplay": "313d 4h 27m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 8,
+          "timeMinutes": 466539,
+          "timeDisplay": "323d 23h 39m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "ray-enemy-health",
+      "name": "Ray Enemy Health",
+      "maxLevel": 30,
+      "unlock": "Unlocks at Tier 19 Wave 60. Reduces Ray Health by x%. Has 30 Levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 0,
+          "timeMinutes": 15551,
+          "timeDisplay": "10d 19h 11m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 1,
+          "timeMinutes": 31102,
+          "timeDisplay": "21d 14h 22m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 1,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 1,
+          "timeMinutes": 62205,
+          "timeDisplay": "43d 4h 45m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 1,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 2,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 2,
+          "timeMinutes": 108859,
+          "timeDisplay": "75d 14h 19m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 2,
+          "timeMinutes": 124410,
+          "timeDisplay": "86d 9h 30m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 2,
+          "timeMinutes": 139961,
+          "timeDisplay": "97d 4h 41m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 3,
+          "timeMinutes": 155513,
+          "timeDisplay": "107d 23h 53m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 3,
+          "timeMinutes": 171064,
+          "timeDisplay": "118d 19h 4m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 3,
+          "timeMinutes": 186615,
+          "timeDisplay": "129d 14h 15m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 3,
+          "timeMinutes": 202167,
+          "timeDisplay": "140d 9h 27m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 4,
+          "timeMinutes": 217718,
+          "timeDisplay": "151d 4h 38m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 4,
+          "timeMinutes": 233269,
+          "timeDisplay": "161d 23h 49m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 4,
+          "timeMinutes": 248820,
+          "timeDisplay": "172d 19h 0m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 4,
+          "timeMinutes": 264372,
+          "timeDisplay": "183d 14h 12m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 5,
+          "timeMinutes": 279923,
+          "timeDisplay": "194d 9h 23m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 5,
+          "timeMinutes": 295474,
+          "timeDisplay": "205d 4h 34m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 5,
+          "timeMinutes": 311026,
+          "timeDisplay": "215d 23h 46m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 5,
+          "timeMinutes": 326577,
+          "timeDisplay": "226d 18h 57m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 6,
+          "timeMinutes": 342128,
+          "timeDisplay": "237d 14h 8m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 6,
+          "timeMinutes": 357680,
+          "timeDisplay": "248d 9h 20m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 6,
+          "timeMinutes": 373231,
+          "timeDisplay": "259d 4h 31m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 6,
+          "timeMinutes": 388782,
+          "timeDisplay": "269d 23h 42m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 7,
+          "timeMinutes": 404334,
+          "timeDisplay": "280d 18h 54m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 7,
+          "timeMinutes": 419885,
+          "timeDisplay": "291d 14h 5m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 7,
+          "timeMinutes": 435436,
+          "timeDisplay": "302d 9h 16m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 7,
+          "timeMinutes": 450987,
+          "timeDisplay": "313d 4h 27m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 8,
+          "timeMinutes": 466539,
+          "timeDisplay": "323d 23h 39m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "scatter-enemy-attack",
+      "name": "Scatter Enemy Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocks at Tier 19 Wave 60. Reduces Scatter Attack by x%. Has 30 Levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 0,
+          "timeMinutes": 15551,
+          "timeDisplay": "10d 19h 11m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 1,
+          "timeMinutes": 31102,
+          "timeDisplay": "21d 14h 22m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 1,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 1,
+          "timeMinutes": 62205,
+          "timeDisplay": "43d 4h 45m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 1,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 2,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 2,
+          "timeMinutes": 108859,
+          "timeDisplay": "75d 14h 19m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 2,
+          "timeMinutes": 124410,
+          "timeDisplay": "86d 9h 30m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 2,
+          "timeMinutes": 139961,
+          "timeDisplay": "97d 4h 41m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 3,
+          "timeMinutes": 155513,
+          "timeDisplay": "107d 23h 53m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 3,
+          "timeMinutes": 171064,
+          "timeDisplay": "118d 19h 4m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 3,
+          "timeMinutes": 186615,
+          "timeDisplay": "129d 14h 15m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 3,
+          "timeMinutes": 202167,
+          "timeDisplay": "140d 9h 27m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 4,
+          "timeMinutes": 217718,
+          "timeDisplay": "151d 4h 38m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 4,
+          "timeMinutes": 233269,
+          "timeDisplay": "161d 23h 49m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 4,
+          "timeMinutes": 248820,
+          "timeDisplay": "172d 19h 0m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 4,
+          "timeMinutes": 264372,
+          "timeDisplay": "183d 14h 12m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 5,
+          "timeMinutes": 279923,
+          "timeDisplay": "194d 9h 23m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 5,
+          "timeMinutes": 295474,
+          "timeDisplay": "205d 4h 34m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 5,
+          "timeMinutes": 311026,
+          "timeDisplay": "215d 23h 46m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 5,
+          "timeMinutes": 326577,
+          "timeDisplay": "226d 18h 57m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 6,
+          "timeMinutes": 342128,
+          "timeDisplay": "237d 14h 8m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 6,
+          "timeMinutes": 357680,
+          "timeDisplay": "248d 9h 20m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 6,
+          "timeMinutes": 373231,
+          "timeDisplay": "259d 4h 31m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 6,
+          "timeMinutes": 388782,
+          "timeDisplay": "269d 23h 42m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 7,
+          "timeMinutes": 404334,
+          "timeDisplay": "280d 18h 54m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 7,
+          "timeMinutes": 419885,
+          "timeDisplay": "291d 14h 5m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 7,
+          "timeMinutes": 435436,
+          "timeDisplay": "302d 9h 16m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 7,
+          "timeMinutes": 450987,
+          "timeDisplay": "313d 4h 27m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 8,
+          "timeMinutes": 466539,
+          "timeDisplay": "323d 23h 39m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "scatter-enemy-health",
+      "name": "Scatter Enemy Health",
+      "maxLevel": 30,
+      "unlock": "Unlocks at Tier 19 Wave 60. Reduces Scatter Health by x%. Has 30 Levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 0,
+          "timeMinutes": 15551,
+          "timeDisplay": "10d 19h 11m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 1,
+          "timeMinutes": 31102,
+          "timeDisplay": "21d 14h 22m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 1,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 1,
+          "timeMinutes": 62205,
+          "timeDisplay": "43d 4h 45m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 1,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 2,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 2,
+          "timeMinutes": 108859,
+          "timeDisplay": "75d 14h 19m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 2,
+          "timeMinutes": 124410,
+          "timeDisplay": "86d 9h 30m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 2,
+          "timeMinutes": 139961,
+          "timeDisplay": "97d 4h 41m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 3,
+          "timeMinutes": 155513,
+          "timeDisplay": "107d 23h 53m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 3,
+          "timeMinutes": 171064,
+          "timeDisplay": "118d 19h 4m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 3,
+          "timeMinutes": 186615,
+          "timeDisplay": "129d 14h 15m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 3,
+          "timeMinutes": 202167,
+          "timeDisplay": "140d 9h 27m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 4,
+          "timeMinutes": 217718,
+          "timeDisplay": "151d 4h 38m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 4,
+          "timeMinutes": 233269,
+          "timeDisplay": "161d 23h 49m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 4,
+          "timeMinutes": 248820,
+          "timeDisplay": "172d 19h 0m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 4,
+          "timeMinutes": 264372,
+          "timeDisplay": "183d 14h 12m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 5,
+          "timeMinutes": 279923,
+          "timeDisplay": "194d 9h 23m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 5,
+          "timeMinutes": 295474,
+          "timeDisplay": "205d 4h 34m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 5,
+          "timeMinutes": 311026,
+          "timeDisplay": "215d 23h 46m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 5,
+          "timeMinutes": 326577,
+          "timeDisplay": "226d 18h 57m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 6,
+          "timeMinutes": 342128,
+          "timeDisplay": "237d 14h 8m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 6,
+          "timeMinutes": 357680,
+          "timeDisplay": "248d 9h 20m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 6,
+          "timeMinutes": 373231,
+          "timeDisplay": "259d 4h 31m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 6,
+          "timeMinutes": 388782,
+          "timeDisplay": "269d 23h 42m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 7,
+          "timeMinutes": 404334,
+          "timeDisplay": "280d 18h 54m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 7,
+          "timeMinutes": 419885,
+          "timeDisplay": "291d 14h 5m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 7,
+          "timeMinutes": 435436,
+          "timeDisplay": "302d 9h 16m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 7,
+          "timeMinutes": 450987,
+          "timeDisplay": "313d 4h 27m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 8,
+          "timeMinutes": 466539,
+          "timeDisplay": "323d 23h 39m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "tank-enemy-attack",
+      "name": "Tank Enemy Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases tank enemy attack at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 60010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 90070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 120330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 150970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 182260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 214530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 248130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 283510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 321140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 361550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 405320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 453080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 505500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 563310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 627270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 698200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 776960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 864450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 961600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1070000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 1190000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1320000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1470000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1630000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1810000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 2000000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 2210000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2450000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2700000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "tank-enemy-health",
+      "name": "Tank Enemy Health",
+      "maxLevel": 30,
+      "unlock": "Unlocked [[Lab Upgrades|lab]] in [[Milestones]] at tier 9 wave 20. Decreases tank enemy health at all waves. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 60010000000,
+          "timeMinutes": 3834,
+          "timeDisplay": "2d 15h 54m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 90070000000,
+          "timeMinutes": 4347,
+          "timeDisplay": "3d 0h 27m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 120330000000,
+          "timeMinutes": 4894,
+          "timeDisplay": "3d 9h 34m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 150970000000,
+          "timeMinutes": 5504,
+          "timeDisplay": "3d 19h 44m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 182260000000,
+          "timeMinutes": 6216,
+          "timeDisplay": "4d 7h 36m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 214530000000,
+          "timeMinutes": 7071,
+          "timeDisplay": "4d 21h 51m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 248130000000,
+          "timeMinutes": 8119,
+          "timeDisplay": "5d 15h 19m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 283510000000,
+          "timeMinutes": 9413,
+          "timeDisplay": "6d 12h 53m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 321140000000,
+          "timeMinutes": 11011,
+          "timeDisplay": "7d 15h 31m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 361550000000,
+          "timeMinutes": 12977,
+          "timeDisplay": "9d 0h 17m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 405320000000,
+          "timeMinutes": 15379,
+          "timeDisplay": "10d 16h 19m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 453080000000,
+          "timeMinutes": 18286,
+          "timeDisplay": "12d 16h 46m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 505500000000,
+          "timeMinutes": 21777,
+          "timeDisplay": "15d 2h 57m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 563310000000,
+          "timeMinutes": 25929,
+          "timeDisplay": "18d 0h 9m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 627270000000,
+          "timeMinutes": 30826,
+          "timeDisplay": "21d 9h 46m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 698200000000,
+          "timeMinutes": 36555,
+          "timeDisplay": "25d 9h 15m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 776960000000,
+          "timeMinutes": 43206,
+          "timeDisplay": "30d 0h 6m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 864450000000,
+          "timeMinutes": 50874,
+          "timeDisplay": "35d 7h 54m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 961600000000,
+          "timeMinutes": 59656,
+          "timeDisplay": "41d 10h 16m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 1070000000000,
+          "timeMinutes": 69652,
+          "timeDisplay": "48d 8h 52m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 1190000000000,
+          "timeMinutes": 80966,
+          "timeDisplay": "56d 5h 26m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 1320000000000,
+          "timeMinutes": 93705,
+          "timeDisplay": "65d 1h 45m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 1470000000000,
+          "timeMinutes": 107979,
+          "timeDisplay": "74d 23h 39m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 1630000000000,
+          "timeMinutes": 123902,
+          "timeDisplay": "86d 1h 2m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 1810000000000,
+          "timeMinutes": 141589,
+          "timeDisplay": "98d 7h 49m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 2000000000000,
+          "timeMinutes": 161160,
+          "timeDisplay": "111d 22h 0m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 2210000000000,
+          "timeMinutes": 182737,
+          "timeDisplay": "126d 21h 37m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 2450000000000,
+          "timeMinutes": 206443,
+          "timeDisplay": "143d 8h 43m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 2700000000000,
+          "timeMinutes": 232408,
+          "timeDisplay": "161d 9h 28m",
+          "value": "-12.00%"
+        }
+      ]
+    },
+    {
+      "id": "vampire-enemy-attack",
+      "name": "Vampire Enemy Attack",
+      "maxLevel": 30,
+      "unlock": "Unlocks at Tier 19 Wave 60. Reduces Vampire attack, not Drain, by x%. Has 30 Levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 0,
+          "timeMinutes": 15551,
+          "timeDisplay": "10d 19h 11m",
+          "value": "-0.40%"
+        },
+        {
+          "level": 2,
+          "cost": 1,
+          "timeMinutes": 31102,
+          "timeDisplay": "21d 14h 22m",
+          "value": "-0.80%"
+        },
+        {
+          "level": 3,
+          "cost": 1,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "-1.20%"
+        },
+        {
+          "level": 4,
+          "cost": 1,
+          "timeMinutes": 62205,
+          "timeDisplay": "43d 4h 45m",
+          "value": "-1.60%"
+        },
+        {
+          "level": 5,
+          "cost": 1,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "-2.00%"
+        },
+        {
+          "level": 6,
+          "cost": 2,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "-2.40%"
+        },
+        {
+          "level": 7,
+          "cost": 2,
+          "timeMinutes": 108859,
+          "timeDisplay": "75d 14h 19m",
+          "value": "-2.80%"
+        },
+        {
+          "level": 8,
+          "cost": 2,
+          "timeMinutes": 124410,
+          "timeDisplay": "86d 9h 30m",
+          "value": "-3.20%"
+        },
+        {
+          "level": 9,
+          "cost": 2,
+          "timeMinutes": 139961,
+          "timeDisplay": "97d 4h 41m",
+          "value": "-3.60%"
+        },
+        {
+          "level": 10,
+          "cost": 3,
+          "timeMinutes": 155513,
+          "timeDisplay": "107d 23h 53m",
+          "value": "-4.00%"
+        },
+        {
+          "level": 11,
+          "cost": 3,
+          "timeMinutes": 171064,
+          "timeDisplay": "118d 19h 4m",
+          "value": "-4.40%"
+        },
+        {
+          "level": 12,
+          "cost": 3,
+          "timeMinutes": 186615,
+          "timeDisplay": "129d 14h 15m",
+          "value": "-4.80%"
+        },
+        {
+          "level": 13,
+          "cost": 3,
+          "timeMinutes": 202167,
+          "timeDisplay": "140d 9h 27m",
+          "value": "-5.20%"
+        },
+        {
+          "level": 14,
+          "cost": 4,
+          "timeMinutes": 217718,
+          "timeDisplay": "151d 4h 38m",
+          "value": "-5.60%"
+        },
+        {
+          "level": 15,
+          "cost": 4,
+          "timeMinutes": 233269,
+          "timeDisplay": "161d 23h 49m",
+          "value": "-6.00%"
+        },
+        {
+          "level": 16,
+          "cost": 4,
+          "timeMinutes": 248820,
+          "timeDisplay": "172d 19h 0m",
+          "value": "-6.40%"
+        },
+        {
+          "level": 17,
+          "cost": 4,
+          "timeMinutes": 264372,
+          "timeDisplay": "183d 14h 12m",
+          "value": "-6.80%"
+        },
+        {
+          "level": 18,
+          "cost": 5,
+          "timeMinutes": 279923,
+          "timeDisplay": "194d 9h 23m",
+          "value": "-7.20%"
+        },
+        {
+          "level": 19,
+          "cost": 5,
+          "timeMinutes": 295474,
+          "timeDisplay": "205d 4h 34m",
+          "value": "-7.60%"
+        },
+        {
+          "level": 20,
+          "cost": 5,
+          "timeMinutes": 311026,
+          "timeDisplay": "215d 23h 46m",
+          "value": "-8.00%"
+        },
+        {
+          "level": 21,
+          "cost": 5,
+          "timeMinutes": 326577,
+          "timeDisplay": "226d 18h 57m",
+          "value": "-8.40%"
+        },
+        {
+          "level": 22,
+          "cost": 6,
+          "timeMinutes": 342128,
+          "timeDisplay": "237d 14h 8m",
+          "value": "-8.80%"
+        },
+        {
+          "level": 23,
+          "cost": 6,
+          "timeMinutes": 357680,
+          "timeDisplay": "248d 9h 20m",
+          "value": "-9.20%"
+        },
+        {
+          "level": 24,
+          "cost": 6,
+          "timeMinutes": 373231,
+          "timeDisplay": "259d 4h 31m",
+          "value": "-9.60%"
+        },
+        {
+          "level": 25,
+          "cost": 6,
+          "timeMinutes": 388782,
+          "timeDisplay": "269d 23h 42m",
+          "value": "-10.00%"
+        },
+        {
+          "level": 26,
+          "cost": 7,
+          "timeMinutes": 404334,
+          "timeDisplay": "280d 18h 54m",
+          "value": "-10.40%"
+        },
+        {
+          "level": 27,
+          "cost": 7,
+          "timeMinutes": 419885,
+          "timeDisplay": "291d 14h 5m",
+          "value": "-10.80%"
+        },
+        {
+          "level": 28,
+          "cost": 7,
+          "timeMinutes": 435436,
+          "timeDisplay": "302d 9h 16m",
+          "value": "-11.20%"
+        },
+        {
+          "level": 29,
+          "cost": 7,
+          "timeMinutes": 450987,
+          "timeDisplay": "313d 4h 27m",
+          "value": "-11.60%"
+        },
+        {
+          "level": 30,
+          "cost": 8,
+          "timeMinutes": 466539,
+          "timeDisplay": "323d 23h 39m",
+          "value": "-12.00%"
+        }
+      ]
+    }
+  ]
+}

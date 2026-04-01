@@ -1,0 +1,536 @@
+{
+  "id": "battle-condition",
+  "name": "Battle Condition",
+  "labs": [
+    {
+      "id": "battle-condition-reduction",
+      "name": "Battle Condition Reduction",
+      "maxLevel": 10,
+      "unlock": "Unlocks Tier 18 Wave 1000. Reduces the effect of active battle conditions by [x]%. Does not Apply to the Ultimate Weapon Duration Battle Condition. Has 10 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1000000000000000,
+          "timeMinutes": 24000,
+          "timeDisplay": "16d 16h 0m 0s",
+          "value": "2"
+        },
+        {
+          "level": 2,
+          "cost": 2100000000000000,
+          "timeMinutes": 48000,
+          "timeDisplay": "33d 8h 0m 0s",
+          "value": "4"
+        },
+        {
+          "level": 3,
+          "cost": 4200000000000000,
+          "timeMinutes": 72000,
+          "timeDisplay": "50d 0h 0m 0s",
+          "value": "6"
+        },
+        {
+          "level": 4,
+          "cost": 8600000000000000,
+          "timeMinutes": 96000,
+          "timeDisplay": "66d 16h 0m 0s",
+          "value": "8"
+        },
+        {
+          "level": 5,
+          "cost": 17700000000000000,
+          "timeMinutes": 120000,
+          "timeDisplay": "83d 8h 0m 0s",
+          "value": "10"
+        },
+        {
+          "level": 6,
+          "cost": 36200000000000000,
+          "timeMinutes": 144010,
+          "timeDisplay": "100d 0h 10m 0s",
+          "value": "12"
+        },
+        {
+          "level": 7,
+          "cost": 74200000000000000,
+          "timeMinutes": 168000,
+          "timeDisplay": "116d 16h 0m 0s",
+          "value": "14"
+        },
+        {
+          "level": 8,
+          "cost": 152200000000000000,
+          "timeMinutes": 192000,
+          "timeDisplay": "133d 8h 0m 0s",
+          "value": "16"
+        },
+        {
+          "level": 9,
+          "cost": 311900000000000000,
+          "timeMinutes": 216000,
+          "timeDisplay": "150d 0h 0m 0s",
+          "value": "18"
+        },
+        {
+          "level": 10,
+          "cost": 639400000000000000,
+          "timeMinutes": 240000,
+          "timeDisplay": "166d 16h 0m 0s",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "id": "battle-conditions-group-1",
+      "name": "Battle Conditions Group 1",
+      "maxLevel": 20,
+      "unlock": "Unlocked Tier 19 Wave 100. Group 1 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 20 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 0,
+          "timeMinutes": 19439,
+          "timeDisplay": "13d 11h 59m",
+          "value": "1%"
+        },
+        {
+          "level": 2,
+          "cost": 0,
+          "timeMinutes": 38878,
+          "timeDisplay": "26d 23h 58m",
+          "value": "2%"
+        },
+        {
+          "level": 3,
+          "cost": 1,
+          "timeMinutes": 58317,
+          "timeDisplay": "40d 11h 57m",
+          "value": "3%"
+        },
+        {
+          "level": 4,
+          "cost": 1,
+          "timeMinutes": 77756,
+          "timeDisplay": "53d 23h 56m",
+          "value": "4%"
+        },
+        {
+          "level": 5,
+          "cost": 1,
+          "timeMinutes": 97195,
+          "timeDisplay": "67d 11h 55m",
+          "value": "5%"
+        },
+        {
+          "level": 6,
+          "cost": 1,
+          "timeMinutes": 116634,
+          "timeDisplay": "80d 23h 54m",
+          "value": "6%"
+        },
+        {
+          "level": 7,
+          "cost": 1,
+          "timeMinutes": 136073,
+          "timeDisplay": "94d 11h 53m",
+          "value": "7%"
+        },
+        {
+          "level": 8,
+          "cost": 2,
+          "timeMinutes": 155513,
+          "timeDisplay": "107d 23h 53m",
+          "value": "8%"
+        },
+        {
+          "level": 9,
+          "cost": 2,
+          "timeMinutes": 174952,
+          "timeDisplay": "121d 11h 52m",
+          "value": "9%"
+        },
+        {
+          "level": 10,
+          "cost": 2,
+          "timeMinutes": 194391,
+          "timeDisplay": "134d 23h 51m",
+          "value": "10%"
+        },
+        {
+          "level": 11,
+          "cost": 2,
+          "timeMinutes": 213830,
+          "timeDisplay": "148d 11h 50m",
+          "value": "11%"
+        },
+        {
+          "level": 12,
+          "cost": 2,
+          "timeMinutes": 233269,
+          "timeDisplay": "161d 23h 49m",
+          "value": "12%"
+        },
+        {
+          "level": 13,
+          "cost": 3,
+          "timeMinutes": 252708,
+          "timeDisplay": "175d 11h 48m",
+          "value": "13%"
+        },
+        {
+          "level": 14,
+          "cost": 3,
+          "timeMinutes": 272147,
+          "timeDisplay": "188d 23h 47m",
+          "value": "14%"
+        },
+        {
+          "level": 15,
+          "cost": 3,
+          "timeMinutes": 291587,
+          "timeDisplay": "202d 11h 47m",
+          "value": "15%"
+        },
+        {
+          "level": 16,
+          "cost": 3,
+          "timeMinutes": 311026,
+          "timeDisplay": "215d 23h 46m",
+          "value": "16%"
+        },
+        {
+          "level": 17,
+          "cost": 3,
+          "timeMinutes": 330465,
+          "timeDisplay": "229d 11h 45m",
+          "value": "17%"
+        },
+        {
+          "level": 18,
+          "cost": 4,
+          "timeMinutes": 349904,
+          "timeDisplay": "242d 23h 44m",
+          "value": "18%"
+        },
+        {
+          "level": 19,
+          "cost": 4,
+          "timeMinutes": 369343,
+          "timeDisplay": "256d 11h 43m",
+          "value": "19%"
+        },
+        {
+          "level": 20,
+          "cost": 4,
+          "timeMinutes": 388782,
+          "timeDisplay": "269d 23h 42m",
+          "value": "20%"
+        }
+      ]
+    },
+    {
+      "id": "battle-conditions-group-2",
+      "name": "Battle Conditions Group 2",
+      "maxLevel": 20,
+      "unlock": "Unlocked Tier 20 Wave 60. Group 2 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 20 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1,
+          "timeMinutes": 23326,
+          "timeDisplay": "16d 4h 46m",
+          "value": "1%"
+        },
+        {
+          "level": 2,
+          "cost": 1,
+          "timeMinutes": 46653,
+          "timeDisplay": "32d 9h 33m",
+          "value": "2%"
+        },
+        {
+          "level": 3,
+          "cost": 2,
+          "timeMinutes": 69980,
+          "timeDisplay": "48d 14h 20m",
+          "value": "3%"
+        },
+        {
+          "level": 4,
+          "cost": 2,
+          "timeMinutes": 93307,
+          "timeDisplay": "64d 19h 7m",
+          "value": "4%"
+        },
+        {
+          "level": 5,
+          "cost": 3,
+          "timeMinutes": 116634,
+          "timeDisplay": "80d 23h 54m",
+          "value": "5%"
+        },
+        {
+          "level": 6,
+          "cost": 3,
+          "timeMinutes": 139961,
+          "timeDisplay": "97d 4h 41m",
+          "value": "6%"
+        },
+        {
+          "level": 7,
+          "cost": 4,
+          "timeMinutes": 163288,
+          "timeDisplay": "113d 9h 28m",
+          "value": "7%"
+        },
+        {
+          "level": 8,
+          "cost": 4,
+          "timeMinutes": 186615,
+          "timeDisplay": "129d 14h 15m",
+          "value": "8%"
+        },
+        {
+          "level": 9,
+          "cost": 5,
+          "timeMinutes": 209942,
+          "timeDisplay": "145d 19h 2m",
+          "value": "9%"
+        },
+        {
+          "level": 10,
+          "cost": 5,
+          "timeMinutes": 233269,
+          "timeDisplay": "161d 23h 49m",
+          "value": "10%"
+        },
+        {
+          "level": 11,
+          "cost": 6,
+          "timeMinutes": 256596,
+          "timeDisplay": "178d 4h 36m",
+          "value": "11%"
+        },
+        {
+          "level": 12,
+          "cost": 6,
+          "timeMinutes": 279923,
+          "timeDisplay": "194d 9h 23m",
+          "value": "12%"
+        },
+        {
+          "level": 13,
+          "cost": 7,
+          "timeMinutes": 303250,
+          "timeDisplay": "210d 14h 10m",
+          "value": "13%"
+        },
+        {
+          "level": 14,
+          "cost": 7,
+          "timeMinutes": 326577,
+          "timeDisplay": "226d 18h 57m",
+          "value": "14%"
+        },
+        {
+          "level": 15,
+          "cost": 8,
+          "timeMinutes": 349904,
+          "timeDisplay": "242d 23h 44m",
+          "value": "15%"
+        },
+        {
+          "level": 16,
+          "cost": 8,
+          "timeMinutes": 373231,
+          "timeDisplay": "259d 4h 31m",
+          "value": "16%"
+        },
+        {
+          "level": 17,
+          "cost": 9,
+          "timeMinutes": 396558,
+          "timeDisplay": "275d 9h 18m",
+          "value": "17%"
+        },
+        {
+          "level": 18,
+          "cost": 9,
+          "timeMinutes": 419885,
+          "timeDisplay": "291d 14h 5m",
+          "value": "18%"
+        },
+        {
+          "level": 19,
+          "cost": 10,
+          "timeMinutes": 443212,
+          "timeDisplay": "307d 18h 52m",
+          "value": "19%"
+        },
+        {
+          "level": 20,
+          "cost": 10,
+          "timeMinutes": 466539,
+          "timeDisplay": "323d 23h 39m",
+          "value": "20%"
+        }
+      ]
+    },
+    {
+      "id": "battle-conditions-group-3",
+      "name": "Battle Conditions Group 3",
+      "maxLevel": 10,
+      "unlock": "Unlocked Tier 19 Wave 500. Group 3 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 10 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1,
+          "timeMinutes": 38878,
+          "timeDisplay": "26d 23h 58m",
+          "value": "1%"
+        },
+        {
+          "level": 2,
+          "cost": 2,
+          "timeMinutes": 54429,
+          "timeDisplay": "37d 19h 9m",
+          "value": "2%"
+        },
+        {
+          "level": 3,
+          "cost": 2,
+          "timeMinutes": 69980,
+          "timeDisplay": "48d 14h 20m",
+          "value": "3%"
+        },
+        {
+          "level": 4,
+          "cost": 3,
+          "timeMinutes": 85532,
+          "timeDisplay": "59d 9h 32m",
+          "value": "4%"
+        },
+        {
+          "level": 5,
+          "cost": 5,
+          "timeMinutes": 101083,
+          "timeDisplay": "70d 4h 43m",
+          "value": "5%"
+        },
+        {
+          "level": 6,
+          "cost": 8,
+          "timeMinutes": 116634,
+          "timeDisplay": "80d 23h 54m",
+          "value": "6%"
+        },
+        {
+          "level": 7,
+          "cost": 11,
+          "timeMinutes": 132186,
+          "timeDisplay": "91d 19h 6m",
+          "value": "7%"
+        },
+        {
+          "level": 8,
+          "cost": 17,
+          "timeMinutes": 147737,
+          "timeDisplay": "102d 14h 17m",
+          "value": "8%"
+        },
+        {
+          "level": 9,
+          "cost": 26,
+          "timeMinutes": 163288,
+          "timeDisplay": "113d 9h 28m",
+          "value": "9%"
+        },
+        {
+          "level": 10,
+          "cost": 38,
+          "timeMinutes": 178840,
+          "timeDisplay": "124d 4h 40m",
+          "value": "10%"
+        }
+      ]
+    },
+    {
+      "id": "battle-conditions-group-4",
+      "name": "Battle Conditions Group 4",
+      "maxLevel": 10,
+      "unlock": "Unlocked Tier 21 Wave 1000. Group 4 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 10 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 2,
+          "timeMinutes": 38878,
+          "timeDisplay": "26d 23h 58m",
+          "value": "1%"
+        },
+        {
+          "level": 2,
+          "cost": 4,
+          "timeMinutes": 64537,
+          "timeDisplay": "44d 19h 37m",
+          "value": "2%"
+        },
+        {
+          "level": 3,
+          "cost": 8,
+          "timeMinutes": 90197,
+          "timeDisplay": "62d 15h 17m",
+          "value": "3%"
+        },
+        {
+          "level": 4,
+          "cost": 16,
+          "timeMinutes": 115857,
+          "timeDisplay": "80d 10h 57m",
+          "value": "4%"
+        },
+        {
+          "level": 5,
+          "cost": 32,
+          "timeMinutes": 141516,
+          "timeDisplay": "98d 6h 36m",
+          "value": "5%"
+        },
+        {
+          "level": 6,
+          "cost": 64,
+          "timeMinutes": 167176,
+          "timeDisplay": "116d 2h 16m",
+          "value": "6%"
+        },
+        {
+          "level": 7,
+          "cost": 128,
+          "timeMinutes": 192836,
+          "timeDisplay": "133d 21h 56m",
+          "value": "7%"
+        },
+        {
+          "level": 8,
+          "cost": 256,
+          "timeMinutes": 218495,
+          "timeDisplay": "151d 17h 35m",
+          "value": "8%"
+        },
+        {
+          "level": 9,
+          "cost": 512,
+          "timeMinutes": 244155,
+          "timeDisplay": "169d 13h 15m",
+          "value": "9%"
+        },
+        {
+          "level": 10,
+          "cost": 1024,
+          "timeMinutes": 269815,
+          "timeDisplay": "187d 8h 55m",
+          "value": "10%"
+        }
+      ]
+    }
+  ]
+}

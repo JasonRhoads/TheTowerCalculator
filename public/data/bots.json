@@ -1,0 +1,1225 @@
+{
+  "id": "bots",
+  "name": "Bots",
+  "labs": [
+    {
+      "id": "amplify-bot-cooldown",
+      "name": "Amplify Bot Cooldown",
+      "maxLevel": 25,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 5 wave 90. Unlocks Amplify Bot Cooldown which reduces the bot Cooldown by 1 second for each level. Has 25 levels for a 25 second reduction to cooldown.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000,
+          "timeMinutes": 2333,
+          "timeDisplay": "1d 14h 53m",
+          "value": "-1"
+        },
+        {
+          "level": 2,
+          "cost": 60050000,
+          "timeMinutes": 2834,
+          "timeDisplay": "1d 23h 14m",
+          "value": "-2"
+        },
+        {
+          "level": 3,
+          "cost": 91600000,
+          "timeMinutes": 3347,
+          "timeDisplay": "2d 7h 47m",
+          "value": "-3"
+        },
+        {
+          "level": 4,
+          "cost": 132150000,
+          "timeMinutes": 3894,
+          "timeDisplay": "2d 16h 54m",
+          "value": "-4"
+        },
+        {
+          "level": 5,
+          "cost": 201200000,
+          "timeMinutes": 4504,
+          "timeDisplay": "3d 3h 4m",
+          "value": "-5"
+        },
+        {
+          "level": 6,
+          "cost": 336250000,
+          "timeMinutes": 5216,
+          "timeDisplay": "3d 14h 56m",
+          "value": "-6"
+        },
+        {
+          "level": 7,
+          "cost": 598800000,
+          "timeMinutes": 6071,
+          "timeDisplay": "4d 5h 11m",
+          "value": "-7"
+        },
+        {
+          "level": 8,
+          "cost": 1080000000,
+          "timeMinutes": 7119,
+          "timeDisplay": "4d 22h 39m",
+          "value": "-8"
+        },
+        {
+          "level": 9,
+          "cost": 1910000000,
+          "timeMinutes": 8413,
+          "timeDisplay": "5d 20h 13m",
+          "value": "-9"
+        },
+        {
+          "level": 10,
+          "cost": 3250000000,
+          "timeMinutes": 10011,
+          "timeDisplay": "6d 22h 51m",
+          "value": "-10"
+        },
+        {
+          "level": 11,
+          "cost": 5330000000,
+          "timeMinutes": 11977,
+          "timeDisplay": "8d 7h 37m",
+          "value": "-11"
+        },
+        {
+          "level": 12,
+          "cost": 8410000000,
+          "timeMinutes": 14379,
+          "timeDisplay": "9d 23h 39m",
+          "value": "-12"
+        },
+        {
+          "level": 13,
+          "cost": 12830000000,
+          "timeMinutes": 17286,
+          "timeDisplay": "12d 0h 6m",
+          "value": "-13"
+        },
+        {
+          "level": 14,
+          "cost": 18980000000,
+          "timeMinutes": 20777,
+          "timeDisplay": "14d 10h 17m",
+          "value": "-14"
+        },
+        {
+          "level": 15,
+          "cost": 27340000000,
+          "timeMinutes": 24929,
+          "timeDisplay": "17d 7h 29m",
+          "value": "-15"
+        },
+        {
+          "level": 16,
+          "cost": 38450000000,
+          "timeMinutes": 29826,
+          "timeDisplay": "20d 17h 6m",
+          "value": "-16"
+        },
+        {
+          "level": 17,
+          "cost": 52940000000,
+          "timeMinutes": 35555,
+          "timeDisplay": "24d 16h 35m",
+          "value": "-17"
+        },
+        {
+          "level": 18,
+          "cost": 71530000000,
+          "timeMinutes": 42206,
+          "timeDisplay": "29d 7h 26m",
+          "value": "-18"
+        },
+        {
+          "level": 19,
+          "cost": 95050000000,
+          "timeMinutes": 49874,
+          "timeDisplay": "34d 15h 14m",
+          "value": "-19"
+        },
+        {
+          "level": 20,
+          "cost": 124400000000,
+          "timeMinutes": 58656,
+          "timeDisplay": "40d 17h 36m",
+          "value": "-20"
+        },
+        {
+          "level": 21,
+          "cost": 160630000000,
+          "timeMinutes": 68652,
+          "timeDisplay": "47d 16h 12m",
+          "value": "-21"
+        },
+        {
+          "level": 22,
+          "cost": 204870000000,
+          "timeMinutes": 79966,
+          "timeDisplay": "55d 12h 46m",
+          "value": "-22"
+        },
+        {
+          "level": 23,
+          "cost": 258370000000,
+          "timeMinutes": 92705,
+          "timeDisplay": "64d 9h 5m",
+          "value": "-23"
+        },
+        {
+          "level": 24,
+          "cost": 322540000000,
+          "timeMinutes": 106979,
+          "timeDisplay": "74d 6h 59m",
+          "value": "-24"
+        },
+        {
+          "level": 25,
+          "cost": 398880000000,
+          "timeMinutes": 122902,
+          "timeDisplay": "85d 8h 22m",
+          "value": "-25"
+        }
+      ]
+    },
+    {
+      "id": "amplify-bot-duration",
+      "name": "Amplify Bot Duration",
+      "maxLevel": 20,
+      "unlock": "Unlock Lab in Milestones at tier 10 wave 50. Amplify Bot Duration increase the length of the bot activation. Has 20 levels increasing duration by 0.5s for a max increase of 10s.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 100000000000,
+          "timeMinutes": 12000,
+          "timeDisplay": "8d 8h 0m",
+          "value": "0.50"
+        },
+        {
+          "level": 2,
+          "cost": 150000000000,
+          "timeMinutes": 13800,
+          "timeDisplay": "9d 14h 0m",
+          "value": "1.00"
+        },
+        {
+          "level": 3,
+          "cost": 225000000000,
+          "timeMinutes": 15870,
+          "timeDisplay": "11d 0h 30m",
+          "value": "1.50"
+        },
+        {
+          "level": 4,
+          "cost": 337500000000,
+          "timeMinutes": 18250,
+          "timeDisplay": "12d 16h 10m",
+          "value": "2.00"
+        },
+        {
+          "level": 5,
+          "cost": 506250000000,
+          "timeMinutes": 20988,
+          "timeDisplay": "14d 13h 48m",
+          "value": "2.50"
+        },
+        {
+          "level": 6,
+          "cost": 759380000000,
+          "timeMinutes": 24136,
+          "timeDisplay": "16d 18h 16m",
+          "value": "3.00"
+        },
+        {
+          "level": 7,
+          "cost": 1140000000000,
+          "timeMinutes": 27756,
+          "timeDisplay": "19d 6h 36m",
+          "value": "3.50"
+        },
+        {
+          "level": 8,
+          "cost": 1710000000000,
+          "timeMinutes": 31920,
+          "timeDisplay": "22d 4h 0m",
+          "value": "4.00"
+        },
+        {
+          "level": 9,
+          "cost": 2560000000000,
+          "timeMinutes": 36708,
+          "timeDisplay": "25d 11h 48m",
+          "value": "4.50"
+        },
+        {
+          "level": 10,
+          "cost": 3840000000000,
+          "timeMinutes": 42214,
+          "timeDisplay": "29d 7h 34m",
+          "value": "5.00"
+        },
+        {
+          "level": 11,
+          "cost": 5770000000000,
+          "timeMinutes": 48546,
+          "timeDisplay": "33d 17h 6m",
+          "value": "5.50"
+        },
+        {
+          "level": 12,
+          "cost": 8650000000000,
+          "timeMinutes": 55828,
+          "timeDisplay": "38d 18h 28m",
+          "value": "6.00"
+        },
+        {
+          "level": 13,
+          "cost": 12970000000000,
+          "timeMinutes": 64202,
+          "timeDisplay": "44d 14h 2m",
+          "value": "6.50"
+        },
+        {
+          "level": 14,
+          "cost": 19460000000000,
+          "timeMinutes": 73833,
+          "timeDisplay": "51d 6h 33m",
+          "value": "7.00"
+        },
+        {
+          "level": 15,
+          "cost": 29190000000000,
+          "timeMinutes": 84908,
+          "timeDisplay": "58d 23h 8m",
+          "value": "7.50"
+        },
+        {
+          "level": 16,
+          "cost": 43790000000000,
+          "timeMinutes": 97644,
+          "timeDisplay": "67d 19h 24m",
+          "value": "8.00"
+        },
+        {
+          "level": 17,
+          "cost": 65680000000000,
+          "timeMinutes": 112291,
+          "timeDisplay": "77d 23h 31m",
+          "value": "8.50"
+        },
+        {
+          "level": 18,
+          "cost": 98530000000000,
+          "timeMinutes": 129135,
+          "timeDisplay": "89d 16h 15m",
+          "value": "9.00"
+        },
+        {
+          "level": 19,
+          "cost": 147790000000000,
+          "timeMinutes": 148505,
+          "timeDisplay": "103d 3h 5m",
+          "value": "9.50"
+        },
+        {
+          "level": 20,
+          "cost": 221680000000000,
+          "timeMinutes": 170781,
+          "timeDisplay": "118d 14h 21m",
+          "value": "10.00"
+        }
+      ]
+    },
+    {
+      "id": "flame-bot-burn-stack",
+      "name": "Flame Bot - Burn Stack",
+      "maxLevel": 5,
+      "unlock": "Unlock Lab in Milestones at Tier 10 wave 50. Allows for successive hits by flame bot to the same enemy to stack the burn effect and cause the burn to tick faster. 2 stacks would make the enemy take damage every 0.5 seconds (2 ticks per second). Has 5 levels adding 1 stack each level. There is a cap of 10 stacks of burn. So at lab level 1 it takes 10 hits to reach max stacks, and at max lab (level 5) it only takes two hits from flame bot to reach max burn stacks.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 43000000000000,
+          "timeMinutes": 65700,
+          "timeDisplay": "45d 15h 0m",
+          "value": "1"
+        },
+        {
+          "level": 2,
+          "cost": 64500000000000,
+          "timeMinutes": 75555,
+          "timeDisplay": "52d 11h 15m",
+          "value": "2"
+        },
+        {
+          "level": 3,
+          "cost": 96750000000000,
+          "timeMinutes": 86888,
+          "timeDisplay": "60d 8h 8m",
+          "value": "3"
+        },
+        {
+          "level": 4,
+          "cost": 145130000000000,
+          "timeMinutes": 99921,
+          "timeDisplay": "69d 9h 21m",
+          "value": "4"
+        },
+        {
+          "level": 5,
+          "cost": 217690000000000,
+          "timeMinutes": 114909,
+          "timeDisplay": "79d 19h 9m",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "flame-bot-cooldown",
+      "name": "Flame Bot Cooldown",
+      "maxLevel": 25,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 5 wave 60. Unlocks Flame Bot Cooldown which reduces the bot Cooldown by 1 second for each level. Has 25 levels for a 25 second reduction to cooldown.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000,
+          "timeMinutes": 2333,
+          "timeDisplay": "1d 14h 53m",
+          "value": "-1"
+        },
+        {
+          "level": 2,
+          "cost": 60050000,
+          "timeMinutes": 2834,
+          "timeDisplay": "1d 23h 14m",
+          "value": "-2"
+        },
+        {
+          "level": 3,
+          "cost": 91600000,
+          "timeMinutes": 3347,
+          "timeDisplay": "2d 7h 47m",
+          "value": "-3"
+        },
+        {
+          "level": 4,
+          "cost": 132150000,
+          "timeMinutes": 3894,
+          "timeDisplay": "2d 16h 54m",
+          "value": "-4"
+        },
+        {
+          "level": 5,
+          "cost": 201200000,
+          "timeMinutes": 4504,
+          "timeDisplay": "3d 3h 4m",
+          "value": "-5"
+        },
+        {
+          "level": 6,
+          "cost": 336250000,
+          "timeMinutes": 5216,
+          "timeDisplay": "3d 14h 56m",
+          "value": "-6"
+        },
+        {
+          "level": 7,
+          "cost": 598800000,
+          "timeMinutes": 6071,
+          "timeDisplay": "4d 5h 11m",
+          "value": "-7"
+        },
+        {
+          "level": 8,
+          "cost": 1080000000,
+          "timeMinutes": 7119,
+          "timeDisplay": "4d 22h 39m",
+          "value": "-8"
+        },
+        {
+          "level": 9,
+          "cost": 1910000000,
+          "timeMinutes": 8413,
+          "timeDisplay": "5d 20h 13m",
+          "value": "-9"
+        },
+        {
+          "level": 10,
+          "cost": 3250000000,
+          "timeMinutes": 10011,
+          "timeDisplay": "6d 22h 51m",
+          "value": "-10"
+        },
+        {
+          "level": 11,
+          "cost": 5330000000,
+          "timeMinutes": 11977,
+          "timeDisplay": "8d 7h 37m",
+          "value": "-11"
+        },
+        {
+          "level": 12,
+          "cost": 8410000000,
+          "timeMinutes": 14379,
+          "timeDisplay": "9d 23h 39m",
+          "value": "-12"
+        },
+        {
+          "level": 13,
+          "cost": 12830000000,
+          "timeMinutes": 17286,
+          "timeDisplay": "12d 0h 6m",
+          "value": "-13"
+        },
+        {
+          "level": 14,
+          "cost": 18980000000,
+          "timeMinutes": 20777,
+          "timeDisplay": "14d 10h 17m",
+          "value": "-14"
+        },
+        {
+          "level": 15,
+          "cost": 27340000000,
+          "timeMinutes": 24929,
+          "timeDisplay": "17d 7h 29m",
+          "value": "-15"
+        },
+        {
+          "level": 16,
+          "cost": 38450000000,
+          "timeMinutes": 29826,
+          "timeDisplay": "20d 17h 6m",
+          "value": "-16"
+        },
+        {
+          "level": 17,
+          "cost": 52940000000,
+          "timeMinutes": 35555,
+          "timeDisplay": "24d 16h 35m",
+          "value": "-17"
+        },
+        {
+          "level": 18,
+          "cost": 71530000000,
+          "timeMinutes": 42206,
+          "timeDisplay": "29d 7h 26m",
+          "value": "-18"
+        },
+        {
+          "level": 19,
+          "cost": 95050000000,
+          "timeMinutes": 49874,
+          "timeDisplay": "34d 15h 14m",
+          "value": "-19"
+        },
+        {
+          "level": 20,
+          "cost": 124400000000,
+          "timeMinutes": 58656,
+          "timeDisplay": "40d 17h 36m",
+          "value": "-20"
+        },
+        {
+          "level": 21,
+          "cost": 160630000000,
+          "timeMinutes": 68652,
+          "timeDisplay": "47d 16h 12m",
+          "value": "-21"
+        },
+        {
+          "level": 22,
+          "cost": 204870000000,
+          "timeMinutes": 79966,
+          "timeDisplay": "55d 12h 46m",
+          "value": "-22"
+        },
+        {
+          "level": 23,
+          "cost": 258370000000,
+          "timeMinutes": 92705,
+          "timeDisplay": "64d 9h 5m",
+          "value": "-23"
+        },
+        {
+          "level": 24,
+          "cost": 322540000000,
+          "timeMinutes": 106979,
+          "timeDisplay": "74d 6h 59m",
+          "value": "-24"
+        },
+        {
+          "level": 25,
+          "cost": 398880000000,
+          "timeMinutes": 122902,
+          "timeDisplay": "85d 8h 22m",
+          "value": "-25"
+        }
+      ]
+    },
+    {
+      "id": "golden-bot-cooldown",
+      "name": "Golden Bot Cooldown",
+      "maxLevel": 25,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 5 wave 80. Unlocks Golden Bot Cooldown which reduces the bot Cooldown by 1 second for each level. Has 25 levels for a 25 second reduction to cooldown.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000,
+          "timeMinutes": 2333,
+          "timeDisplay": "1d 14h 53m",
+          "value": "-1"
+        },
+        {
+          "level": 2,
+          "cost": 60050000,
+          "timeMinutes": 2834,
+          "timeDisplay": "1d 23h 14m",
+          "value": "-2"
+        },
+        {
+          "level": 3,
+          "cost": 91600000,
+          "timeMinutes": 3347,
+          "timeDisplay": "2d 7h 47m",
+          "value": "-3"
+        },
+        {
+          "level": 4,
+          "cost": 132150000,
+          "timeMinutes": 3894,
+          "timeDisplay": "2d 16h 54m",
+          "value": "-4"
+        },
+        {
+          "level": 5,
+          "cost": 201200000,
+          "timeMinutes": 4504,
+          "timeDisplay": "3d 3h 4m",
+          "value": "-5"
+        },
+        {
+          "level": 6,
+          "cost": 336250000,
+          "timeMinutes": 5216,
+          "timeDisplay": "3d 14h 56m",
+          "value": "-6"
+        },
+        {
+          "level": 7,
+          "cost": 598800000,
+          "timeMinutes": 6071,
+          "timeDisplay": "4d 5h 11m",
+          "value": "-7"
+        },
+        {
+          "level": 8,
+          "cost": 1080000000,
+          "timeMinutes": 7119,
+          "timeDisplay": "4d 22h 39m",
+          "value": "-8"
+        },
+        {
+          "level": 9,
+          "cost": 1910000000,
+          "timeMinutes": 8413,
+          "timeDisplay": "5d 20h 13m",
+          "value": "-9"
+        },
+        {
+          "level": 10,
+          "cost": 3250000000,
+          "timeMinutes": 10011,
+          "timeDisplay": "6d 22h 51m",
+          "value": "-10"
+        },
+        {
+          "level": 11,
+          "cost": 5330000000,
+          "timeMinutes": 11977,
+          "timeDisplay": "8d 7h 37m",
+          "value": "-11"
+        },
+        {
+          "level": 12,
+          "cost": 8410000000,
+          "timeMinutes": 14379,
+          "timeDisplay": "9d 23h 39m",
+          "value": "-12"
+        },
+        {
+          "level": 13,
+          "cost": 12830000000,
+          "timeMinutes": 17286,
+          "timeDisplay": "12d 0h 6m",
+          "value": "-13"
+        },
+        {
+          "level": 14,
+          "cost": 18980000000,
+          "timeMinutes": 20777,
+          "timeDisplay": "14d 10h 17m",
+          "value": "-14"
+        },
+        {
+          "level": 15,
+          "cost": 27340000000,
+          "timeMinutes": 24929,
+          "timeDisplay": "17d 7h 29m",
+          "value": "-15"
+        },
+        {
+          "level": 16,
+          "cost": 38450000000,
+          "timeMinutes": 29826,
+          "timeDisplay": "20d 17h 6m",
+          "value": "-16"
+        },
+        {
+          "level": 17,
+          "cost": 52940000000,
+          "timeMinutes": 35555,
+          "timeDisplay": "24d 16h 35m",
+          "value": "-17"
+        },
+        {
+          "level": 18,
+          "cost": 71530000000,
+          "timeMinutes": 42206,
+          "timeDisplay": "29d 7h 26m",
+          "value": "-18"
+        },
+        {
+          "level": 19,
+          "cost": 95050000000,
+          "timeMinutes": 49874,
+          "timeDisplay": "34d 15h 14m",
+          "value": "-19"
+        },
+        {
+          "level": 20,
+          "cost": 124400000000,
+          "timeMinutes": 58656,
+          "timeDisplay": "40d 17h 36m",
+          "value": "-20"
+        },
+        {
+          "level": 21,
+          "cost": 160630000000,
+          "timeMinutes": 68652,
+          "timeDisplay": "47d 16h 12m",
+          "value": "-21"
+        },
+        {
+          "level": 22,
+          "cost": 204870000000,
+          "timeMinutes": 79966,
+          "timeDisplay": "55d 12h 46m",
+          "value": "-22"
+        },
+        {
+          "level": 23,
+          "cost": 258370000000,
+          "timeMinutes": 92705,
+          "timeDisplay": "64d 9h 5m",
+          "value": "-23"
+        },
+        {
+          "level": 24,
+          "cost": 322540000000,
+          "timeMinutes": 106979,
+          "timeDisplay": "74d 6h 59m",
+          "value": "-24"
+        },
+        {
+          "level": 25,
+          "cost": 398880000000,
+          "timeMinutes": 122902,
+          "timeDisplay": "85d 8h 22m",
+          "value": "-25"
+        }
+      ]
+    },
+    {
+      "id": "golden-bot-duration",
+      "name": "Golden Bot Duration",
+      "maxLevel": 20,
+      "unlock": "Unlock Lab in Milestones at tier 10 wave 50. Cooldown Bot Duration increase the length of the bot activation. Has 20 levels increasing duration by 0.5s for a max increase of 10s.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 100000000000,
+          "timeMinutes": 12000,
+          "timeDisplay": "8d 8h 0m",
+          "value": "0.50"
+        },
+        {
+          "level": 2,
+          "cost": 150000000000,
+          "timeMinutes": 13800,
+          "timeDisplay": "9d 14h 0m",
+          "value": "1.00"
+        },
+        {
+          "level": 3,
+          "cost": 225000000000,
+          "timeMinutes": 15870,
+          "timeDisplay": "11d 0h 30m",
+          "value": "1.50"
+        },
+        {
+          "level": 4,
+          "cost": 337500000000,
+          "timeMinutes": 18250,
+          "timeDisplay": "12d 16h 10m",
+          "value": "2.00"
+        },
+        {
+          "level": 5,
+          "cost": 506250000000,
+          "timeMinutes": 20988,
+          "timeDisplay": "14d 13h 48m",
+          "value": "2.50"
+        },
+        {
+          "level": 6,
+          "cost": 759380000000,
+          "timeMinutes": 24136,
+          "timeDisplay": "16d 18h 16m",
+          "value": "3.00"
+        },
+        {
+          "level": 7,
+          "cost": 1140000000000,
+          "timeMinutes": 27756,
+          "timeDisplay": "19d 6h 36m",
+          "value": "3.50"
+        },
+        {
+          "level": 8,
+          "cost": 1710000000000,
+          "timeMinutes": 31920,
+          "timeDisplay": "22d 4h 0m",
+          "value": "4.00"
+        },
+        {
+          "level": 9,
+          "cost": 2560000000000,
+          "timeMinutes": 36708,
+          "timeDisplay": "25d 11h 48m",
+          "value": "4.50"
+        },
+        {
+          "level": 10,
+          "cost": 3840000000000,
+          "timeMinutes": 42214,
+          "timeDisplay": "29d 7h 34m",
+          "value": "5.00"
+        },
+        {
+          "level": 11,
+          "cost": 5770000000000,
+          "timeMinutes": 48546,
+          "timeDisplay": "33d 17h 6m",
+          "value": "5.50"
+        },
+        {
+          "level": 12,
+          "cost": 8650000000000,
+          "timeMinutes": 55828,
+          "timeDisplay": "38d 18h 28m",
+          "value": "6.00"
+        },
+        {
+          "level": 13,
+          "cost": 12970000000000,
+          "timeMinutes": 64202,
+          "timeDisplay": "44d 14h 2m",
+          "value": "6.50"
+        },
+        {
+          "level": 14,
+          "cost": 19460000000000,
+          "timeMinutes": 73833,
+          "timeDisplay": "51d 6h 33m",
+          "value": "7.00"
+        },
+        {
+          "level": 15,
+          "cost": 29190000000000,
+          "timeMinutes": 84908,
+          "timeDisplay": "58d 23h 8m",
+          "value": "7.50"
+        },
+        {
+          "level": 16,
+          "cost": 43790000000000,
+          "timeMinutes": 97644,
+          "timeDisplay": "67d 19h 24m",
+          "value": "8.00"
+        },
+        {
+          "level": 17,
+          "cost": 65680000000000,
+          "timeMinutes": 112291,
+          "timeDisplay": "77d 23h 31m",
+          "value": "8.50"
+        },
+        {
+          "level": 18,
+          "cost": 98530000000000,
+          "timeMinutes": 129135,
+          "timeDisplay": "89d 16h 15m",
+          "value": "9.00"
+        },
+        {
+          "level": 19,
+          "cost": 147790000000000,
+          "timeMinutes": 148505,
+          "timeDisplay": "103d 3h 5m",
+          "value": "9.50"
+        },
+        {
+          "level": 20,
+          "cost": 221680000000000,
+          "timeMinutes": 170781,
+          "timeDisplay": "118d 14h 21m",
+          "value": "10.00"
+        }
+      ]
+    },
+    {
+      "id": "thunder-bot-cooldown",
+      "name": "Thunder Bot Cooldown",
+      "maxLevel": 25,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 5 wave 70. Unlocks Thunder Bot Cooldown which reduces the bot cooldown by 1 second for each level. Has 25 levels for a total 25-second reduction to cooldown.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 30000000,
+          "timeMinutes": 2333,
+          "timeDisplay": "1d 14h 53m",
+          "value": "-1"
+        },
+        {
+          "level": 2,
+          "cost": 60050000,
+          "timeMinutes": 2834,
+          "timeDisplay": "1d 23h 14m",
+          "value": "-2"
+        },
+        {
+          "level": 3,
+          "cost": 91600000,
+          "timeMinutes": 3347,
+          "timeDisplay": "2d 7h 47m",
+          "value": "-3"
+        },
+        {
+          "level": 4,
+          "cost": 132150000,
+          "timeMinutes": 3894,
+          "timeDisplay": "2d 16h 54m",
+          "value": "-4"
+        },
+        {
+          "level": 5,
+          "cost": 201200000,
+          "timeMinutes": 4504,
+          "timeDisplay": "3d 3h 4m",
+          "value": "-5"
+        },
+        {
+          "level": 6,
+          "cost": 336250000,
+          "timeMinutes": 5216,
+          "timeDisplay": "3d 14h 56m",
+          "value": "-6"
+        },
+        {
+          "level": 7,
+          "cost": 598800000,
+          "timeMinutes": 6071,
+          "timeDisplay": "4d 5h 11m",
+          "value": "-7"
+        },
+        {
+          "level": 8,
+          "cost": 1080000000,
+          "timeMinutes": 7119,
+          "timeDisplay": "4d 22h 39m",
+          "value": "-8"
+        },
+        {
+          "level": 9,
+          "cost": 1910000000,
+          "timeMinutes": 8413,
+          "timeDisplay": "5d 20h 13m",
+          "value": "-9"
+        },
+        {
+          "level": 10,
+          "cost": 3250000000,
+          "timeMinutes": 10011,
+          "timeDisplay": "6d 22h 51m",
+          "value": "-10"
+        },
+        {
+          "level": 11,
+          "cost": 5330000000,
+          "timeMinutes": 11977,
+          "timeDisplay": "8d 7h 37m",
+          "value": "-11"
+        },
+        {
+          "level": 12,
+          "cost": 8410000000,
+          "timeMinutes": 14379,
+          "timeDisplay": "9d 23h 39m",
+          "value": "-12"
+        },
+        {
+          "level": 13,
+          "cost": 12830000000,
+          "timeMinutes": 17286,
+          "timeDisplay": "12d 0h 6m",
+          "value": "-13"
+        },
+        {
+          "level": 14,
+          "cost": 18980000000,
+          "timeMinutes": 20777,
+          "timeDisplay": "14d 10h 17m",
+          "value": "-14"
+        },
+        {
+          "level": 15,
+          "cost": 27340000000,
+          "timeMinutes": 24929,
+          "timeDisplay": "17d 7h 29m",
+          "value": "-15"
+        },
+        {
+          "level": 16,
+          "cost": 38450000000,
+          "timeMinutes": 29826,
+          "timeDisplay": "20d 17h 6m",
+          "value": "-16"
+        },
+        {
+          "level": 17,
+          "cost": 52940000000,
+          "timeMinutes": 35555,
+          "timeDisplay": "24d 16h 35m",
+          "value": "-17"
+        },
+        {
+          "level": 18,
+          "cost": 71530000000,
+          "timeMinutes": 42206,
+          "timeDisplay": "29d 7h 26m",
+          "value": "-18"
+        },
+        {
+          "level": 19,
+          "cost": 95050000000,
+          "timeMinutes": 49874,
+          "timeDisplay": "34d 15h 14m",
+          "value": "-19"
+        },
+        {
+          "level": 20,
+          "cost": 124400000000,
+          "timeMinutes": 58656,
+          "timeDisplay": "40d 17h 36m",
+          "value": "-20"
+        },
+        {
+          "level": 21,
+          "cost": 160630000000,
+          "timeMinutes": 68652,
+          "timeDisplay": "47d 16h 12m",
+          "value": "-21"
+        },
+        {
+          "level": 22,
+          "cost": 204870000000,
+          "timeMinutes": 79966,
+          "timeDisplay": "55d 12h 46m",
+          "value": "-22"
+        },
+        {
+          "level": 23,
+          "cost": 258370000000,
+          "timeMinutes": 92705,
+          "timeDisplay": "64d 9h 5m",
+          "value": "-23"
+        },
+        {
+          "level": 24,
+          "cost": 322540000000,
+          "timeMinutes": 106979,
+          "timeDisplay": "74d 6h 59m",
+          "value": "-24"
+        },
+        {
+          "level": 25,
+          "cost": 398880000000,
+          "timeMinutes": 122902,
+          "timeDisplay": "85d 8h 22m",
+          "value": "-25"
+        }
+      ]
+    },
+    {
+      "id": "thunder-bot-linger-time",
+      "name": "Thunder Bot Linger Time",
+      "maxLevel": 20,
+      "unlock": "Unlock Lab In Milestones at tier 10 wave 60. Increase the duration of the linger effect by 0.5s per level. Has 20 levels for a total of 13 seconds.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 100000000000,
+          "timeMinutes": 12000,
+          "timeDisplay": "8d 8h 0m",
+          "value": "3.50"
+        },
+        {
+          "level": 2,
+          "cost": 150000000000,
+          "timeMinutes": 13800,
+          "timeDisplay": "9d 14h 0m",
+          "value": "4.00"
+        },
+        {
+          "level": 3,
+          "cost": 225000000000,
+          "timeMinutes": 15870,
+          "timeDisplay": "11d 0h 30m",
+          "value": "4.50"
+        },
+        {
+          "level": 4,
+          "cost": 337500000000,
+          "timeMinutes": 18250,
+          "timeDisplay": "12d 16h 10m",
+          "value": "5.00"
+        },
+        {
+          "level": 5,
+          "cost": 506250000000,
+          "timeMinutes": 20988,
+          "timeDisplay": "14d 13h 48m",
+          "value": "5.50"
+        },
+        {
+          "level": 6,
+          "cost": 759380000000,
+          "timeMinutes": 24136,
+          "timeDisplay": "16d 18h 16m",
+          "value": "6.00"
+        },
+        {
+          "level": 7,
+          "cost": 1140000000000,
+          "timeMinutes": 27756,
+          "timeDisplay": "19d 6h 36m",
+          "value": "6.50"
+        },
+        {
+          "level": 8,
+          "cost": 1710000000000,
+          "timeMinutes": 31920,
+          "timeDisplay": "22d 4h 0m",
+          "value": "7.00"
+        },
+        {
+          "level": 9,
+          "cost": 2560000000000,
+          "timeMinutes": 36708,
+          "timeDisplay": "25d 11h 48m",
+          "value": "7.50"
+        },
+        {
+          "level": 10,
+          "cost": 3840000000000,
+          "timeMinutes": 42214,
+          "timeDisplay": "29d 7h 34m",
+          "value": "8.00"
+        },
+        {
+          "level": 11,
+          "cost": 5770000000000,
+          "timeMinutes": 48546,
+          "timeDisplay": "33d 17h 6m",
+          "value": "8.50"
+        },
+        {
+          "level": 12,
+          "cost": 8650000000000,
+          "timeMinutes": 55828,
+          "timeDisplay": "38d 18h 28m",
+          "value": "9.00"
+        },
+        {
+          "level": 13,
+          "cost": 12970000000000,
+          "timeMinutes": 64202,
+          "timeDisplay": "44d 14h 2m",
+          "value": "9.50"
+        },
+        {
+          "level": 14,
+          "cost": 19460000000000,
+          "timeMinutes": 73833,
+          "timeDisplay": "51d 6h 33m",
+          "value": "10.00"
+        },
+        {
+          "level": 15,
+          "cost": 29190000000000,
+          "timeMinutes": 84908,
+          "timeDisplay": "58d 23h 8m",
+          "value": "10.50"
+        },
+        {
+          "level": 16,
+          "cost": 43790000000000,
+          "timeMinutes": 97644,
+          "timeDisplay": "67d 19h 24m",
+          "value": "11.00"
+        },
+        {
+          "level": 17,
+          "cost": 65680000000000,
+          "timeMinutes": 112291,
+          "timeDisplay": "77d 23h 31m",
+          "value": "11.50"
+        },
+        {
+          "level": 18,
+          "cost": 98530000000000,
+          "timeMinutes": 129135,
+          "timeDisplay": "89d 16h 15m",
+          "value": "12.00"
+        },
+        {
+          "level": 19,
+          "cost": 147790000000000,
+          "timeMinutes": 148505,
+          "timeDisplay": "103d 3h 5m",
+          "value": "12.50"
+        },
+        {
+          "level": 20,
+          "cost": 221680000000000,
+          "timeMinutes": 170781,
+          "timeDisplay": "118d 14h 21m",
+          "value": "13.00"
+        }
+      ]
+    }
+  ]
+}

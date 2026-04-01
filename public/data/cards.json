@@ -1,0 +1,528 @@
+{
+  "id": "cards",
+  "name": "Cards",
+  "labs": [
+    {
+      "id": "double-death-ray",
+      "name": "Double Death Ray",
+      "maxLevel": 30,
+      "unlock": "Unlocks [[Lab Upgrades|lab]] in [[Milestones]] at tier 3 wave 300. Double Death Ray has a chance to activate that is increased by the lab. When Double Death Ray triggers, the 2nd beam will always be opposite to the first and rotate in the same direction around the tower. Has 30 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 2500000,
+          "timeMinutes": 59,
+          "timeDisplay": "0d 0h 59m",
+          "value": "1%"
+        },
+        {
+          "level": 2,
+          "cost": 2810000,
+          "timeMinutes": 561,
+          "timeDisplay": "0d 9h 21m",
+          "value": "2%"
+        },
+        {
+          "level": 3,
+          "cost": 3420000,
+          "timeMinutes": 1073,
+          "timeDisplay": "0d 17h 53m",
+          "value": "3%"
+        },
+        {
+          "level": 4,
+          "cost": 5830000,
+          "timeMinutes": 1614,
+          "timeDisplay": "1d 2h 54m",
+          "value": "4%"
+        },
+        {
+          "level": 5,
+          "cost": 13940000,
+          "timeMinutes": 2209,
+          "timeDisplay": "1d 12h 49m",
+          "value": "5%"
+        },
+        {
+          "level": 6,
+          "cost": 35250000,
+          "timeMinutes": 2886,
+          "timeDisplay": "2d 0h 6m",
+          "value": "6%"
+        },
+        {
+          "level": 7,
+          "cost": 82060000,
+          "timeMinutes": 3677,
+          "timeDisplay": "2d 13h 17m",
+          "value": "7%"
+        },
+        {
+          "level": 8,
+          "cost": 172670000,
+          "timeMinutes": 4618,
+          "timeDisplay": "3d 4h 58m",
+          "value": "8%"
+        },
+        {
+          "level": 9,
+          "cost": 332580000,
+          "timeMinutes": 5749,
+          "timeDisplay": "3d 23h 49m",
+          "value": "9%"
+        },
+        {
+          "level": 10,
+          "cost": 595690000,
+          "timeMinutes": 7111,
+          "timeDisplay": "4d 22h 31m",
+          "value": "10%"
+        },
+        {
+          "level": 11,
+          "cost": 1010000000,
+          "timeMinutes": 8749,
+          "timeDisplay": "6d 1h 49m",
+          "value": "11%"
+        },
+        {
+          "level": 12,
+          "cost": 1620000000,
+          "timeMinutes": 10710,
+          "timeDisplay": "7d 10h 30m",
+          "value": "12%"
+        },
+        {
+          "level": 13,
+          "cost": 2490000000,
+          "timeMinutes": 13043,
+          "timeDisplay": "9d 1h 23m",
+          "value": "13%"
+        },
+        {
+          "level": 14,
+          "cost": 3720000000,
+          "timeMinutes": 15801,
+          "timeDisplay": "10d 23h 21m",
+          "value": "14%"
+        },
+        {
+          "level": 15,
+          "cost": 5380000000,
+          "timeMinutes": 19038,
+          "timeDisplay": "13d 5h 18m",
+          "value": "15%"
+        },
+        {
+          "level": 16,
+          "cost": 7600000000,
+          "timeMinutes": 22809,
+          "timeDisplay": "15d 20h 9m",
+          "value": "16%"
+        },
+        {
+          "level": 17,
+          "cost": 10490000000,
+          "timeMinutes": 27174,
+          "timeDisplay": "18d 20h 54m",
+          "value": "17%"
+        },
+        {
+          "level": 18,
+          "cost": 14210000000,
+          "timeMinutes": 32192,
+          "timeDisplay": "22d 8h 32m",
+          "value": "18%"
+        },
+        {
+          "level": 19,
+          "cost": 18900000000,
+          "timeMinutes": 37926,
+          "timeDisplay": "26d 8h 6m",
+          "value": "19%"
+        },
+        {
+          "level": 20,
+          "cost": 24770000000,
+          "timeMinutes": 44440,
+          "timeDisplay": "30d 20h 40m",
+          "value": "20%"
+        },
+        {
+          "level": 21,
+          "cost": 32010000000,
+          "timeMinutes": 51799,
+          "timeDisplay": "35d 23h 19m",
+          "value": "21%"
+        },
+        {
+          "level": 22,
+          "cost": 40850000000,
+          "timeMinutes": 60072,
+          "timeDisplay": "41d 17h 12m",
+          "value": "22%"
+        },
+        {
+          "level": 23,
+          "cost": 51550000000,
+          "timeMinutes": 69327,
+          "timeDisplay": "48d 3h 27m",
+          "value": "23%"
+        },
+        {
+          "level": 24,
+          "cost": 64370000000,
+          "timeMinutes": 79636,
+          "timeDisplay": "55d 7h 16m",
+          "value": "24%"
+        },
+        {
+          "level": 25,
+          "cost": 79640000000,
+          "timeMinutes": 91070,
+          "timeDisplay": "63d 5h 50m",
+          "value": "25%"
+        },
+        {
+          "level": 26,
+          "cost": 97670000000,
+          "timeMinutes": 103705,
+          "timeDisplay": "72d 0h 25m",
+          "value": "26%"
+        },
+        {
+          "level": 27,
+          "cost": 118820000000,
+          "timeMinutes": 117617,
+          "timeDisplay": "81d 16h 17m",
+          "value": "27%"
+        },
+        {
+          "level": 28,
+          "cost": 143500000000,
+          "timeMinutes": 132881,
+          "timeDisplay": "92d 6h 41m",
+          "value": "28%"
+        },
+        {
+          "level": 29,
+          "cost": 172110000000,
+          "timeMinutes": 149578,
+          "timeDisplay": "103d 20h 58m",
+          "value": "29%"
+        },
+        {
+          "level": 30,
+          "cost": 205120000000,
+          "timeMinutes": 167788,
+          "timeDisplay": "116d 12h 28m",
+          "value": "30%"
+        }
+      ]
+    },
+    {
+      "id": "super-tower-bonus",
+      "name": "Super Tower Bonus",
+      "maxLevel": 30,
+      "unlock": "Super Tower Bonus lab unlocks in Milestones at tier 8 wave 300. Increases the multiplier on the Super Tower card. Has 30 levels.",
+      "levels": [
+        { "level": 1, "timeMinutes": 299, "timeDisplay": "0d 4h 59m", "cost": 2000000000, "value": "1.03" },
+        { "level": 2, "timeMinutes": 801, "timeDisplay": "0d 13h 21m", "cost": 3010000000, "value": "1.06" },
+        { "level": 3, "timeMinutes": 1313, "timeDisplay": "0d 21h 53m", "cost": 4070000000, "value": "1.09" },
+        { "level": 4, "timeMinutes": 1854, "timeDisplay": "1d 6h 54m", "cost": 5330000000, "value": "1.12" },
+        { "level": 5, "timeMinutes": 2449, "timeDisplay": "1d 16h 49m", "cost": 6970000000, "value": "1.15" },
+        { "level": 6, "timeMinutes": 3126, "timeDisplay": "2d 4h 6m", "cost": 9260000000, "value": "1.18" },
+        { "level": 7, "timeMinutes": 3917, "timeDisplay": "2d 17h 17m", "cost": 12530000000, "value": "1.21" },
+        { "level": 8, "timeMinutes": 4858, "timeDisplay": "3d 8h 58m", "cost": 17130000000, "value": "1.24" },
+        { "level": 9, "timeMinutes": 5989, "timeDisplay": "4d 3h 49m", "cost": 23510000000, "value": "1.27" },
+        { "level": 10, "timeMinutes": 7351, "timeDisplay": "5d 2h 31m", "cost": 32140000000, "value": "1.30" },
+        { "level": 11, "timeMinutes": 8989, "timeDisplay": "6d 5h 49m", "cost": 43550000000, "value": "1.33" },
+        { "level": 12, "timeMinutes": 10830, "timeDisplay": "7d 14h 30m", "cost": 58320000000, "value": "1.36" },
+        { "level": 13, "timeMinutes": 13283, "timeDisplay": "9d 5h 23m", "cost": 77080000000, "value": "1.39" },
+        { "level": 14, "timeMinutes": 16041, "timeDisplay": "11d 3h 21m", "cost": 100500000000, "value": "1.42" },
+        { "level": 15, "timeMinutes": 19158, "timeDisplay": "13d 9h 18m", "cost": 129310000000, "value": "1.45" },
+        { "level": 16, "timeMinutes": 23049, "timeDisplay": "16d 0h 9m", "cost": 164270000000, "value": "1.48" },
+        { "level": 17, "timeMinutes": 27414, "timeDisplay": "19d 0h 54m", "cost": 206200000000, "value": "1.51" },
+        { "level": 18, "timeMinutes": 32432, "timeDisplay": "22d 12h 32m", "cost": 255960000000, "value": "1.54" },
+        { "level": 19, "timeMinutes": 38166, "timeDisplay": "26d 12h 6m", "cost": 314450000000, "value": "1.57" },
+        { "level": 20, "timeMinutes": 44680, "timeDisplay": "31d 0h 40m", "cost": 382600000000, "value": "1.60" },
+        { "level": 21, "timeMinutes": 52039, "timeDisplay": "36d 3h 19m", "cost": 461420000000, "value": "1.63" },
+        { "level": 22, "timeMinutes": 60312, "timeDisplay": "41d 21h 12m", "cost": 551940000000, "value": "1.66" },
+        { "level": 23, "timeMinutes": 69447, "timeDisplay": "48d 7h 27m", "cost": 655210000000, "value": "1.69" },
+        { "level": 24, "timeMinutes": 79876, "timeDisplay": "55d 11h 16m", "cost": 772370000000, "value": "1.72" },
+        { "level": 25, "timeMinutes": 91250, "timeDisplay": "63d 9h 50m", "cost": 904560000000, "value": "1.75" },
+        { "level": 26, "timeMinutes": 104425, "timeDisplay": "72d 4h 25m", "cost": 1050000000000, "value": "1.78" },
+        { "level": 27, "timeMinutes": 117857, "timeDisplay": "81d 20h 17m", "cost": 1220000000000, "value": "1.81" },
+        { "level": 28, "timeMinutes": 133841, "timeDisplay": "92d 10h 41m", "cost": 1400000000000, "value": "1.84" },
+        { "level": 29, "timeMinutes": 149818, "timeDisplay": "104d 0h 58m", "cost": 1610000000000, "value": "1.87" },
+        { "level": 30, "timeMinutes": 168028, "timeDisplay": "116d 16h 28m", "cost": 1830000000000, "value": "1.90" }
+      ]
+    },
+    {
+      "id": "energy-shield",
+      "name": "Energy Shield",
+      "maxLevel": 2,
+      "unlock": "Unlock Energy Shield Extra Hit [[Lab Upgrades|lab]] in [[Milestones]] at tier 4 wave 300. The extra hits create new charges. Energy Shield recharges one charge at a time. When 2 or more charges have been lost, you will have to wait until the previous charge is back up before the other charges can begin recharging. When a charge is ready, it will be active even if other charges are still charging. Has 2 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 40000000000,
+          "timeMinutes": 16666,
+          "timeDisplay": "11d 13h 46m",
+          "value": "1"
+        },
+        {
+          "level": 2,
+          "cost": 850000000000,
+          "timeMinutes": 46666,
+          "timeDisplay": "32d 9h 46m",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "recharge-demon-mode",
+      "name": "Recharge Demon Mode",
+      "maxLevel": 7,
+      "unlock": "Unlock [[Lab Upgrades|Lab]] in [[Milestones]] at tier 14 wave 60. Allows Demon Mode to recharge a number of waves after activating. Has 7 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 550000000000,
+          "timeMinutes": 7499,
+          "timeDisplay": "5d 4h 59m",
+          "value": "1,500"
+        },
+        {
+          "level": 2,
+          "cost": 1050000000000,
+          "timeMinutes": 9501,
+          "timeDisplay": "6d 14h 21m",
+          "value": "1,250"
+        },
+        {
+          "level": 3,
+          "cost": 1550000000000,
+          "timeMinutes": 11575,
+          "timeDisplay": "8d 54m 39s",
+          "value": "1,000"
+        },
+        {
+          "level": 4,
+          "cost": 2050000000000,
+          "timeMinutes": 14350,
+          "timeDisplay": "9d 23h 10m",
+          "value": "750"
+        },
+        {
+          "level": 5,
+          "cost": 2560000000000,
+          "timeMinutes": 20278,
+          "timeDisplay": "14d 1h 58m",
+          "value": "550"
+        },
+        {
+          "level": 6,
+          "cost": 3070000000000,
+          "timeMinutes": 35729,
+          "timeDisplay": "24d 19h 29m",
+          "value": "400"
+        },
+        {
+          "level": 7,
+          "cost": 3600000000000,
+          "timeMinutes": 73931,
+          "timeDisplay": "51d 8h 11m",
+          "value": "300"
+        }
+      ]
+    },
+    {
+      "id": "recharge-nuke",
+      "name": "Recharge Nuke",
+      "maxLevel": 7,
+      "unlock": "Unlock [[Lab Upgrades|Lab]] in [[Milestones]] at tier 14 wave 60. Nuke will recharge after a number of waves. Has 7 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 550000000000,
+          "timeMinutes": 7499,
+          "timeDisplay": "5d 4h 59m",
+          "value": "1,500"
+        },
+        {
+          "level": 2,
+          "cost": 1050000000000,
+          "timeMinutes": 9501,
+          "timeDisplay": "6d 14h 21m",
+          "value": "1,250"
+        },
+        {
+          "level": 3,
+          "cost": 1550000000000,
+          "timeMinutes": 11575,
+          "timeDisplay": "8d 54m 39s",
+          "value": "1,000"
+        },
+        {
+          "level": 4,
+          "cost": 2050000000000,
+          "timeMinutes": 14350,
+          "timeDisplay": "9d 23h 10m",
+          "value": "750"
+        },
+        {
+          "level": 5,
+          "cost": 2560000000000,
+          "timeMinutes": 20278,
+          "timeDisplay": "14d 1h 58m",
+          "value": "550"
+        },
+        {
+          "level": 6,
+          "cost": 3070000000000,
+          "timeMinutes": 35729,
+          "timeDisplay": "24d 19h 29m",
+          "value": "400"
+        },
+        {
+          "level": 7,
+          "cost": 3600000000000,
+          "timeMinutes": 73931,
+          "timeDisplay": "51d 8h 11m",
+          "value": "300"
+        }
+      ]
+    },
+    {
+      "id": "recharge-second-wind",
+      "name": "Recharge Second Wind",
+      "maxLevel": 7,
+      "unlock": "Unlock [[Lab Upgrades|Lab]] in [[Milestones]] at tier 14 wave 60. Allows Second Wind to recharge a number of waves after activating. Has 7 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 550000000000,
+          "timeMinutes": 7499,
+          "timeDisplay": "5d 4h 59m",
+          "value": "2,000"
+        },
+        {
+          "level": 2,
+          "cost": 1050000000000,
+          "timeMinutes": 9501,
+          "timeDisplay": "6d 14h 21m",
+          "value": "1,500"
+        },
+        {
+          "level": 3,
+          "cost": 1550000000000,
+          "timeMinutes": 11575,
+          "timeDisplay": "8d 54m 39s",
+          "value": "1,250"
+        },
+        {
+          "level": 4,
+          "cost": 2050000000000,
+          "timeMinutes": 14350,
+          "timeDisplay": "9d 23h 10m",
+          "value": "1,000"
+        },
+        {
+          "level": 5,
+          "cost": 2560000000000,
+          "timeMinutes": 20278,
+          "timeDisplay": "14d 1h 58m",
+          "value": "750"
+        },
+        {
+          "level": 6,
+          "cost": 3070000000000,
+          "timeMinutes": 35729,
+          "timeDisplay": "24d 19h 29m",
+          "value": "550"
+        },
+        {
+          "level": 7,
+          "cost": 3600000000000,
+          "timeMinutes": 73931,
+          "timeDisplay": "51d 8h 11m",
+          "value": "400"
+        }
+      ]
+    },
+    {
+      "id": "second-wind-blast",
+      "name": "Second Wind Blast",
+      "maxLevel": 4,
+      "unlock": "Unlock [[Lab Upgrades|lab]] in [[Milestones]] at tier 3 wave 150. Second Wind Blast clears a percent of spawned enemies after second wind triggers. Has 4 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1800000,
+          "timeMinutes": 1666,
+          "timeDisplay": "1d 3h 46m",
+          "value": "25%"
+        },
+        {
+          "level": 2,
+          "cost": 3000000,
+          "timeMinutes": 2499,
+          "timeDisplay": "1d 17h 39m",
+          "value": "50%"
+        },
+        {
+          "level": 3,
+          "cost": 4500000,
+          "timeMinutes": 3333,
+          "timeDisplay": "2d 7h 33m",
+          "value": "75%"
+        },
+        {
+          "level": 4,
+          "cost": 75000000,
+          "timeMinutes": 4999,
+          "timeDisplay": "3d 11h 19m",
+          "value": "100%"
+        }
+      ]
+    },
+    {
+      "id": "extra-extra-orbs",
+      "name": "Extra Extra Orbs",
+      "maxLevel": 2,
+      "unlock": "unlocks in [[Milestones]] at tier 6 wave 80. Increases the number of orbs when the Extra Orb card is equipped. There are 2 levels.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 25000000,
+          "timeMinutes": 2333,
+          "timeDisplay": "1d 14h 53m",
+          "value": "+1"
+        },
+        {
+          "level": 2,
+          "cost": 900000000,
+          "timeMinutes": 8333,
+          "timeDisplay": "5d 18h 53m",
+          "value": "+2"
+        }
+      ]
+    },
+    {
+      "id": "extra-orb-adjuster",
+      "name": "Extra Orb Adjuster",
+      "maxLevel": 1,
+      "unlock": "unlocks in milestones at tier 6 wave 50. Allows Orbs from the extra orb card to have their range adjusted during rounds. Orbs can be adjusted between a minimum of '''60m''' ''or'' '''1x tower range''' (whichever is lower) and a maximum of '''1.3x tower range'''. The orb adjuster does not work while a boss is alive.",
+      "levels": [
+        {
+          "level": 1,
+          "cost": 1500000,
+          "timeMinutes": 2999,
+          "timeDisplay": "2d 1h 59m",
+          "value": "Unlocked"
+        }
+      ]
+    }
+  ]
+}
